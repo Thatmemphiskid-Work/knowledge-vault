@@ -1,0 +1,4 @@
+[
+  {"asset": "approved-dns-server", "vendor": "ISC", "product": "BIND", "version": "record deployed package version here"},
+  {"asset": "approved-app-server", "vendor": "Apache", "product": "Struts", "version": "record deployed artifact version here"}
+]

@@ -1,0 +1,190 @@
+# Hacking For Dummies, 3rd Edition
+
+Local source: [Hacking For Dummies, 3rd Edition.pdf](../../hacking-main/Hacking For Dummies, 3rd Edition.pdf)
+
+Pages: 411. SHA-256: `e90afc7557501c92b3428a3aa9b294b51bd0bf319e6312e4dbec6da66ac545e1`.
+Extracted text is searchable in the app with exact PDF page references.
+13 pages have fewer than 40 extracted characters; scans, diagrams and tables may require visual review. No OCR was performed.
+Books are background references, not current affected-version authorities. Do not infer a CVE test from a book keyword match.
+
+## Embedded table of contents
+- Hacking For Dummies®, 3rd Edition — PDF page 3
+- Contents at a Glance — PDF page 9
+- Table of Contents — PDF page 11
+- Introduction — PDF page 25
+- Part I: Building the Foundation for Ethical Hacking — PDF page 31
+- Chapter 1: Introduction to Ethical Hacking — PDF page 33
+- Straightening Out the Terminology — PDF page 33
+- Recognizing How Malicious Attackers Beget Ethical Hackers — PDF page 35
+- Understanding the Need to Hack Your Own Systems — PDF page 37
+- Understanding the Dangers Your Systems Face — PDF page 38
+- Obeying the Ethical Hacking Commandments — PDF page 40
+- Using the Ethical Hacking Process — PDF page 41
+- Chapter 2: Cracking the Hacker Mindset — PDF page 49
+- What You’re Up Against — PDF page 49
+- Who Breaks into Computer Systems — PDF page 51
+- Why They Do It — PDF page 53
+- Planning and Performing Attacks — PDF page 56
+- Maintaining Anonymity — PDF page 58
+- Chapter 3: Developing Your Ethical Hacking Plan — PDF page 59
+- Establishing Your Goals — PDF page 60
+- Determining Which Systems to Hack — PDF page 61
+- Creating Testing Standards — PDF page 64
+- Selecting Security Assessment Tools — PDF page 68
+- Chapter 4: Hacking Methodology — PDF page 69
+- Setting the Stage for Testing — PDF page 69
+- Seeing What Others See — PDF page 71
+- Scanning Systems — PDF page 76
+- Determining What’s Running on Open Ports — PDF page 77
+- Assessing Vulnerabilities — PDF page 79
+- Penetrating the System — PDF page 81
+- Part II: Putting Ethical Hacking in Motion — PDF page 83
+- Chapter 5: Social Engineering — PDF page 85
+- Social Engineering 101 — PDF page 85
+- Before You Start — PDF page 86
+- Why Attackers Use Social Engineering — PDF page 88
+- Understanding the Implications — PDF page 89
+- Performing Social Engineering Attacks — PDF page 90
+- Social Engineering Countermeasures — PDF page 96
+- Chapter 6: Physical Security — PDF page 99
+- Physical Security Vulnerabilities — PDF page 100
+- What to Look For — PDF page 102
+- Chapter 7: Passwords — PDF page 109
+- Password Vulnerabilities — PDF page 110
+- Cracking Passwords — PDF page 113
+- General Password-Cracking Countermeasures — PDF page 133
+- Securing Operating Systems — PDF page 137
+- Part III: Hacking the Network — PDF page 139
+- Chapter 8: Network Infrastructure — PDF page 141
+- Network Infrastructure Vulnerabilities — PDF page 143
+- Choosing Tools — PDF page 144
+- Scanning, Poking, and Prodding — PDF page 145
+- Common Router, Switch, and Firewall Weaknesses — PDF page 171
+- General Network Defenses — PDF page 173
+- Chapter 9: Wireless LANs — PDF page 175
+- Understanding the Implications of Wireless Network Vulnerabilities — PDF page 176
+- Choosing Your Tools — PDF page 178
+- Wireless LAN Discovery — PDF page 180
+- Wireless Network Attacks and Countermeasures — PDF page 182
+- Part IV: Hacking Operating Systems — PDF page 203
+- Chapter 10: Windows — PDF page 205
+- Windows Vulnerabilities — PDF page 206
+- Choosing Tools — PDF page 207
+- Information Gathering — PDF page 209
+- Null Sessions — PDF page 214
+- Share Permissions — PDF page 220
+- Missing Patch Exploitation — PDF page 222
+- Authenticated Scans — PDF page 229
+- Chapter 11: Linux — PDF page 231
+- Linux Vulnerabilities — PDF page 232
+- Choosing Tools — PDF page 232
+- Information Gathering — PDF page 233
+- Unneeded and Unsecured Services — PDF page 237
+- .rhosts and hosts.equiv Files — PDF page 242
+- NFS — PDF page 244
+- File Permissions — PDF page 245
+- Buffer Overflows — PDF page 247
+- Physical Security — PDF page 248
+- General Security Tests — PDF page 249
+- Patching Linux — PDF page 250
+- Chapter 12: Novell NetWare — PDF page 253
+- NetWare Vulnerabilities — PDF page 253
+- Choosing Tools — PDF page 254
+- Getting Started — PDF page 254
+- Authentication — PDF page 257
+- Solid Practices for Minimizing NetWare Security Risks — PDF page 267
+- Part V: Hacking Applications — PDF page 271
+- Chapter 13:Communication and Messaging Systems — PDF page 273
+- Messaging System Vulnerabilities — PDF page 273
+- E-Mail Attacks — PDF page 276
+- Instant Messaging — PDF page 291
+- Voice over IP — PDF page 294
+- Chapter 14: Web Sites and Applications — PDF page 301
+- Choosing Your Web Application Tools — PDF page 302
+- Web Vulnerabilities — PDF page 304
+- Best Practices for Minimizing Web Security Risks — PDF page 322
+- Chapter 15: Databases and Storage Systems — PDF page 327
+- Databases — PDF page 327
+- Best Practices for Minimizing Database Security Risks — PDF page 332
+- Storage Systems — PDF page 333
+- Best Practices for Minimizing Storage Security Risks — PDF page 337
+- Part VI: Ethical Hacking Aftermath — PDF page 339
+- Chapter 16: Reporting Your Results — PDF page 341
+- Pulling the Results Together — PDF page 341
+- Prioritizing Vulnerabilities — PDF page 343
+- Reporting Methods — PDF page 344
+- Chapter 17: Plugging Security Holes — PDF page 347
+- Turning Your Reports into Action — PDF page 347
+- Patching for Perfection — PDF page 348
+- Hardening Your Systems — PDF page 350
+- Assessing Your Security Infrastructure — PDF page 351
+- Chapter 18: Managing Security Changes — PDF page 353
+- Automating the Ethical Hacking Process — PDF page 353
+- Monitoring Malicious Use — PDF page 354
+- Outsourcing Ethical Hacking — PDF page 356
+- Instilling a Security-Aware Mindset — PDF page 357
+- Keeping Up with Other Security Issues — PDF page 358
+- Part VII: The Part of Tens — PDF page 359
+- Chapter 19: Ten Tips for Getting Upper Management Buy-In — PDF page 361
+- Cultivate an Ally and Sponsor — PDF page 361
+- Don’t Be a FUDdy Duddy — PDF page 361
+- Demonstrate How the Organization Can’t Afford to Be Hacked — PDF page 362
+- Outline the General Benefits of Ethical Hacking — PDF page 363
+- Show How Ethical Hacking Specifically Helps the Organization — PDF page 363
+- Get Involved in the Business — PDF page 363
+- Establish Your Credibility — PDF page 364
+- Speak on Management’s Level — PDF page 364
+- Show Value in Your Efforts — PDF page 364
+- Be Flexible and Adaptable — PDF page 365
+- Chapter 20: Ten Reasons Hacking Is the Only Effective Way to Test — PDF page 367
+- The Bad Guys Are Thinking Bad Thoughts, Using Good Tools, and Developing New Attack Methods — PDF page 367
+- IT Governance and Compliance Is More Than High-Level Checklist Audits — PDF page 367
+- Ethical Hacking Complements Audits and Security Evaluations — PDF page 368
+- Someone’s Going to Ask How Secure Your Systems Are — PDF page 368
+- The Law of Averages Is Working Against Businesses — PDF page 368
+- Ethical Hacking Creates a Better Understanding of What the Business Is Up Against — PDF page 368
+- If a Breach Occurs, You Have Something to Fall Back On — PDF page 369
+- Ethical Hacking Brings Out the Worst in Your Systems — PDF page 369
+- Ethical Hacking Combines the Best ofP enetration Testing and VulnerabilityTesting — PDF page 369
+- Ethical Hacking Can Uncover Operational Weaknesses That Might Go Overlooked For Years — PDF page 369
+- Chapter 21: Ten Deadly Mistakes — PDF page 371
+- Not Getting Prior Approval in Writing — PDF page 371
+- Assuming That You Can Find All Vulnerabilities during Your Tests — PDF page 371
+- Assuming That You Can Eliminate All Security Vulnerabilities — PDF page 372
+- Performing Tests Only Once — PDF page 372
+- Thinking That You Know It All — PDF page 372
+- Running Your Tests without Looking at Things from a Hacker’s Viewpoint — PDF page 373
+- Not Testing the Right Systems — PDF page 373
+- Not Using the Right Tools — PDF page 373
+- Pounding Production Systems at the Wrong Time — PDF page 373
+- Outsourcing Testing and Not Staying Involved — PDF page 374
+- Appendix: Tools and Resources — PDF page 375
+- Bluetooth — PDF page 375
+- Certifications — PDF page 376
+- Databases — PDF page 376
+- Exploit Tools — PDF page 376
+- General Research Tools — PDF page 377
+- Hacker Stuff — PDF page 378
+- Keyloggers — PDF page 378
+- Laws and Regulations — PDF page 378
+- Linux — PDF page 379
+- Live Toolkits — PDF page 379
+- Log Analysis — PDF page 379
+- Messaging — PDF page 379
+- Miscellaneous Tools — PDF page 380
+- NetWare — PDF page 380
+- Networks — PDF page 380
+- Password Cracking — PDF page 382
+- Patch Management — PDF page 383
+- Security Education and Learning Resources — PDF page 384
+- Security Methods and Models — PDF page 384
+- Source Code Analysis — PDF page 385
+- Storage — PDF page 385
+- System Hardening — PDF page 385
+- User Awareness and Training — PDF page 386
+- Voice over IP — PDF page 386
+- Vulnerability Databases — PDF page 387
+- Web Applications — PDF page 387
+- Windows — PDF page 388
+- Wireless Networks — PDF page 389
+- Index — PDF page 391

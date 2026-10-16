@@ -1,0 +1,3 @@
+# Smartbedded
+
+- [[CVE-2025-4008]]

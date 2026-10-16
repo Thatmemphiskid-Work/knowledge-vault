@@ -1,0 +1,56 @@
+# Exfiltration training
+
+Validate data-loss policy and egress evidence with synthetic metadata or a small explicitly approved inert transfer, never real sensitive data or stealth channels.
+
+## Exfiltration workflow
+
+Defensive analyst training and harmless validation, not an attack execution manual. Use owner-provisioned identities, inert files and approved lab endpoints. Never collect real credentials or private communications. No snapshot/reset dependency. Commands are reference text and are not executed by the app.
+
+Validate data-loss policy and egress evidence with synthetic metadata or a small explicitly approved inert transfer, never real sensitive data or stealth channels.
+
+### Verify
+
+1. Name source classification, approved destination, identity and expected data-loss policy. Choose instructor-owned inert text or synthetic transfer records only.
+2. Prefer an offline policy/query fixture. If the owner separately approves an actual transfer, fix the destination, small size and ordinary supported protocol; do not split, hide or tunnel data.
+3. Record source/destination audit, policy decision, alert/ticket and confirmed denial/containment. Do not equate a dashboard alert with prevention of transfer.
+
+### Fix / prevent
+
+1. Restrict excessive export/sharing and unapproved destinations; enforce supported classification and data-loss controls.
+2. Repair policy and telemetry gaps across cloud, endpoint and physical transfer paths with accountable owners.
+
+### Retest
+
+1. Repeat the same inert policy fixture or separately approved transfer and verify actual allow/deny outcome plus expected alert.
+2. Confirm authorized sharing works and document blind spots and privacy limits.
+
+### Detection evidence
+
+1. Join file/object access and export/egress evidence with identity, classification and destination. Small or scheduled transfers are not guaranteed to evade controls; test timing with synthetic logs rather than operational stealth.
+
+### Decision branches
+
+- **If Evidence or authority is incomplete:** Mark not tested or a coverage gap; do not invent a result.
+- **If Expected deny/control fails:** Record the exact boundary and escalate to its owner; do not expand access.
+- **If Expected collection/alert/containment is missing:** Locate the failed milestone using Analyst Training outcome branches and repeat after repair.
+
+
+
+## Hands-on labs
+
+- [[training-lab-authorization-matrix|Test synthetic-account authorization, logout and containment]]
+- [[training-lab-pipeline-fixtures|Runnable offline telemetry-gap and policy-decision exercise]]
+
+## Topics
+
+- [[training-exfiltration-01|Automated Exfiltration]]
+- [[training-exfiltration-02|Data Transfer Size Limits]]
+- [[training-exfiltration-03|Exfiltration Over Alternative Protocol]]
+- [[training-exfiltration-04|Exfiltration Over Cloud Service]]
+- [[training-exfiltration-05|Exfiltration Over Command and Control Channel]]
+- [[training-exfiltration-06|Exfiltration Over Other Network Medium]]
+- [[training-exfiltration-07|Exfiltration Over Physical Medium]]
+- [[training-exfiltration-08|Exfiltration Over Web Service]]
+- [[training-exfiltration-09|Scheduled Transfer]]
+
+[[Analyst Training]]

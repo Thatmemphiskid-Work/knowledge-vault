@@ -1,0 +1,27 @@
+# Local agent artifacts (not vault content)
+/.amp/in/
+
+# Keep source books local, never upload PDFs
+*.[pP][dD][fF]
+
+# Python and test caches; retain the portable runtime itself
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Per-device Obsidian window state; retain shared vault configuration
+/Assessment Vault/.obsidian/workspace.json
+/Assessment Vault/.obsidian/workspace-mobile.json
+/Assessment Vault/.obsidian/cache/
+/Assessment Vault/.trash/
+
+# Local secrets and collected inventory; keep the checked-in example
+.env
+.env.*
+!.env.example
+/assessment/inventory.json
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,10 @@
+[
+  {"case":"A","scenario":"Synthetic unauthorized grant: expected detection and containment","sourcePresent":true,"collected":true,"expectedAlert":true,"alerted":true,"expectedContainment":true,"contained":true},
+  {"case":"B","scenario":"Synthetic security-posture change: source visibility unavailable","sourcePresent":false,"collected":false,"expectedAlert":true,"alerted":false,"expectedContainment":false,"contained":false},
+  {"case":"C","scenario":"Synthetic unapproved remote-tool event: forwarding failed","sourcePresent":true,"collected":false,"expectedAlert":true,"alerted":false,"expectedContainment":false,"contained":false},
+  {"case":"D","scenario":"Synthetic unexpected credential-store access: rule missed","sourcePresent":true,"collected":true,"expectedAlert":true,"alerted":false,"expectedContainment":false,"contained":false},
+  {"case":"E","scenario":"Synthetic unauthorized session: alert without access denial","sourcePresent":true,"collected":true,"expectedAlert":true,"alerted":true,"expectedContainment":true,"contained":false},
+  {"case":"F","scenario":"Ordinary approved read: collection expected, alert not expected","sourcePresent":true,"collected":true,"expectedAlert":false,"alerted":false,"expectedContainment":false,"contained":false},
+  {"case":"G","scenario":"Ordinary approved marker execution: unintended alert","sourcePresent":true,"collected":true,"expectedAlert":false,"alerted":true,"expectedContainment":false,"contained":false},
+  {"case":"H","scenario":"Synthetic cumulative transfer policy: aggregation not evaluated","transferBytes":[600,600,600,600],"policyThresholdBytes":2000,"sourcePresent":true,"collected":true,"expectedAlert":true,"alerted":false,"expectedContainment":false,"contained":false}
+]

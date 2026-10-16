@@ -1,0 +1,1059 @@
+# Cyber_Operations_Building,_Defending,_and_Attacking_Modern_Computer
+
+Local source: [Cyber_Operations_Building,_Defending,_and_Attacking_Modern_Computer.pdf](../../hacking-main/Cyber_Operations_Building,_Defending,_and_Attacking_Modern_Computer.pdf)
+
+Pages: 1151. SHA-256: `84586a9b1c336ba86b30c08ac2498ccff3a8f80132ed7136b0a1e87e32e771f1`.
+Extracted text is searchable in the app with exact PDF page references.
+0 pages have fewer than 40 extracted characters; scans, diagrams and tables may require visual review. No OCR was performed.
+Books are background references, not current affected-version authorities. Do not infer a CVE test from a book keyword match.
+
+## Embedded table of contents
+- Table of Contents — PDF page 5
+- About the Author — PDF page 21
+- About the Technical Reviewer — PDF page 22
+- Acknowledgments — PDF page 23
+- Introduction — PDF page 24
+- Chapter 1: System Setup — PDF page 29
+- Introduction — PDF page 29
+- Virtualization Tools — PDF page 29
+- VMWare Workstation — PDF page 30
+- Installing a VMWare Guest — PDF page 30
+- Managing VMWare Guests — PDF page 31
+- Networking in VMWare — PDF page 32
+- VMWare Tools — PDF page 33
+- VirtualBox — PDF page 34
+- Installing a VirtualBox Guest — PDF page 34
+- Managing VirtualBox Guests — PDF page 35
+- Networking in VirtualBox — PDF page 37
+- VirtualBox Guest Additions — PDF page 38
+- Building Linux Systems — PDF page 39
+- Networking — PDF page 39
+- Networking in CentOS — PDF page 39
+- SELinux on CentOS — PDF page 42
+- Networking in OpenSuSE — PDF page 42
+- Networking in Ubuntu — PDF page 44
+- Networking in Mint — PDF page 46
+- Networking in Kali — PDF page 46
+- Configuring Software Repositories — PDF page 46
+- Configuring yum in CentOS — PDF page 47
+- Configuring zypper in OpenSuSE — PDF page 49
+- Configuring apt in Ubuntu — PDF page 50
+- Configuring apt in Mint — PDF page 52
+- Configuring apt in Kali — PDF page 52
+- Services — PDF page 52
+- Virtualization Support — PDF page 53
+- VMWare Tools — PDF page 53
+- VirtualBox Guest Additions — PDF page 53
+- Installing VirtualBox Guest Additions on CentOS — PDF page 54
+- Installing VirtualBox Guest Additions on OpenSuSE — PDF page 54
+- Installing VirtualBox Guest Additions on Ubuntu, Mint, and Kali — PDF page 55
+- Browser Software — PDF page 56
+- Installing Java on CentOS — PDF page 56
+- Installing Adobe Flash Player on CentOS — PDF page 58
+- Installing Java on OpenSuSE — PDF page 59
+- Installing Adobe Flash Player on OpenSuSE — PDF page 60
+- Installing Java on Ubuntu — PDF page 61
+- Installing Adobe Flash Player on Ubuntu — PDF page 62
+- Installing Java and Adobe Flash Player on Mint — PDF page 63
+- Building Windows Systems — PDF page 64
+- Installation — PDF page 65
+- Configuring Windows Update — PDF page 66
+- Configuring Windows Defender — PDF page 67
+- Virtualization Support — PDF page 68
+- Networking on Windows — PDF page 68
+- Browsers on Windows — PDF page 71
+- Notes and References — PDF page 73
+- Virtualization Tools — PDF page 74
+- Building Linux Systems — PDF page 74
+- Building Windows Systems — PDF page 75
+- Chapter 2: Basic Offense — PDF page 78
+- Introduction — PDF page 78
+- Ethics — PDF page 78
+- Metasploit — PDF page 79
+- Vulnerabilities — PDF page 79
+- Metasploit: EternalBlue — PDF page 80
+- Attack: EternalBlue on Windows 7 SP1 — PDF page 80
+- Configuring the Metasploit Internal Database — PDF page 80
+- Launching Metasploit — PDF page 81
+- Selecting the Exploit — PDF page 81
+- Setting Options — PDF page 83
+- Choosing the Payload — PDF page 83
+- Launching the Exploit — PDF page 86
+- Interacting with Meterpreter — PDF page 87
+- Metasploit Sessions — PDF page 88
+- Exiting Metasploit — PDF page 89
+- Metasploit: Attacking the Browser — PDF page 89
+- Metasploit Modules for Internet Explorer — PDF page 89
+- Attack: MS13-055 CAnchorElement — PDF page 92
+- Starting the Exploit — PDF page 92
+- Configuring the Exploit — PDF page 94
+- Choosing the Payload — PDF page 94
+- Launching the Exploit as a Background Job — PDF page 96
+- Interacting with the Shell — PDF page 96
+- Metasploit Modules for Firefox — PDF page 98
+- Attack: Firefox Proxy Prototype Privileged Javascript Injection — PDF page 99
+- Configuring the Exploit — PDF page 100
+- Configuring the Payload — PDF page 101
+- Launching the Exploit as a Background Job — PDF page 102
+- Interacting with the Shell — PDF page 103
+- Metasploit: Attacking Flash — PDF page 104
+- Metasploit Modules for Adobe Flash Player — PDF page 104
+- Attack: Adobe Flash Player UncompressViaZlibVariant Uninitialized Memory — PDF page 109
+- Configuring the Exploit — PDF page 109
+- Configuring the Payload — PDF page 110
+- Launching the Exploit as a Background Job — PDF page 111
+- Interacting with the Shell — PDF page 112
+- Metasploit: Attacking Java — PDF page 113
+- Metasploit Modules for Java — PDF page 113
+- Attack: Java JAX-WS Remote Code Execution — PDF page 115
+- Configuring the Exploit — PDF page 115
+- Configuring the Payload — PDF page 117
+- Launching the Exploit as a Background Job — PDF page 118
+- Interacting with the Shell — PDF page 119
+- Attack: Java Applet ProviderSkeleton Insecure Invoke Method — PDF page 120
+- Configuring the Exploit and Payload — PDF page 120
+- Java Security Settings — PDF page 121
+- Malware — PDF page 123
+- Malware Attack: Windows Executable — PDF page 123
+- Configuring the Malware — PDF page 123
+- Generating the Malware — PDF page 124
+- Handlers — PDF page 125
+- Launching the Exploit as a Background Job — PDF page 126
+- The to_handler Command — PDF page 126
+- Interacting with the Shell — PDF page 126
+- Malware Attack: Linux ELF — PDF page 127
+- Metasploit and Meterpreter Commands — PDF page 128
+- Metasploit — PDF page 128
+- Help — PDF page 128
+- Managing Sessions — PDF page 129
+- Managing Jobs — PDF page 130
+- Commands — PDF page 130
+- Meterpreter — PDF page 131
+- Networking — PDF page 131
+- Screenshots, Cameras, and Microphones — PDF page 133
+- File System — PDF page 133
+- Processes — PDF page 134
+- Migrating Processes — PDF page 136
+- Creating Additional Sessions — PDF page 138
+- Target Architecture — PDF page 140
+- Channels — PDF page 140
+- Executing Commands in Multiple Sessions — PDF page 142
+- Armitage — PDF page 142
+- Notes and References — PDF page 144
+- References — PDF page 146
+- Chapter 3: Operational Awareness — PDF page 148
+- Introduction — PDF page 148
+- Linux Tools — PDF page 148
+- Determining Users Logged On to the System — PDF page 148
+- Who — PDF page 148
+- W — PDF page 149
+- Last — PDF page 149
+- Aureport — PDF page 150
+- Determining User Activity — PDF page 151
+- History — PDF page 151
+- GNU Accounting Tools — PDF page 151
+- Determining the State of the System — PDF page 153
+- Top — PDF page 153
+- Ps — PDF page 154
+- Netstat — PDF page 154
+- Lsof — PDF page 155
+- The /proc Directory — PDF page 157
+- Detect: Java JAX-WS Remote Code Execution — PDF page 158
+- Detect: Firefox XCS Code Execution — PDF page 164
+- Windows Tools — PDF page 168
+- Determining Users Logged On to the System — PDF page 168
+- PsLoggedon — PDF page 168
+- Wmic Query to Determine Logged-On Users — PDF page 169
+- LogonSessions — PDF page 169
+- Determining the State of the System — PDF page 171
+- Tasklist — PDF page 171
+- Sc — PDF page 172
+- Task Manager — PDF page 173
+- Process Explorer — PDF page 174
+- Process Monitor — PDF page 176
+- Netstat — PDF page 176
+- TCPView — PDF page 177
+- Detect: MS13-055 CAnchorElement — PDF page 178
+- Detect: Adobe Flash Player Shader Buffer Overflow — PDF page 181
+- Network Tools — PDF page 184
+- Tcpdump — PDF page 184
+- Wireshark — PDF page 184
+- Detect: Java JAX-WS Remote Code Execution — PDF page 187
+- Notes and References — PDF page 190
+- Chapter 4: DNS and BIND — PDF page 192
+- Introduction — PDF page 192
+- Namespaces — PDF page 192
+- Installing BIND — PDF page 193
+- Configuring BIND — PDF page 195
+- Building a Master — PDF page 195
+- named.conf — PDF page 196
+- Forward Zone — PDF page 197
+- Reverse Zone — PDF page 200
+- Scripting — PDF page 201
+- Loopbacks — PDF page 202
+- Root Hints — PDF page 204
+- Controlling the Nameserver — PDF page 204
+- Starting BIND on Linux — PDF page 205
+- Starting BIND on Windows — PDF page 208
+- Completing the Installation — PDF page 210
+- Building a Slave — PDF page 211
+- Querying DNS — PDF page 214
+- Nslookup — PDF page 214
+- Dig — PDF page 216
+- Dig: Host Name Query — PDF page 216
+- Dig: Address Query — PDF page 217
+- Dig: Response Fields — PDF page 217
+- Dig: Any Query — PDF page 218
+- Dig: Specifying the Server — PDF page 219
+- Dig: Version Query — PDF page 220
+- Dig: Zone Transfers — PDF page 220
+- Advanced Configuration — PDF page 221
+- Controlling Zone Transfers — PDF page 221
+- Rndc: Updating Configuration — PDF page 222
+- Rndc: Updating Zone Data — PDF page 222
+- Rndc: Server Control and Statistics — PDF page 223
+- Rndc: Logging DNS Queries — PDF page 224
+- BIND Version Reporting — PDF page 225
+- Forwarders — PDF page 226
+- Attacking BIND — PDF page 228
+- Denial of Service Attacks Against BIND — PDF page 228
+- Example: TKEY CVE 2015-5477 — PDF page 228
+- Example: Buffer.c CVE 2016-2776 — PDF page 231
+- Recursion and DNS Amplification Attacks — PDF page 232
+- Notes and References — PDF page 235
+- Chapter 5: Scanning the Network — PDF page 239
+- Introduction — PDF page 239
+- NMap — PDF page 239
+- NMap: Basic Usage — PDF page 239
+- NMap: Ping Scans — PDF page 241
+- NMap: Determining if the Host Is Alive — PDF page 242
+- NMap: List Scans — PDF page 243
+- NMap: Stealth Scans — PDF page 244
+- NMap: Connect Scans — PDF page 246
+- NMap: UDP Scans — PDF page 246
+- NMap: Scan Options — PDF page 247
+- NMap: Operating System Detection — PDF page 247
+- NMap: Version Detection — PDF page 250
+- NMap: Scripts — PDF page 250
+- Zenmap — PDF page 252
+- Network Scanning and Metasploit — PDF page 253
+- Metasploit Database — PDF page 254
+- Metasploit Scanning Modules — PDF page 256
+- Custom Metasploit Modules — PDF page 258
+- Notes and References — PDF page 260
+- Chapter 6: Active Directory — PDF page 261
+- Introduction — PDF page 261
+- Installation — PDF page 261
+- Installation on Windows Server 2012 and Later — PDF page 261
+- Installation on Windows Server 2008 R2 — PDF page 265
+- Windows DNS — PDF page 266
+- Scripting Windows DNS — PDF page 268
+- DNS Configuration — PDF page 270
+- Conditional Forwarding and Server Forwarding — PDF page 270
+- Recursion — PDF page 271
+- DNS Logging — PDF page 272
+- Zone Properties — PDF page 274
+- Stub Zones and Slave Zones — PDF page 274
+- Managing a Windows Domain — PDF page 276
+- Adding Systems — PDF page 276
+- Adding Windows Systems to a Windows Domain — PDF page 276
+- Adding OpenSuSE Systems to a Windows Domain — PDF page 276
+- Adding Linux Systems to a Windows Domain Using PowerBroker Open — PDF page 277
+- Adding Users — PDF page 283
+- Scripting and PowerShell — PDF page 285
+- Organizing a Domain — PDF page 288
+- Groups and Delegation — PDF page 291
+- Remote Server Administration Tools — PDF page 292
+- Group Policy — PDF page 293
+- Group Policy Example: Directory Creation — PDF page 295
+- Group Policy Example: Software Restriction Policies — PDF page 296
+- Group Policy Example: Windows Defender — PDF page 298
+- Adding a Second Domain Controller — PDF page 298
+- Notes and References — PDF page 299
+- Installing Active Directory — PDF page 300
+- DNS — PDF page 300
+- Managing a Domain — PDF page 300
+- PowerShell — PDF page 301
+- Organizing a Domain — PDF page 301
+- Chapter 7: Remote Windows Management — PDF page 302
+- Introduction — PDF page 302
+- Managing Systems Remotely — PDF page 302
+- Server Message Block (SMB) — PDF page 303
+- SMB Firewall Rules — PDF page 303
+- Remote File Access — PDF page 304
+- Drive Mapping — PDF page 305
+- Managing Users and Groups — PDF page 306
+- Services — PDF page 307
+- Registry — PDF page 308
+- Remote Procedure Calls (RPC) — PDF page 309
+- RPC Firewall Rules — PDF page 309
+- Scheduled Tasks — PDF page 310
+- Event Logs — PDF page 311
+- Managing the Firewall Remotely — PDF page 311
+- Sysinternals Tools — PDF page 312
+- Psexec — PDF page 314
+- Windows Remote Management (WinRM) — PDF page 315
+- Enabling WinRM; Firewall Rules — PDF page 315
+- Winrs — PDF page 316
+- PowerShell — PDF page 317
+- Windows Management Instrumentation (WMI) — PDF page 318
+- WMI Structure — PDF page 318
+- Using WinRM to Query WMI — PDF page 321
+- Using WinRM to Enumerate WMI Data — PDF page 321
+- Windows Query Language (WQL) — PDF page 323
+- Using WinRM to Set WMI Values — PDF page 325
+- Using WinRM to Invoke WMI Methods — PDF page 326
+- Creating a WMI Namespace and Class — PDF page 328
+- WMI Events — PDF page 331
+- WQL Schema Queries — PDF page 331
+- WMI Consumer Example: USB Connections — PDF page 332
+- WMI Consumer Example: PowerShell Start or Stop — PDF page 334
+- WMI Consumer Example: User Logon/Logoff — PDF page 336
+- Using wmic to Interact with WMI — PDF page 339
+- Using wmic to Enumerate WMI Data — PDF page 340
+- Using wmic to Invoke WMI Methods — PDF page 341
+- Using PowerShell to Interact with WMI — PDF page 342
+- Using Other Languages to Interact with WMI — PDF page 345
+- Using Linux to Interact with WMI — PDF page 346
+- Windows Server Without a GUI — PDF page 347
+- Installation Without a GUI — PDF page 347
+- Adding or Removing the GUI — PDF page 348
+- Configuring a Server Without a GUI — PDF page 350
+- Managing the Firewall — PDF page 351
+- Configuring the Firewall to Allow SMB — PDF page 353
+- Configuring the Firewall to Allow RPC — PDF page 354
+- Allowing Windows Remote Management via the Command Line — PDF page 355
+- Server Manager — PDF page 356
+- Windows Server 2012 and Later — PDF page 356
+- Windows Server 2008 R2 — PDF page 357
+- Notes and References — PDF page 359
+- Useful WMI Classes — PDF page 360
+- Useful WMI Events — PDF page 367
+- Useful WMI Subscription Classes — PDF page 368
+- References — PDF page 369
+- Chapter 8: Attacking the Windows Domain — PDF page 371
+- Introduction — PDF page 371
+- Windows Reconnaissance — PDF page 371
+- Metasploit Tools — PDF page 372
+- Determining Privileges — PDF page 372
+- Determining the Domain — PDF page 373
+- Determining the Users — PDF page 374
+- Native Windows Tools — PDF page 377
+- Determining Privileges — PDF page 377
+- Determining the Domain — PDF page 378
+- Determining the Users — PDF page 379
+- Windows Local Privilege Escalation — PDF page 380
+- Bypassing UAC — PDF page 380
+- Bypassing UAC by Asking — PDF page 383
+- Bypassing UAC via Injection — PDF page 386
+- Other UAC Bypass Techniques — PDF page 388
+- Windows Privilege Escalation to SYSTEM — PDF page 388
+- Example: Windows 10-1504 and MS16-032 Secondary Logon Handle Privilege Escalation — PDF page 391
+- Example: Windows 8.1 and NtApphelpCacheControl — PDF page 393
+- Exploiting Insecure Configuration — PDF page 395
+- Always Install Elevated — PDF page 396
+- Local Administrator Password — PDF page 397
+- .dll Hijacking of IKEEXT — PDF page 400
+- Obtaining Domain Credentials — PDF page 402
+- Network Attacks — PDF page 402
+- Brute Force Attacks — PDF page 402
+- Network Hash Capturing — PDF page 405
+- LLMNR Poisoning and NBNS Poisoning — PDF page 408
+- WPAD and Responder — PDF page 411
+- Unprivileged Local Attacks — PDF page 415
+- Phishing for Credentials — PDF page 415
+- Dropping a Link — PDF page 418
+- Privileged Local Attacks — PDF page 419
+- Local Credential Gathering — PDF page 419
+- Cached Domain Credentials — PDF page 421
+- Token Impersonation and Incognito — PDF page 422
+- Mimikatz and Kiwi — PDF page 423
+- Cracking Hashes with John the Ripper — PDF page 428
+- Exploiting the Domain — PDF page 431
+- Using Credentials Locally — PDF page 431
+- Lateral Movement Across the Domain — PDF page 433
+- Windows Native Tools — PDF page 433
+- Psexec — PDF page 434
+- Wmiexec.py and smbexec.py — PDF page 436
+- Disabling Windows Defender — PDF page 437
+- Passing the Hashes — PDF page 437
+- Dumping Domain Hashes — PDF page 438
+- Local Accounts — PDF page 440
+- Notes and References — PDF page 440
+- Chapter 9: Privilege Escalation in Linux — PDF page 442
+- Introduction — PDF page 442
+- Linux Reconnaissance — PDF page 442
+- Metasploit Tools — PDF page 442
+- Native Tools — PDF page 444
+- Linux Privilege Escalation with Metasploit — PDF page 445
+- Example: Ubuntu 14.04 and Overlayfs Privilege Escalation — PDF page 445
+- Linux Direct Privilege Escalation — PDF page 448
+- Example: Ubuntu 15.04 Apport CVE-2015-1325 Local Privilege Escalation Vulnerability — PDF page 450
+- Uploading Files via a Simple Web Server — PDF page 451
+- Working with Limited Shells — PDF page 452
+- Completing the Attack — PDF page 453
+- Example: CentOS 6.3 and semtex.c — PDF page 454
+- Creating a Second Shell — PDF page 455
+- Completing the Attack — PDF page 456
+- Dirty COW — PDF page 457
+- Using Dirty COW — PDF page 458
+- Creating an Entry in /etc/passwd — PDF page 459
+- Using Dirty COW to Escalate Privileges — PDF page 461
+- Avoiding the Crash — PDF page 463
+- Linux Configuration Attacks — PDF page 464
+- cron — PDF page 464
+- System cron Jobs — PDF page 464
+- User cron Jobs — PDF page 466
+- Exploiting cron — PDF page 469
+- SUID Programs — PDF page 470
+- Example: Exploiting SUID NMap — PDF page 471
+- Linux Password Attacks — PDF page 472
+- Outline Placeholder — PDF page 472
+- Copying a File with netctat and /dev/tcp — PDF page 473
+- Cracking Linux Password Hashes with John the Ripper — PDF page 474
+- Notes and References — PDF page 474
+- Metasploit Attacks — PDF page 475
+- Dirty COW — PDF page 475
+- Chapter 10: Logging — PDF page 477
+- Introduction — PDF page 477
+- Logging in Linux — PDF page 477
+- Syslog — PDF page 478
+- Syslog Messages — PDF page 478
+- Configuring the rsyslog Daemon on CentOS 6 — PDF page 479
+- Configuring the rsyslog Daemon on Other Distributions — PDF page 481
+- Configuring the syslog Daemon — PDF page 482
+- Systemd-journald — PDF page 482
+- Reading systemd-journald Logs with journalctl — PDF page 482
+- Configuring systemd-journald — PDF page 484
+- Spoofing Log Messages — PDF page 487
+- auditd — PDF page 488
+- Creating Auditd Rules — PDF page 489
+- Pre-built Rules — PDF page 491
+- Reading the Audit Log — PDF page 491
+- ausearch — PDF page 492
+- Remote Logging — PDF page 494
+- Sending Logs with Syslog — PDF page 494
+- Receiving Logs with syslog — PDF page 495
+- Spoofing Remote Logs — PDF page 496
+- Log Rotation — PDF page 497
+- Log Rotation with systemd-journald — PDF page 498
+- Logging in Windows — PDF page 499
+- Viewing Windows Logs — PDF page 503
+- Using PowerShell to View Logs — PDF page 504
+- PsLogList — PDF page 506
+- Clearing Logs — PDF page 508
+- Creating Logs — PDF page 509
+- Auditing File Access — PDF page 509
+- Rotating Windows Logs — PDF page 512
+- Remote Windows Logs — PDF page 512
+- Remotely Viewing Logs — PDF page 513
+- Windows Event Collector — PDF page 513
+- Sysmon — PDF page 515
+- Using PowerShell to Query Sysmon Logs — PDF page 516
+- Sysmon Configuration — PDF page 520
+- Installing and Configuring Sysmon Across the Domain — PDF page 521
+- Integrating Windows and Linux Logs — PDF page 523
+- Notes and References — PDF page 524
+- Chapter 11: Malware and Persistence — PDF page 528
+- Introduction — PDF page 528
+- Creating Malware — PDF page 528
+- Msfvenom — PDF page 528
+- Msfvenom Example: Linux ELF 64-bit Executable — PDF page 529
+- Msfvenom Platforms — PDF page 530
+- Msfvenom Architectures — PDF page 530
+- Msfvenom Formats — PDF page 531
+- Msfvenom Encoders — PDF page 533
+- Msfvenom Payloads — PDF page 533
+- Msfvenom Example: Java — PDF page 534
+- Msfvenom Example: Python — PDF page 535
+- Msfvenom Templates — PDF page 537
+- Veil-Evasion — PDF page 538
+- Windows Persistence — PDF page 543
+- Persistence Using the Windows Startup Folder — PDF page 543
+- Persistence Using the Registry — PDF page 544
+- Persistence Using Registry Startup Keys — PDF page 544
+- Persistence Using Registry Winlogon Key — PDF page 546
+- Metasploit Registry-Only Persistence — PDF page 547
+- Metasploit Registry File System Persistence — PDF page 550
+- Scheduled Tasks — PDF page 551
+- Schtasks: User-Level Persistence at Fixed Times — PDF page 551
+- Schtasks: System-Level Persistence — PDF page 553
+- Schtasks: Advanced Scheduling Options — PDF page 553
+- DLL Hijacking — PDF page 554
+- Custom Services for Windows Persistence — PDF page 555
+- WMI Persistence — PDF page 557
+- WMI Persistence Triggered by Failed Logon — PDF page 558
+- Tracking Failed Logons — PDF page 558
+- Configuring Web Delivery to Serve Malware — PDF page 560
+- Adding the Entry to the WMI Database — PDF page 562
+- Using WMI Triggered Persistence — PDF page 564
+- Removing the Persistence — PDF page 564
+- WMI Persistence Using Metasploit — PDF page 565
+- Kerberos Golden Tickets — PDF page 567
+- Determining the Domain SID — PDF page 567
+- Determining the Hash for Krbtgt — PDF page 568
+- Creating a Golden Ticket — PDF page 569
+- Using a Golden Ticket — PDF page 570
+- Metasploit Golden Tickets — PDF page 572
+- Persistence on Linux Systems — PDF page 573
+- Persistence Using Linux Startup Scripts — PDF page 573
+- Persistence Using ~/.bash_profile or ~/.profile and Local Malware — PDF page 573
+- Persistence Using ~/.bashrc and Web Delivered Malware — PDF page 576
+- Persistence Using Cron Jobs — PDF page 578
+- Root Persistence Using System Cron Jobs and Web Delivered Malware — PDF page 578
+- Root Persistence Using System Cron Jobs and Local Malware — PDF page 578
+- User Persistence Using Cron Jobs — PDF page 579
+- Persistence Using Cron Jobs and Metasploit — PDF page 580
+- Custom Services for Linux Persistence — PDF page 580
+- Linux Persistence via Services Using Metasploit — PDF page 582
+- Other Approaches — PDF page 584
+- Notes and References — PDF page 585
+- Malware — PDF page 585
+- Windows Persistence — PDF page 585
+- Registry — PDF page 586
+- Scheduled Tasks — PDF page 586
+- WMI Persistence — PDF page 586
+- Golden Tickets — PDF page 587
+- Chapter 12: Defending the Windows Domain — PDF page 588
+- Introduction — PDF page 588
+- Applications — PDF page 589
+- Application Whitelisting via Software Restriction Policies — PDF page 589
+- Software Restriction Policies: Shortcuts — PDF page 589
+- Software Restriction Policies: Subdirectories — PDF page 591
+- Logs Generated by Software Restriction Policies — PDF page 592
+- Bypassing Software Restriction Policies via Rundll — PDF page 594
+- Bypassing Software Restriction Policies via Web Delivery — PDF page 594
+- PowerShell — PDF page 596
+- PowerShell Execution Policy — PDF page 596
+- Bypassing PowerShell Execution Policy — PDF page 597
+- PowerShell Language Mode — PDF page 598
+- Software Restriction Policies, Constrained Language Mode, and PowerShell 5.0 — PDF page 601
+- Bypassing Constrained Language Mode — PDF page 601
+- Blocking PowerShell — PDF page 603
+- Detecting and Blocking Persistence — PDF page 605
+- Startup Persistence — PDF page 605
+- Autoruns — PDF page 605
+- Using PowerShell to Detect Startup Persistence in a Domain — PDF page 606
+- Detecting Changes to Startup — PDF page 607
+- Blocking Startup Persistence — PDF page 610
+- Registry Persistence — PDF page 610
+- WOW6432Node — PDF page 611
+- Autoruns — PDF page 612
+- Persistence Using Registry Winlogon Key — PDF page 613
+- Detecting Persistence on a Remote System via reg query — PDF page 613
+- Enumerating the Hosts on a Domain — PDF page 613
+- Using psexec to Detect Registry Persistence in a Domain — PDF page 614
+- Autoruns and PowerShell — PDF page 615
+- Auditing Registry Changes — PDF page 616
+- Scheduled Tasks — PDF page 617
+- Autoruns — PDF page 618
+- Schtasks — PDF page 618
+- Task Scheduler — PDF page 619
+- Auditing Creation of Scheduled Tasks — PDF page 620
+- Scheduled Tasks Operational and Maintenance Logs — PDF page 620
+- Blocking the Creation of Scheduled Tasks via Group Policy — PDF page 620
+- Service Persistence — PDF page 621
+- Autoruns — PDF page 622
+- Detecting Services on Remote Systems Using sc — PDF page 622
+- Detecting Recently Added Services — PDF page 624
+- WMI Persistence — PDF page 625
+- Autoruns — PDF page 625
+- Detecting WMI Persistence on a Domain — PDF page 625
+- Removing WMI Persistence — PDF page 628
+- Using Sysmon to Detect WMI Modifications — PDF page 628
+- Credentials — PDF page 629
+- Passwords and Hashes — PDF page 629
+- Password Length, Complexity, and Rotation — PDF page 629
+- Account Lockouts — PDF page 630
+- Defending Against Hash Capturing — PDF page 631
+- Cached Domain Logons — PDF page 631
+- Mimikatz — PDF page 632
+- LSASS — PDF page 632
+- WDigest Registry — PDF page 632
+- LSA Protection — PDF page 633
+- Mimikatz Detection via Sysmon — PDF page 634
+- Local Administrator Accounts — PDF page 639
+- Renaming the Local Administrator Account — PDF page 639
+- Finding the Local Administrator Account — PDF page 639
+- Limiting the Local Administrator Account — PDF page 640
+- The Local Administrator Password Solution (LAPS) — PDF page 641
+- Domain Administrator Accounts — PDF page 645
+- Manage the Network — PDF page 645
+- Watching the Network — PDF page 645
+- Network Autodiscovery — PDF page 646
+- Disable LLMNR — PDF page 646
+- Disable NetBIOS over TCP/IP — PDF page 647
+- DNS Entries for WPAD — PDF page 650
+- Detecting Responder Attacks on the Network — PDF page 651
+- Controlling Lateral Movement — PDF page 653
+- Firewall Source IP Rules — PDF page 654
+- Logging SMB Use — PDF page 655
+- Logging PSEXEC Use — PDF page 656
+- Blocking PSEXEC Use — PDF page 659
+- SMB Version 1 — PDF page 660
+- Logging WinRM Use — PDF page 661
+- Logging WMI Use — PDF page 663
+- Logging WMI Queries — PDF page 663
+- Notes and References — PDF page 666
+- Software Restriction Policies — PDF page 666
+- PowerShell — PDF page 666
+- Persistence — PDF page 667
+- WMI — PDF page 667
+- Mimikatz — PDF page 668
+- Local Administrator Accounts — PDF page 668
+- Networking — PDF page 668
+- Detecting Lateral Movement — PDF page 669
+- Chapter 13: Network Services — PDF page 670
+- Introduction — PDF page 670
+- SSH — PDF page 670
+- Linux Client Programs — PDF page 670
+- SSH Client — PDF page 671
+- Scp and Sftp Clients — PDF page 671
+- Installing OpenSSH Server on Linux — PDF page 673
+- OpenSSH Server on CentOS 5, 6 — PDF page 673
+- OpenSSH Server on CentOS 7 — PDF page 674
+- OpenSSH Server on OpenSuSE — PDF page 675
+- OpenSSH Server on Mint and Ubuntu — PDF page 676
+- Configuring OpenSSH Server on Linux — PDF page 677
+- OpenSSH Server: Networking and Protocol — PDF page 677
+- OpenSSH Server: Key Locations — PDF page 678
+- OpenSSH Server: Key Creation — PDF page 679
+- OpenSSH Server: Logging — PDF page 680
+- OpenSSH Server: Authentication — PDF page 680
+- OpenSSH Server: Public Key Authentication — PDF page 681
+- Protecting SSH Keys — PDF page 683
+- OpenSSH Agents — PDF page 684
+- OpenSSH Server: Other Authentication Methods — PDF page 684
+- OpenSSH Server: X11 Forwarding — PDF page 685
+- SSH Clients on Windows — PDF page 686
+- PuTTY — PDF page 686
+- Public Key Authentication with PuTTY and PuTTYGen — PDF page 688
+- PuTTY Agents and Other Options — PDF page 688
+- Attacks Against SSH — PDF page 689
+- Enumerating Users via SSH — PDF page 692
+- Attacking Passphrase Protected SSH Keys — PDF page 694
+- Securing OpenSSH — PDF page 696
+- TCP Wrappers — PDF page 697
+- SSHGuard — PDF page 697
+- SSHGuard 2.1 on CentOS 7.3 Using TCP Wrappers — PDF page 698
+- SSHGuard 2.1 on OpenSuSE 13.2 Using iptables — PDF page 700
+- SSHGuard 1.5 on CentOS 5.9 — PDF page 703
+- FTP Servers — PDF page 705
+- Connecting to FTP Servers — PDF page 707
+- SMB File Sharing — PDF page 708
+- Creating a SMB File Share — PDF page 708
+- Creating a File Share from the Command Line — PDF page 708
+- Creating a File Share from File Explorer — PDF page 709
+- Creating a File Server on Windows — PDF page 710
+- Windows Server 2012, 2012 R2, or 2016 — PDF page 710
+- Windows Server 2008 — PDF page 713
+- Accessing SMB File Shares — PDF page 714
+- Drive Mapping Using Group Policy — PDF page 715
+- Accessing SMB File Shares from Linux — PDF page 716
+- Creating Individual SMB File Shares on a  Windows File Server — PDF page 716
+- Samba Servers — PDF page 719
+- Installing and Controlling Samba — PDF page 719
+- Samba Firewall Rules — PDF page 720
+- Samba Configuration — PDF page 720
+- Adding Samba Users — PDF page 723
+- Command-Line Interface to Samba — PDF page 723
+- Attacking SMB File Servers — PDF page 725
+- Version Detection — PDF page 725
+- Share Detection — PDF page 726
+- User Detection — PDF page 729
+- Brute Force Attacks — PDF page 730
+- Preventing Brute Force Attacks — PDF page 730
+- Eternal Red/SambaCry — PDF page 731
+- Stopping Eternal Red / SambaCry — PDF page 733
+- Samba Hashes — PDF page 734
+- Remote Desktop — PDF page 734
+- Persistence via Remote Desktop and Sticky Keys — PDF page 736
+- Enabling Remote Desktop via Metasploit — PDF page 737
+- Enabling Sticky Keys — PDF page 738
+- Notes and References — PDF page 739
+- Chapter 14: Apache and ModSecurity — PDF page 742
+- Introduction — PDF page 742
+- Apache Installation — PDF page 742
+- Installing Apache on CentOS — PDF page 743
+- Installing Apache on OpenSuSE — PDF page 744
+- Installing Apache on Ubuntu and Mint — PDF page 745
+- Installing Apache on Windows — PDF page 746
+- Version and Module Structure of Apache — PDF page 746
+- Basic Apache Configuration — PDF page 747
+- Configuring Apache on CentOS — PDF page 747
+- ServerName and ServerAdmin Directives — PDF page 748
+- DocumentRoot Directive — PDF page 748
+- DirectoryIndex Directive — PDF page 748
+- Configuring Apache on OpenSuSE — PDF page 748
+- Configuring Apache on Ubuntu and Mint — PDF page 749
+- Apache Modules — PDF page 750
+- Apache Modules: Apache Status — PDF page 750
+- Loading Apache Modules in CentOS — PDF page 750
+- Loading Apache Modules in OpenSuSE — PDF page 750
+- Loading Apache Modules in Mint/Ubuntu — PDF page 751
+- Module Configuration: Apache Status — PDF page 751
+- Location Directives — PDF page 753
+- Directory Directives — PDF page 753
+- SetHandler Directives — PDF page 753
+- Controlling Access via Order Directives — PDF page 754
+- Controlling Access via Require Directives — PDF page 754
+- Apache Status from the Browser — PDF page 755
+- Apache Status from the Apache Control Program — PDF page 756
+- Apache Modules: Individual User Directories — PDF page 758
+- Module Configuration: User Directories — PDF page 758
+- UserDir Directives — PDF page 761
+- AllowOverride Directive — PDF page 762
+- Options Directive — PDF page 762
+- Limit and LimitExcept Directives — PDF page 763
+- Apache Modules: Aliases — PDF page 763
+- Apache Modules: CGI Scripts — PDF page 764
+- Loading the CGI Module — PDF page 764
+- Configuring the CGI Module; ScriptAlias — PDF page 765
+- CGI Script: Example — PDF page 767
+- Logs and Logging — PDF page 768
+- Error Log — PDF page 769
+- Access Log — PDF page 769
+- LogFormat Directive — PDF page 769
+- CustomLog Directive — PDF page 770
+- TransferLog Directive — PDF page 771
+- Reading Apache Access Logs — PDF page 771
+- Parsing Access Logs with Scripts — PDF page 771
+- Virtual Hosts — PDF page 773
+- Configuring a Virtual Host — PDF page 773
+- Listen Directives — PDF page 774
+- NameVirtualHost Directives — PDF page 774
+- VirtualHost Directive — PDF page 775
+- Building a Virtual Host on TCP/8080 — PDF page 776
+- SSL and TLS — PDF page 777
+- Apache Modules: ssl_module — PDF page 777
+- SSL/TLS Configuration — PDF page 778
+- SSLProtocol and Ciphers — PDF page 778
+- Selecting Protocols and Ciphers — PDF page 780
+- SSL/TLS Keys — PDF page 781
+- SSL/TLS Self-Signed Certificate — PDF page 782
+- SSL/TLS Certificate Signing Request — PDF page 784
+- Signing Certificates — PDF page 785
+- CA Keys — PDF page 785
+- CA Certificate — PDF page 786
+- CA Serial Number File — PDF page 787
+- Signing a .csr — PDF page 787
+- Redirection — PDF page 788
+- Testing the Server — PDF page 789
+- Testing HTTP Connections — PDF page 789
+- Testing HTTPS Connections — PDF page 790
+- Basic Authentication — PDF page 793
+- htpasswd — PDF page 793
+- Configuring Basic Authentication — PDF page 795
+- ModSecurity — PDF page 797
+- Installing ModSecurity — PDF page 797
+- Installing ModSecurity on CentOS — PDF page 797
+- Installing ModSecurity on OpenSuSE — PDF page 797
+- Installing ModSecurity on Ubuntu and Mint — PDF page 798
+- Configuring ModSecurity — PDF page 799
+- Configuring the Rule Engine — PDF page 799
+- ModSecurity Logging — PDF page 799
+- ModSecurity Temporary Data — PDF page 801
+- ModSecurity Rules — PDF page 802
+- ModSecurity Core Rule Set (CRS) — PDF page 804
+- Installing the CRS on CentOS — PDF page 804
+- Installing the CRS on OpenSuSE — PDF page 804
+- Installing the CRS on Ubuntu and Mint — PDF page 805
+- Installing the CRS from Source — PDF page 806
+- Notes and References — PDF page 806
+- Configuring EPEL — PDF page 808
+- Chapter 15: IIS and ModSecurity — PDF page 810
+- Introduction — PDF page 810
+- Installation — PDF page 810
+- IIS Manager — PDF page 811
+- Managing Multiple Web Servers from IIS Manager — PDF page 812
+- Enabling Remote Management on Servers Without a GUI — PDF page 814
+- Web Sites — PDF page 814
+- Adding a Second Web Site — PDF page 815
+- Default Documents — PDF page 818
+- Directory Requests — PDF page 818
+- Error Messages — PDF page 818
+- Virtual Directories — PDF page 819
+- Command-Line Tools — PDF page 820
+- Access Control — PDF page 822
+- Request Filtering — PDF page 824
+- Authentication — PDF page 825
+- SSL and TLS — PDF page 826
+- Managing Web Server Certificates — PDF page 826
+- Creating a Self-Signed Certificate — PDF page 827
+- Windows System Certificates — PDF page 827
+- Trusting a Signing Server — PDF page 828
+- Creating a Signed Certificate — PDF page 828
+- Managing Remote Servers — PDF page 828
+- Creating a Self-Signed Certificate — PDF page 829
+- Trusting a Signing Server — PDF page 829
+- Creating a Certificate Signing Request — PDF page 829
+- Completing a Certificate Signing Request — PDF page 830
+- Choosing SSL/TLS Protocols and Ciphers — PDF page 831
+- Redirection — PDF page 832
+- Logs and Logging — PDF page 833
+- ModSecurity — PDF page 836
+- Notes and References — PDF page 839
+- Chapter 16: Web Attacks — PDF page 841
+- Introduction — PDF page 841
+- Pillaging the Browser — PDF page 841
+- Extracting Credentials from Internet Explorer — PDF page 841
+- Extracting Credentials from Firefox — PDF page 843
+- Using PasswordFox Against Windows — PDF page 843
+- Using PasswordFox Against Linux — PDF page 845
+- Firefox Master Password — PDF page 846
+- Man in the Middle — PDF page 847
+- Ettercap — PDF page 847
+- Generating an SSL/TLS Certificate for MitM — PDF page 848
+- Ettercap ARP Poisoning — PDF page 849
+- SSLStrip — PDF page 853
+- Password Attacks — PDF page 854
+- Burp Suite — PDF page 855
+- Burp Suite Web Proxy — PDF page 855
+- Burp Suite Brute Force Password Attacks — PDF page 857
+- Custom Password Attacks — PDF page 862
+- Blocking Password Attacks with mod_evasive — PDF page 863
+- Installing mod_evasive on CentOS 6/7 — PDF page 863
+- Installing mod_evasive on CentOS 5 — PDF page 863
+- Installing mod_evasive on OpenSuSE — PDF page 864
+- Installing mod_evasive on Ubuntu/Mint — PDF page 865
+- Configuring mod_evasive — PDF page 865
+- Blocking Password Attacks on IIS — PDF page 866
+- Heartbleed — PDF page 866
+- ShellShock — PDF page 870
+- Notes and References — PDF page 876
+- Chapter 17: Firewalls — PDF page 877
+- Introduction — PDF page 877
+- Network Firewalls — PDF page 877
+- Virtual Networking — PDF page 879
+- IPFire — PDF page 879
+- Installing IPFire — PDF page 880
+- IPFire Initial Configuration — PDF page 881
+- Network Traffic Rules — PDF page 883
+- Configuring the Network — PDF page 884
+- External Alias Addresses — PDF page 887
+- Web Proxies — PDF page 890
+- Egress Filtering — PDF page 892
+- Egress Filtering on the Internal (GREEN) Network — PDF page 892
+- Egress Filtering on the DMZ (ORANGE) Network — PDF page 893
+- Egress Filtering from the Firewall — PDF page 893
+- IPFire Features — PDF page 894
+- Attacks Through a Network Firewall — PDF page 895
+- Impact of Egress Filters — PDF page 895
+- Reconnaissance Beyond the Firewall — PDF page 896
+- Determining the Network — PDF page 897
+- ARP Scans Through the Firewall — PDF page 898
+- Domain Identification Through a Firewall — PDF page 899
+- Proxy Detection — PDF page 900
+- DNS and DHCP Identification — PDF page 901
+- Pivots — PDF page 902
+- SSH SOCKS5 Proxy — PDF page 902
+- Configuring an SSH SOCKS5 Proxy — PDF page 903
+- ProxyChains — PDF page 903
+- Using Proxies with Metasploit — PDF page 904
+- Using Metasploit Routes as Pivots — PDF page 906
+- Metasploit Port Scan Through a Pivot — PDF page 907
+- Metasploit Pivot as a SOCKS4a Proxy — PDF page 908
+- Mapping Egress Filter Rules — PDF page 909
+- Attacking the Firewall — PDF page 911
+- Obtaining IPFire Administrative Credentials — PDF page 911
+- Pivoting to IPFire — PDF page 912
+- Attacking IPFire — PDF page 913
+- Notes and References — PDF page 915
+- Chapter 18: MySQL and MariaDB — PDF page 917
+- Introduction — PDF page 917
+- Installation — PDF page 917
+- Installing MySQL and MariaDB on Linux — PDF page 918
+- Starting MySQL and MariaDB on Linux — PDF page 919
+- MySQL and MariaDB on Windows — PDF page 919
+- MySQL 5.5 on Windows — PDF page 919
+- MySQL 5.6 on Windows — PDF page 920
+- MySQL 5.7 on Windows — PDF page 921
+- MariaDB on Windows — PDF page 923
+- The mysql Client — PDF page 924
+- HeidiSQL — PDF page 927
+- Users and Privileges — PDF page 928
+- Initially Connecting to MySQL or MariaDB — PDF page 928
+- Initial Connections on CentOS or OpenSuSE — PDF page 928
+- Initial Connections on Mint and Ubuntu — PDF page 929
+- Initial Connections on Windows — PDF page 930
+- Authenticating to MySQL — PDF page 932
+- The Table mysql.user — PDF page 932
+- Initial Values in mysql.user — PDF page 933
+- Changing Passwords in MySQL ≤ 5.6 — PDF page 935
+- Changing Passwords in MySQL ≥ 5.7 — PDF page 936
+- Changing Authentication Plugins — PDF page 936
+- Creating Users — PDF page 937
+- The MySQL Password Hashing Algorithm — PDF page 939
+- Dropping Users — PDF page 940
+- The User debian-sys-maint — PDF page 940
+- Specifying Hosts — PDF page 942
+- Wildcards — PDF page 942
+- Privileges — PDF page 943
+- Viewing Assigned Privileges — PDF page 945
+- Assigning Privileges — PDF page 946
+- Revoking Privileges — PDF page 948
+- FILE Privileges — PDF page 949
+- Managing MySQL/MariaDB — PDF page 950
+- Securing the Initial Installation — PDF page 950
+- MySQL Configuration Files — PDF page 951
+- Networking on Mint and Ubuntu — PDF page 953
+- MySQLAdmin — PDF page 953
+- Attacking MySQL — PDF page 954
+- The MySQL History — PDF page 954
+- Network Scanning for MySQL/MariaDB — PDF page 955
+- Identifying MySQL Users — PDF page 957
+- Brute Force Password Attacks Against MySQL and  MariaDB — PDF page 958
+- CVE 2012-2122 User Login Vulnerability — PDF page 960
+- Cracking MySQL/MariaDB Hashes — PDF page 961
+- CVE 2012-5613 Windows FILE Privilege Attack — PDF page 962
+- Notes and References — PDF page 965
+- Chapter 19: Snort — PDF page 966
+- Introduction — PDF page 966
+- Installing Snort — PDF page 966
+- Installing Snort on Linux — PDF page 966
+- Downloading Snort — PDF page 966
+- Installing Snort Dependencies on OpenSuSE — PDF page 967
+- Installing Snort Dependencies on CentOS 6, 7 — PDF page 968
+- Installing Snort Dependencies on CentOS 5 — PDF page 968
+- Installing Snort Dependencies on Mint or Ubuntu — PDF page 969
+- Compiling and Installing Snort — PDF page 970
+- Installing Snort on Windows — PDF page 970
+- Snort as a Packet Sniffer — PDF page 970
+- Snort as an Intrusion Detection System — PDF page 975
+- Rule Installation — PDF page 975
+- Installing Precompiled Rules — PDF page 975
+- Snort Reputation Preprocessor — PDF page 976
+- Snort Log Directory — PDF page 976
+- Starting Snort as an Intrusion Detection System — PDF page 976
+- Running Snort as an IDS on CentOS 5 — PDF page 977
+- Running Snort as an IDS on OpenSuSE — PDF page 977
+- Running Snort as an IDS on Mint or Ubuntu — PDF page 979
+- Running Snort as an IDS on Windows — PDF page 979
+- Testing Snort — PDF page 980
+- Creating Custom Snort Rules — PDF page 980
+- Snort and Packet Captures — PDF page 982
+- Running Snort as a Service — PDF page 983
+- Snort Users and Permissions — PDF page 983
+- Configuring Snort as a Service on CentOS 5/6 — PDF page 984
+- Configuring Snort as a Service on CentOS 7 — PDF page 985
+- Configuring Snort as a Service on Mint or Ubuntu — PDF page 986
+- Configuring Snort as a Service on OpenSuSE — PDF page 987
+- Snort as a Windows Service — PDF page 988
+- Snort Variables and Preprocessors — PDF page 990
+- Snort Variables — PDF page 990
+- Snort Decoders — PDF page 991
+- Snort Rule Locations — PDF page 991
+- IP Fragmentation Preprocessor — PDF page 992
+- Stream Preprocessor — PDF page 992
+- HTTP Preprocessor — PDF page 993
+- Unnecessary Preprocessors — PDF page 994
+- Port Scan Detection — PDF page 994
+- ARP Spoof Detection — PDF page 994
+- Sensitive Data and Other Preprocessors — PDF page 995
+- Snort Output — PDF page 996
+- Controlling Snort Output from the Command Line — PDF page 996
+- Snort Syslog Logging — PDF page 997
+- Snort Unified Log — PDF page 997
+- Snort Rules — PDF page 998
+- Snort and EternalBlue — PDF page 999
+- Notes and References — PDF page 1000
+- Chapter 20: PHP — PDF page 1002
+- Introduction — PDF page 1002
+- Installing PHP on Linux — PDF page 1002
+- PHP on CentOS — PDF page 1003
+- Testing PHP on CentOS — PDF page 1003
+- Configuring PHP as an Apache Module on CentOS — PDF page 1004
+- Configuring PHP as a CGI Module on CentOS — PDF page 1005
+- Configuring PHP — PDF page 1006
+- PHP on OpenSuSE — PDF page 1007
+- PHP 7 on OpenSuSE 42.2, 42.3 — PDF page 1008
+- Testing PHP on OpenSuSE — PDF page 1009
+- Configuring PHP as an Apache Module on OpenSuSE — PDF page 1010
+- Configuring PHP as a CGI Module on OpenSuSE — PDF page 1010
+- Configuring PHP — PDF page 1011
+- PHP on Mint or Ubuntu — PDF page 1012
+- Testing PHP on Mint or Ubuntu — PDF page 1014
+- Configuring PHP as an Apache Module on Mint or Ubuntu — PDF page 1014
+- Configuring PHP as a CGI Module on Mint or Ubuntu — PDF page 1014
+- Configuring PHP — PDF page 1017
+- XAMPP — PDF page 1017
+- XAMPP Installation — PDF page 1017
+- Configuring PHP — PDF page 1020
+- Securing XAMPP — PDF page 1020
+- Securing the XAMPP Database — PDF page 1020
+- SSL/TLS with XAMPP — PDF page 1020
+- The XAMPP Configuration and Security Pages — PDF page 1023
+- PHP on IIS — PDF page 1025
+- Installing PHP on Windows — PDF page 1026
+- Testing the Installation — PDF page 1026
+- Installing the CGI Module on IIS — PDF page 1027
+- Configuring an IIS Handler for PHP — PDF page 1028
+- Configuring PHP — PDF page 1029
+- PHP Extensions — PDF page 1031
+- PHP Security — PDF page 1032
+- Register Globals — PDF page 1032
+- Include Vulnerabilities — PDF page 1035
+- Remote Include Vulnerabilities — PDF page 1038
+- Manually Exploiting a Remote Include Vulnerability — PDF page 1039
+- Exploiting a Remote Include Vulnerability with Metasploit — PDF page 1040
+- Configuring PHP — PDF page 1043
+- Attacking PHP — PDF page 1044
+- Determining the PHP Version — PDF page 1044
+- PHP CGI Argument Injection — PDF page 1046
+- PHP Persistence — PDF page 1049
+- PHP Persistence with Metasploit Malware — PDF page 1050
+- PHP Persistence with Weevely — PDF page 1052
+- Notes and References — PDF page 1055
+- Chapter 21: Web Applications — PDF page 1057
+- Introduction — PDF page 1057
+- phpMyAdmin — PDF page 1057
+- phpMyAdmin on CentOS via yum — PDF page 1057
+- Using phpMyAdmin on CentOS — PDF page 1058
+- Configuring Apache for phpMyAdmin on CentOS — PDF page 1058
+- Configuring phpMyAdmin on CentOS — PDF page 1060
+- phpMyAdmin on OpenSuSE via zypper — PDF page 1061
+- Using phpMyAdmin on OpenSuSE — PDF page 1061
+- Configuring Apache for phpMyAdmin on OpenSuSE — PDF page 1062
+- Configuring phpMyAdmin on OpenSuSE — PDF page 1063
+- phpMyAdmin on Mint/Ubuntu via apt — PDF page 1064
+- Using phpMyAdmin on Mint/Ubuntu — PDF page 1067
+- Configuring Apache for phpMyAdmin on Mint/Ubuntu — PDF page 1067
+- Configuring phpMyAdmin on Mint/Ubuntu — PDF page 1067
+- phpMyAdmin on Windows with XAMPP — PDF page 1069
+- phpMyAdmin on Windows with IIS — PDF page 1070
+- phpMyAdmin Feature Storage — PDF page 1072
+- Attacking phpMyAdmin — PDF page 1074
+- Intercepting Network Traffic — PDF page 1074
+- Brute Force Password Attacks — PDF page 1074
+- Metasploit Attacks Against phpMyAdmin — PDF page 1079
+- Joomla! — PDF page 1082
+- Installing Joomla! — PDF page 1082
+- Example: Joomla! 3.0 on CentOS 6.3 — PDF page 1083
+- Example: Joomla! 3.2 on Ubuntu 14.04 — PDF page 1085
+- Example: Joomla! 3.3 on Windows Server 2012 with  XAMPP 5.5.19 — PDF page 1086
+- Example: Joomla! 3.4 on Windows Server 2016 with IIS — PDF page 1087
+- Example: Joomla! 3.6 on OpenSuSE 42.2 — PDF page 1088
+- Other Joomla! Installations — PDF page 1090
+- Using Joomla! — PDF page 1090
+- Attacking Joomla! — PDF page 1091
+- Intercepting Network Traffic — PDF page 1092
+- Brute Force Password Attacks — PDF page 1092
+- Joomla! Scanning — PDF page 1095
+- Metasploit Attacks Against Joomla! — PDF page 1097
+- PHP Persistence on Joomla! with Weevely — PDF page 1100
+- WordPress — PDF page 1102
+- Installing WordPress — PDF page 1102
+- Example: WordPress 3.3 on Mint 12 — PDF page 1102
+- Example: WordPress 3.5 on Windows Server 2012 with IIS — PDF page 1106
+- Example: WordPress 4.0 on OpenSuSE 13.2 — PDF page 1107
+- Example: WordPress 4.1 on XAMPP 5.6.3 on Windows Server 2012 R2 — PDF page 1108
+- Example: WordPress 4.3 on CentOS 7.2 — PDF page 1109
+- Using WordPress — PDF page 1110
+- WordPress Plugins — PDF page 1110
+- Attacking WordPress — PDF page 1111
+- Intercepting Network Traffic — PDF page 1112
+- Brute Force Password Attacks — PDF page 1112
+- WordPress Scanning — PDF page 1115
+- Metasploit Modules — PDF page 1118
+- Notes and References — PDF page 1119
+- Index — PDF page 1120

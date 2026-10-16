@@ -1,0 +1,21 @@
+{
+  "cves": 1739,
+  "pdfs": 11,
+  "pages": 5391,
+  "lowTextPages": 92,
+  "families": {
+    "Web and appliances": 1287,
+    "Dependencies": 13,
+    "Windows": 391,
+    "Linux": 48
+  },
+  "guides": 11,
+  "nvdEnriched": 1739,
+  "trainingGroups": 14,
+  "trainingTopics": 198,
+  "trainingLabs": 6,
+  "vendorReviewed": 3,
+  "withGithubCode": 57,
+  "githubLinks": 73,
+  "csvSha256": "6f0011cd55292e7455e975ee5c20252b198da0a6cc1c3239a6dd776e6236100f"
+}

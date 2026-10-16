@@ -1,0 +1,3 @@
+# Barracuda Networks
+
+- [[CVE-2023-2868]]

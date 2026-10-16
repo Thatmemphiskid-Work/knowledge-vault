@@ -1,0 +1,503 @@
+# Dark_Web_Exploring_and_Data_Mining_the_Dark_Side_of_the_Web_@HackingCraze
+
+Local source: [Dark_Web_Exploring_and_Data_Mining_the_Dark_Side_of_the_Web_@HackingCraze.pdf](../../hacking-main/Dark_Web_Exploring_and_Data_Mining_the_Dark_Side_of_the_Web_@HackingCraze.pdf)
+
+Pages: 478. SHA-256: `d7a0a0feb415b386396715409d3cced92316a7abf08a83a7f2cef84911c2132b`.
+Extracted text is searchable in the app with exact PDF page references.
+22 pages have fewer than 40 extracted characters; scans, diagrams and tables may require visual review. No OCR was performed.
+Books are background references, not current affected-version authorities. Do not infer a CVE test from a book keyword match.
+
+## Embedded table of contents
+- Cover — PDF page 1
+- Integrated Series in Information Systems30 — PDF page 2
+- Dark Web — PDF page 4
+- ISBN 9781461415565 — PDF page 5
+- Preface — PDF page 6
+- Aims — PDF page 6
+- Audience — PDF page 7
+- Scope and Organization — PDF page 7
+- About the Author — PDF page 14
+- Contents — PDF page 18
+- Part I: Research Framework: Overview and Introduction — PDF page 28
+- Chapter 1: Dark Web Research Overview — PDF page 30
+- 1 Introduction — PDF page 30
+- 1.1 Web Sites — PDF page 30
+- 1.2 Forums — PDF page 31
+- 1.3 Blogs, Social Networking Sites, and Virtual Worlds — PDF page 31
+- 1.4 Videos and Multimedia Content — PDF page 31
+- 2 Computational Techniques (Data Mining, Text Mining, and Web Mining) — PDF page 31
+- 2.1 Dark Web Collection — PDF page 32
+- 2.1.1 Web Site Spidering — PDF page 32
+- 2.1.2 Forum Spidering — PDF page 32
+- 2.1.3 Multimedia (Image, Audio, and Video) Spidering — PDF page 32
+- 2.2 Dark Web Analysis and Visualization — PDF page 32
+- 2.2.1 Social Network Analysis (SNA) — PDF page 32
+- 2.2.2 Content Analysis — PDF page 33
+- 2.2.3 Web Metrics Analysis — PDF page 33
+- 2.2.4 Sentiment and Affect Analysis — PDF page 33
+- 2.2.5 Authorship Analysis and Writeprint — PDF page 33
+- 2.2.6 Video Analysis — PDF page 34
+- 2.2.7 IEDs in Dark Web Analysis — PDF page 34
+- 2.2.8 Dark Web Forum Portal — PDF page 34
+- 3 Dark Web Project Structure and Resources — PDF page 34
+- 3.1 Team Members (Selected) — PDF page 35
+- 3.2 Press Coverage and Interest — PDF page 35
+- 3.3 The IEEE Intelligence and Security Informatics Conference — PDF page 36
+- 3.4 Dark Web Publications — PDF page 37
+-  2010 — PDF page 38
+-  2009 — PDF page 38
+-  2008 — PDF page 39
+-  2007 — PDF page 39
+-  2006 — PDF page 39
+-  2005 — PDF page 40
+-  2010 — PDF page 40
+-  2009 — PDF page 41
+-  2008 — PDF page 41
+-  2007 — PDF page 41
+-  2006 — PDF page 42
+-  2005 — PDF page 42
+-  2004 — PDF page 43
+-  2003 — PDF page 43
+- 3.5 Dark Web Project Funding and Acknowledgments — PDF page 43
+- 4 Partnership Acknowledgments — PDF page 44
+- Reference — PDF page 45
+- Chapter 2: Intelligence and Security Informatics (ISI): Research Framework — PDF page 46
+- 1 Information Technology and National Security — PDF page 46
+- 1.1 Problems and Challenges — PDF page 48
+- 1.2 Intelligence and Security Informatics Versus Biomedical Informatics: Emergence of a Discipline — PDF page 49
+- 1.3 Research Opportunities — PDF page 51
+- 2 ISI Research Framework — PDF page 51
+- 2.1 Caveats for Data Mining — PDF page 54
+- 2.2 Domestic Security, Civil Liberties, and Knowledge Discovery — PDF page 55
+- 2.3 Research Opportunities — PDF page 56
+- References — PDF page 56
+- Chapter 3: Terrorism Informatics — PDF page 58
+- 1 Introduction — PDF page 58
+- 2 Terrorism and the Internet — PDF page 58
+- 3 Terrorism Research Centers and Resources — PDF page 60
+- 3.1 Think Tanks and Intelligence Resources — PDF page 60
+- 3.2 Terrorism Databases and Online Resources — PDF page 61
+- 3.3 Higher Education Research Institutes — PDF page 66
+- 4 Conclusions — PDF page 68
+- References — PDF page 68
+- Part II: Dark Web Research: Computational Approach and Techniques — PDF page 70
+- Chapter 4: Forum Spidering — PDF page 72
+- 1 Introduction — PDF page 72
+- 2 Related Work: Focused and Hidden Web Crawlers — PDF page 73
+- 2.1 Accessibility — PDF page 74
+- 2.2 Collection Type — PDF page 74
+- 2.3 Content Richness — PDF page 75
+- 2.4 URL Ordering Features — PDF page 75
+- 2.5 URL Ordering Techniques — PDF page 76
+- 2.6 Collection Update Procedure — PDF page 77
+- 2.7 Summary of Previous Research — PDF page 77
+- 3 Research Gaps and Questions — PDF page 79
+- 3.1 Focused Crawling of the Hidden Web — PDF page 79
+- 3.2 Content Richness — PDF page 79
+- 3.3 Web Forum Collection Update Strategies — PDF page 79
+- 3.4 Research Questions — PDF page 80
+- 4 Research Design — PDF page 80
+- 4.1 Proposed Dark Web Forum Crawling System — PDF page 80
+- 4.2 Accessibility — PDF page 80
+- 4.3 Incremental Crawling for Collection Updating — PDF page 81
+- 5 System Design — PDF page 81
+- 5.1 Forum Identification — PDF page 81
+- 5.2 Forum Preprocessing — PDF page 83
+- 5.2.1 Forum Accessibility — PDF page 83
+- 5.2.2 Forum Structure — PDF page 85
+- 5.2.3 Wrapper Generation — PDF page 86
+- 5.3 Forum Spidering — PDF page 86
+- 5.4 Forum Storage and Analysis — PDF page 87
+- 5.4.1 Statistics Generation — PDF page 87
+- 5.4.2 Duplicate Multimedia Removal — PDF page 88
+- 5.5 Dark Web Forum Crawling System Interface — PDF page 88
+- 6 Evaluation — PDF page 89
+- 6.1 Forum Accessibility Experiment — PDF page 89
+- 6.2 Forum Collection Update Experiment — PDF page 90
+- 6.3 Forum Collection Statistics — PDF page 92
+- 7 Conclusions and Future Directions — PDF page 93
+- References — PDF page 94
+- Chapter 5: Link and Content Analysis — PDF page 98
+- 1 Introduction — PDF page 98
+- 2 Literature Review — PDF page 99
+- 2.1 Terrorists’ Use of the Web — PDF page 99
+- 2.2 Information Services for Studying Terrorism — PDF page 100
+- 2.3 Advanced Information Technologies for Combating Terrorism — PDF page 101
+- 3 A Methodology for Collecting and Analyzing Dark Web Information — PDF page 102
+- 3.1 The Methodology — PDF page 102
+- 3.2 Discussion of the Methodology — PDF page 104
+- 4 Jihad on the Web: A Case Study — PDF page 104
+- 4.1 Application of the Methodology — PDF page 105
+- 4.1.1 Collection — PDF page 105
+- 4.1.2 Filtering — PDF page 105
+- 4.1.3 Analysis — PDF page 106
+- 5 Results and Discussion — PDF page 114
+- 5.1 Expert Evaluation and Results — PDF page 114
+- 6 Conclusions and Future Directions — PDF page 115
+- References — PDF page 116
+- Chapter 6: Dark Network Analysis — PDF page 118
+- 1 Introduction — PDF page 118
+- 2 Topological Analysis of Networks — PDF page 118
+- 3 Methods and Data — PDF page 120
+- 4 Results and Discussion — PDF page 121
+- 4.1 Basic Properties — PDF page 121
+- 4.2 Small-World Properties — PDF page 123
+- 4.3 Scale-Free Properties — PDF page 125
+- 4.4 Caveats — PDF page 126
+- 4.5 Network Robustness — PDF page 127
+- 5 Conclusions — PDF page 129
+- References — PDF page 130
+- Chapter 7: Interactional Coherence Analysis — PDF page 132
+- 1 Introduction — PDF page 132
+- 2 Related Work — PDF page 134
+- 2.1 Obstacles to CMC Interactional Coherence — PDF page 134
+- 2.2 CMC Interactional Coherence Analysis — PDF page 135
+- 2.2.1 CMC Interactional Coherence Domains — PDF page 136
+- 2.2.2 CMC Interactional Coherence Research Features — PDF page 137
+-  CMC System Features — PDF page 138
+-  Linguistic Features — PDF page 139
+- 2.2.3 CMC Interactional Coherence Analysis Techniques — PDF page 140
+- 3 Research Gaps and Questions — PDF page 140
+- 4 System Design: Hybrid Interactional Coherence System — PDF page 141
+- 4.1 Data Preparation — PDF page 142
+- 4.2 HIC Algorithm: System Feature Match — PDF page 143
+- 4.2.1 Header Information Match — PDF page 143
+- 4.2.2 Quotation Match — PDF page 143
+- 4.3 HIC Algorithm: Linguistic Feature Match — PDF page 144
+- 4.3.1 Direct Address Match — PDF page 144
+- 4.3.2 Lexical Relations: The Lexical Match Algorithm — PDF page 145
+- 4.4 HIC Algorithm: Residual Match — PDF page 146
+- 5 Evaluation — PDF page 147
+- 5.1 Test Bed — PDF page 147
+- 5.2 Comparison of Techniques — PDF page 148
+- 5.2.1 Experiment Setup — PDF page 148
+- 5.2.2 Hypotheses — PDF page 149
+- 5.2.3 Experimental Results — PDF page 149
+- 5.2.4 Hypotheses Results — PDF page 149
+- 5.2.5 Results and Discussion — PDF page 150
+- 6 Conclusions — PDF page 150
+- References — PDF page 151
+- Chapter 8: Dark Web Attribute System — PDF page 154
+- 1 Introduction — PDF page 154
+- 2 Literature Review — PDF page 155
+- 2.1 Terrorism and the Internet — PDF page 155
+- 2.2 Existing Dark Web Studies — PDF page 156
+- 2.3 Dark Web Collection Building — PDF page 156
+- 2.4 Dark Web Content Analysis — PDF page 159
+- 3 Proposed Methodology: Dark Web Collection and Analysis — PDF page 160
+- 3.1 Dark Web Collection Building — PDF page 161
+- 3.2 The Dark Web Attribute System (DWAS) — PDF page 163
+- 4 Case Study: Understanding Middle Eastern Terrorist Groups — PDF page 166
+- 4.1 Building Dark Web Research Test Bed — PDF page 167
+- 4.2 Collection Analysis and Benchmark Comparison — PDF page 169
+- 4.2.1 Benchmark Comparison Results: Technical Sophistication — PDF page 169
+- 4.2.2 Benchmark Comparison Results: Content Richness — PDF page 172
+- 4.2.3 Benchmark Comparison Results: Web Interactivity — PDF page 173
+- 5 Conclusions and Future Directions — PDF page 176
+- References — PDF page 177
+- Chapter 9: Authorship Analysis — PDF page 180
+- 1 Introduction — PDF page 180
+- 2 Literature Review: Authorship Analysis — PDF page 181
+- 2.1 Writing Style Features — PDF page 181
+- 2.2 Analysis Techniques — PDF page 182
+- 2.3 Online Messages — PDF page 182
+- 2.4 Multilingual Issues — PDF page 183
+- 3 Arabic Language Characteristics — PDF page 183
+- 3.1 Inflection — PDF page 183
+- 3.2 Diacritics — PDF page 184
+- 3.3 Word Length and Elongation — PDF page 184
+- 4 Research Questions and Research Design — PDF page 185
+- 4.1 Test Bed — PDF page 185
+- 4.2 Analysis Techniques — PDF page 186
+- 4.3 Addressing Arabic Characteristics — PDF page 186
+- 4.3.1 Inflection — PDF page 186
+- 4.3.2 Word Length and Elongation — PDF page 187
+- 4.4 Feature Sets — PDF page 187
+- 5 Authorship Identification Procedure — PDF page 189
+- 5.1 Collection and Extraction — PDF page 189
+- 5.2 Experiment — PDF page 190
+- 6 Results and Discussion — PDF page 190
+- 6.1 Comparison of Feature Types — PDF page 191
+- 6.2 Comparison of Classification Techniques — PDF page 191
+- 7 Analysis of English and Arabic Group Models — PDF page 192
+- 7.1 Decision Tree Analysis — PDF page 192
+- 7.2 Feature Usage Analysis — PDF page 193
+- 7.2.1 Word/Character Lexical — PDF page 194
+- 7.2.2 Word Length — PDF page 194
+- 7.2.3 Word Structure — PDF page 194
+- 7.2.4 Technical Structure — PDF page 194
+- 7.2.5 Inferences — PDF page 195
+- 8 Conclusions and Future Directions — PDF page 195
+- References — PDF page 196
+- Chapter 10: Sentiment Analysis — PDF page 198
+- 1 Introduction — PDF page 198
+- 2 Related Work — PDF page 199
+- 2.1 Sentiment Classification — PDF page 199
+- 2.2 Sentiment Analysis Tasks — PDF page 200
+- 2.3 Sentiment Analysis Features — PDF page 202
+- 2.4 Sentiment Classification Techniques — PDF page 203
+- 2.5 Sentiment Analysis Domains — PDF page 204
+- 3 Research Gaps and Questions — PDF page 205
+- 3.1 Web Forums in Multiple Languages — PDF page 205
+- 3.2 Stylistic Features — PDF page 205
+- 3.3 Feature Reduction for Sentiment Classification — PDF page 206
+- 3.4 Research Questions — PDF page 206
+- 4 Research Design — PDF page 206
+- 5 System Design — PDF page 208
+- 5.1 Feature Extraction — PDF page 208
+- 5.1.1 Determining Size of Initial Feature Set — PDF page 209
+- 5.1.2 Feature Extraction Component — PDF page 210
+- 5.2 Feature Selection: Entropy Weighted Genetic Algorithm (EWGA) — PDF page 211
+- 5.2.1 Information Gain — PDF page 213
+- 5.2.2 Solution Structure and Initial Population — PDF page 213
+- 5.2.3 Evaluation and Selection — PDF page 213
+- 5.2.4 Crossover — PDF page 214
+- 5.2.5 Mutation — PDF page 215
+- 5.3 Classification — PDF page 215
+- 6 System Evaluation — PDF page 215
+- 6.1 Test Bed — PDF page 216
+- 6.2 Experiment 1a: Evaluation of Features — PDF page 217
+- 6.3 Experiment 1b: Evaluation of Feature Selection Techniques — PDF page 218
+- 6.4 Results Discussion — PDF page 219
+- 6.4.1 Analysis of Key Sentiment Features — PDF page 220
+- 6.4.2 Key Stylistic Features — PDF page 221
+- 6.4.3 Key Syntactic Features — PDF page 223
+- 7 Conclusions and Future Directions — PDF page 224
+- References — PDF page 224
+- Chapter 11: Affect Analysis — PDF page 230
+- 1 Introduction — PDF page 230
+- 2 Related Work — PDF page 231
+- 2.1 Features for Affect Analysis — PDF page 233
+- 2.2 Techniques for Assigning Affect Intensities — PDF page 235
+- 3 Research Design — PDF page 236
+- 3.1 Gaps and Questions — PDF page 236
+- 3.2 Research Framework — PDF page 237
+- 3.2.1 Affect Analysis Features — PDF page 238
+- 3.2.2 Affect Analysis Techniques — PDF page 239
+- 3.3 Research Hypotheses — PDF page 241
+- 4 Evaluation — PDF page 241
+- 4.1 Test Bed — PDF page 241
+- 4.2 Experimental Design — PDF page 242
+- 4.3 Experiment 1: Comparison of Feature Sets — PDF page 243
+- 4.4 Experiment 2: Comparison of Techniques — PDF page 244
+- 4.5 Experiment 3: Ablation Testing — PDF page 245
+- 4.6 Hypotheses Results — PDF page 245
+- 4.6.1 H1: Feature Comparison — PDF page 245
+- 4.6.2 H2: Technique Comparison — PDF page 247
+- 4.6.3 H3: Ablation Tests — PDF page 247
+- 5 Case Study: Al-Firdaws vs. Montada — PDF page 247
+- 6 Conclusions — PDF page 250
+- References — PDF page 250
+- Chapter 12: CyberGate Visualization — PDF page 254
+- 1 Introduction — PDF page 254
+- 2 Background — PDF page 256
+- 2.1 CMC Content — PDF page 256
+- 2.2 CMC Systems — PDF page 257
+- 2.3 Need for CMC Systems Supporting Text Analysis — PDF page 259
+- 3 CMC Text Mining — PDF page 260
+- 3.1 Tasks — PDF page 260
+- 3.2 Information Types — PDF page 261
+- 3.3 Features — PDF page 262
+- 3.4 Feature Selection — PDF page 263
+- 3.5 Visualization — PDF page 264
+- 4 A Design Framework for CMC Text Analysis — PDF page 265
+- 4.1 Meta-requirements — PDF page 267
+- 4.2 Meta-design — PDF page 267
+- 5 System Design: The CyberGate System — PDF page 268
+- 5.1 Information Types and Features — PDF page 268
+- 5.2 Feature Selection — PDF page 269
+- 5.3 Visualization — PDF page 270
+- 5.4 Writeprints and Ink Blots — PDF page 272
+- 5.4.1 Writeprints — PDF page 273
+- 5.4.2 Ink Blots — PDF page 274
+- 6 CyberGate Case Studies: Clearguidance.com and Ummah.com — PDF page 275
+- 6.1 Clearguidance.com — PDF page 275
+- 6.2 Ummah.com — PDF page 277
+- 7 Conclusions — PDF page 279
+- References — PDF page 280
+- Chapter 13: Dark Web Forum Portal — PDF page 284
+- 1 Introduction — PDF page 284
+- 2 Literature Review — PDF page 285
+- 2.1 Incremental Forum Spidering — PDF page 285
+- 2.2 Multilingual Translation — PDF page 286
+- 2.3 Social Network Analysis on Web Forums — PDF page 286
+- 3 Motivation and Research Questions — PDF page 287
+- 4 System Design — PDF page 288
+- 4.1 Data Acquisition — PDF page 288
+- 4.2 Data Preparation — PDF page 290
+- 4.3 System Functionality — PDF page 290
+- 5 Data Set: Dark Web Forums — PDF page 290
+- 6 System Functionality — PDF page 291
+- 6.1 Forum Browsing and Searching — PDF page 292
+- 6.1.1 Browsing and Searching for a Single Forum — PDF page 292
+- 6.1.2 Browsing and Searching for Multiple Forums — PDF page 292
+- 6.2 Social Network Visualization — PDF page 293
+- 7 Case Study: Identifying Active Participants in Dark Web Forums Using Social Network Analysis — PDF page 295
+- 8 Conclusions and Future Directions — PDF page 296
+- References — PDF page 296
+- Part III: Dark Web Research: Case Studies — PDF page 298
+- Chapter 14: Jihadi Video Analysis — PDF page 300
+- 1 Introduction — PDF page 300
+- 2 Jihadi Groups’ Videos — PDF page 301
+- 2.1 Dissemination of Extremist Groups’ Videos — PDF page 302
+- 3 Collections of Extremist Groups’ Videos — PDF page 303
+- 4 Content Analysis of Videos — PDF page 305
+- 4.1 Sample Collection — PDF page 306
+- 4.2 Coding the Videos — PDF page 306
+- 4.3 Inter-coder Reliability — PDF page 307
+- 5 Types of Videos Produced — PDF page 307
+- 5.1 Documentary Videos — PDF page 307
+- 5.2 Suicide Attack Videos — PDF page 309
+- 6 How the Groups Used the Videos — PDF page 310
+- 6.1 Groups Identified — PDF page 311
+- 7 Groups’ Modus Operandi and Production Features — PDF page 312
+- 7.1 Production Features — PDF page 313
+- 8 Conclusions — PDF page 314
+- Appendix A List of Sample Videos — PDF page 316
+- Appendix B Coding Scheme — PDF page 318
+- References — PDF page 319
+- Chapter 15: Extremist YouTube Videos — PDF page 322
+- 1 Introduction — PDF page 322
+- 2 Literature Review — PDF page 323
+- 2.1 Video Domains — PDF page 325
+- 2.2 Feature Types — PDF page 326
+- 2.2.1 Nontext Features — PDF page 326
+- 2.2.2 Text Features — PDF page 327
+- 2.3 Classification Techniques — PDF page 328
+- 3 Research Gaps and Research Questions — PDF page 329
+- 4 System Design — PDF page 331
+- 4.1 Data Collection — PDF page 331
+- 4.2 Feature Generation — PDF page 332
+- 4.2.1 Feature Extraction — PDF page 332
+- 4.2.2 Feature Set Generation — PDF page 333
+- 4.2.3 Feature Selection — PDF page 334
+- 4.3 Classification and Evaluation — PDF page 335
+- 5 Test Bed and Hypotheses — PDF page 336
+- 5.1 Test Bed — PDF page 336
+- 5.2 Hypotheses — PDF page 337
+- 6 Experiment Results and Discussion — PDF page 338
+- 7 A Case Study: Domestic Extremist Videos — PDF page 338
+- 8 Conclusions and Future Directions — PDF page 340
+- References — PDF page 341
+- Chapter 16: Improvised Explosive Devices (IED) on Dark Web — PDF page 346
+- 1 Introduction — PDF page 346
+- 2 Cyber-Archaeology Framework for Social Movement Research — PDF page 348
+- 3 Case Study — PDF page 350
+- 3.1 Introduction — PDF page 350
+- 3.2 Cyber-Archaeology Framework Phase 1 — PDF page 351
+- 3.3 Cyber-Archaeology Framework Phase 2 — PDF page 352
+- 3.3.1 Cyber-Artifact Collection — PDF page 352
+- 3.3.2 Cyber-Artifact Classification — PDF page 354
+- 3.4 Cyber-Archaeology Framework Phase 3 — PDF page 359
+- 4 Conclusion — PDF page 364
+- References — PDF page 365
+- Chapter 17: Weapons of Mass Destruction (WMD) on Dark Web — PDF page 368
+- 1 Introduction — PDF page 368
+- 2 Literature Review: Knowledge Mapping and Focused Web Crawling — PDF page 369
+- 2.1 Knowledge Mapping — PDF page 369
+- 2.1.1 Text Mining — PDF page 369
+- 2.1.2 Network Analysis — PDF page 370
+- 2.1.3 Information Visualization — PDF page 370
+- 2.2 Focused Web Crawling — PDF page 370
+- 2.2.1 Accessibility — PDF page 371
+- 2.2.2 Content Richness — PDF page 371
+- 2.2.3 URL Ordering Techniques — PDF page 371
+- 3 The Capability-Accessibility-Intent Model for Nuclear Threat Detection: Nuclear Web and Dark Web — PDF page 371
+- 3.1 Capability — PDF page 372
+- 3.2 Accessibility — PDF page 372
+- 3.3 Intent — PDF page 373
+- 4 Case Study: Nuclear Web and Dark Web — PDF page 373
+- 4.1 Knowledge Mapping for Nuclear Web — PDF page 373
+- 4.2 Focused Web Crawling for Dark Web — PDF page 374
+- 5 Conclusions — PDF page 379
+- References — PDF page 380
+- Chapter 18: Bioterrorism Knowledge Mapping — PDF page 382
+- 1 Introduction — PDF page 382
+- 2 Literature Review — PDF page 383
+- 2.1 Bioterrorism Literature Analysis — PDF page 383
+- 2.2 Knowledge Mapping — PDF page 383
+- 2.2.1 Text Mining — PDF page 383
+- 2.2.2 Network Analysis — PDF page 384
+- 2.2.3 Information Visualization — PDF page 384
+- 3 Research Test Bed — PDF page 385
+- 4 Research Design — PDF page 386
+- 4.1 Data Acquisition — PDF page 387
+- 4.2 Data Parsing and Cleaning — PDF page 387
+- 4.3 Data Analysis — PDF page 388
+- 5 Analysis Results and Discussion — PDF page 388
+- 5.1 Productivity Status of Bioterrorism Research — PDF page 388
+- 5.2 Collaboration Status of Bioterrorism Researchers — PDF page 389
+- 5.3 Emerging Topics of Bioterrorism Research — PDF page 391
+- 6 Conclusions and Future Directions — PDF page 393
+- References — PDF page 393
+- Chapter 19: Women’s Forums on the Dark Web — PDF page 396
+- 1 Introduction — PDF page 396
+- 2 Literature Review — PDF page 397
+- 2.1 Online Gender Differences — PDF page 397
+- 2.2 Online Text Classification — PDF page 399
+- 2.2.1 Different Types of Online Text Classification Problems — PDF page 399
+- 2.2.2 Features for Online Social Media Text Classification — PDF page 402
+- 2.2.3 Different Types of Online Social Media Texts — PDF page 403
+- 3 Research Gaps and Questions — PDF page 403
+- 4 Research Design — PDF page 404
+- 4.1 Web Forum Message Acquisition — PDF page 404
+- 4.2 Feature Generation — PDF page 404
+- 4.3 Classification and Evaluation — PDF page 407
+- 5 Experimental Study — PDF page 408
+- 5.1 Test Bed — PDF page 408
+- 5.2 Hypotheses — PDF page 409
+- 5.3 Experimental Results — PDF page 409
+- 5.4 Different Topics of Interest: Females and Males — PDF page 409
+- 6 Conclusions and Future Directions — PDF page 412
+- References — PDF page 413
+- Chapter 20: US Domestic Extremist Groups — PDF page 418
+- 1 Introduction — PDF page 418
+- 2 Previous Research — PDF page 419
+- 2.1 Social Movement Research on Extremists and the Internet — PDF page 419
+- 2.2 Web Harvesting Approaches — PDF page 420
+- 2.3 Web Link and Content Analysis — PDF page 421
+- 3 Proposed Approach — PDF page 422
+- 3.1 Collection Building — PDF page 422
+- 3.2 Link Analysis — PDF page 424
+- 3.3 Content Analysis — PDF page 425
+- 4 Test Bed: Collection of Domestic Extremist Web Sites — PDF page 426
+- 5 Analysis Results — PDF page 427
+- 5.1 Link Analysis Results — PDF page 427
+- 5.2 Content Analysis Results — PDF page 429
+- 6 Conclusions and Future Work — PDF page 431
+- References — PDF page 431
+- Chapter 21: International Falun Gong Movement on the Web — PDF page 434
+- 1 Introduction — PDF page 434
+- 2 Literature Review — PDF page 435
+- 2.1 Social Movement Theory — PDF page 435
+- 2.2 Social Movement Organizations and the Internet — PDF page 436
+- 2.3 Social Network Analysis — PDF page 437
+- 2.4 Writeprints — PDF page 438
+- 3 Research Design: A Case Study of the International FLG Movement — PDF page 439
+- 3.1 The Falun Gong Movement — PDF page 439
+- 3.2 Research Design — PDF page 440
+- 3.2.1 Cyber-Artifacts Collection — PDF page 441
+- 3.2.2 Cyber-Artifact Analysis — PDF page 443
+- 4 Research Results — PDF page 444
+- 4.1 Link Analysis — PDF page 444
+- 4.2 Web Content Analysis — PDF page 446
+- 4.3 Forum Content Analysis — PDF page 446
+- 4.3.1 Thread Topics — PDF page 446
+- 4.3.2 Author Interaction — PDF page 449
+- 5 Conclusions — PDF page 450
+- References — PDF page 451
+- Chapter 22: Botnets and Cyber Criminals — PDF page 454
+- 1 Introduction — PDF page 454
+- 1.1 The Underground Economy — PDF page 456
+- 1.2 Terrorism Online — PDF page 457
+- 2 Research Test Bed: The Shadowserver Foundation — PDF page 458
+- 2.1 Honeypots — PDF page 458
+- 2.2 Malware Analysis — PDF page 458
+- 2.3 Snooping — PDF page 459
+- 3 Investigating the Botnet World — PDF page 459
+- 3.1 Dataset Processing — PDF page 460
+- 3.2 Criminal Social Networks — PDF page 462
+- 4 Future Work — PDF page 465
+- 5 Conclusions — PDF page 465
+- References — PDF page 466
+- Index — PDF page 468

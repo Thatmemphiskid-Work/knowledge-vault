@@ -1,0 +1,472 @@
+# Gray-Hat-Hacking-The-Ethical-Hacker-s-Handbook
+
+Local source: [Gray-Hat-Hacking-The-Ethical-Hacker-s-Handbook.pdf](../../Gray-Hat-Hacking-The-Ethical-Hacker-s-Handbook.pdf)
+
+Pages: 792. SHA-256: `0ec973a2bea9da03e19440700968ff76b72dbf3797ea82a4c4843f2eeb7a175b`.
+Extracted text is searchable in the app with exact PDF page references.
+0 pages have fewer than 40 extracted characters; scans, diagrams and tables may require visual review. No OCR was performed.
+Books are background references, not current affected-version authorities. Do not infer a CVE test from a book keyword match.
+
+## Embedded table of contents
+- Cover — PDF page 1
+- Title Page — PDF page 5
+- Copyright Page — PDF page 7
+- Dedication — PDF page 9
+- Contents — PDF page 14
+- Preface — PDF page 30
+- Acknowledgments — PDF page 31
+- Introduction — PDF page 33
+- Part I Preparation — PDF page 36
+- Chapter 1 Why Gray Hat Hacking? Ethics and Law — PDF page 37
+- Know Your Enemy — PDF page 37
+- The Current Security Landscape — PDF page 38
+- Recognizing an Attack — PDF page 39
+- The Gray Hat Way — PDF page 40
+- Emulating the Attack — PDF page 41
+- Frequency and Focus of Testing — PDF page 44
+- Evolution of Cyberlaw — PDF page 45
+- Understanding Individual Cyberlaws — PDF page 45
+- Summary — PDF page 49
+- References — PDF page 49
+- Chapter 2 Programming Survival Skills — PDF page 51
+- C Programming Language — PDF page 51
+- Basic C Language Constructs — PDF page 51
+- Sample Program — PDF page 60
+- Compiling with gcc — PDF page 61
+- Computer Memory — PDF page 62
+- Random Access Memory — PDF page 63
+- Endian — PDF page 63
+- Segmentation of Memory — PDF page 64
+- Programs in Memory — PDF page 64
+- Buffers — PDF page 66
+- Strings in Memory — PDF page 66
+- Pointers — PDF page 66
+- Putting the Pieces of Memory Together — PDF page 67
+- Intel Processors — PDF page 68
+- Registers — PDF page 68
+- Assembly Language Basics — PDF page 69
+- Machine vs. Assembly vs. C — PDF page 70
+- AT&T vs. NASM — PDF page 70
+- Addressing Modes — PDF page 73
+- Assembly File Structure — PDF page 74
+- Assembling — PDF page 74
+- Debugging with gdb — PDF page 75
+- gdb Basics — PDF page 75
+- Disassembly with gdb — PDF page 76
+- Python Survival Skills — PDF page 78
+- Getting Python — PDF page 78
+- “Hello, World!” in Python — PDF page 78
+- Python Objects — PDF page 79
+- Strings — PDF page 79
+- Numbers — PDF page 81
+- Lists — PDF page 82
+- Dictionaries — PDF page 83
+- Files with Python — PDF page 84
+- Sockets with Python — PDF page 86
+- Summary — PDF page 87
+- For Further Reading — PDF page 87
+- References — PDF page 88
+- Chapter 3 Next-Generation Fuzzing — PDF page 89
+- Introduction to Fuzzing — PDF page 89
+- Types of Fuzzers — PDF page 90
+- Mutation Fuzzers — PDF page 90
+- Generation Fuzzers — PDF page 90
+- Genetic Fuzzing — PDF page 91
+- Mutation Fuzzing with Peach — PDF page 91
+- Lab 3-1: Mutation Fuzzing with Peach — PDF page 97
+- Generation Fuzzing with Peach — PDF page 98
+- Crash Analysis — PDF page 102
+- Lab 3-2: Generation Fuzzing with Peach — PDF page 105
+- Genetic or Evolutionary Fuzzing with AFL — PDF page 106
+- Lab 3-3: Genetic Fuzzing with AFL — PDF page 110
+- Summary — PDF page 111
+- For Further Reading — PDF page 111
+- Chapter 4 Next-Generation Reverse Engineering — PDF page 113
+- Code Annotation — PDF page 113
+- IDB Annotation with IDAscope — PDF page 113
+- C++ Code Analysis — PDF page 122
+- Collaborative Analysis — PDF page 126
+- Leveraging Collaborative Knowledge Using FIRST — PDF page 127
+- Collaboration with BinNavi — PDF page 130
+- Dynamic Analysis — PDF page 133
+- Automated Dynamic Analysis with Cuckoo Sandbox — PDF page 133
+- Bridging the Static-Dynamic Tool Gap with Labeless — PDF page 135
+- Summary — PDF page 139
+- For Further Reading — PDF page 139
+- References — PDF page 140
+- Chapter 5 Software-Defined Radio — PDF page 141
+- Getting Started with SDR — PDF page 141
+- What to Buy — PDF page 141
+- Not So Quick: Know the Rules — PDF page 143
+- Learn by Example — PDF page 143
+- Search — PDF page 144
+- Capture — PDF page 145
+- Replay — PDF page 149
+- Analyze — PDF page 153
+- Preview — PDF page 160
+- Execute — PDF page 163
+- Summary — PDF page 164
+- For Further Reading — PDF page 164
+- Part II Business of Hacking — PDF page 166
+- Chapter 6 So You Want to Be a Pen Tester? — PDF page 167
+- The Journey from Novice to Expert — PDF page 167
+- Pen Tester Ethos — PDF page 168
+- Pen Tester Taxonomy — PDF page 168
+- The Future of Hacking — PDF page 169
+- Know the Tech — PDF page 169
+- Know What Good Looks Like — PDF page 170
+- Pen Tester Training — PDF page 170
+- Practice — PDF page 171
+- Degree Programs — PDF page 174
+- Knowledge Transfer — PDF page 175
+- Pen Tester Tradecraft — PDF page 176
+- Personal Liability — PDF page 176
+- Being the Trusted Advisor — PDF page 177
+- Managing a Pen Test — PDF page 179
+- Summary — PDF page 183
+- For Further Reading — PDF page 183
+- Chapter 7 Red Teaming Operations — PDF page 186
+- Red Team Operations — PDF page 187
+- Strategic, Operational, and Tactical Focus — PDF page 188
+- Assessment Comparisons — PDF page 188
+- Red Teaming Objectives — PDF page 190
+- What Can Go Wrong — PDF page 191
+- Limited Scope — PDF page 191
+- Limited Time — PDF page 191
+- Limited Audience — PDF page 191
+- Overcoming Limitations — PDF page 191
+- Communications — PDF page 192
+- Planning Meetings — PDF page 192
+- Defining Measurable Events — PDF page 193
+- Understanding Threats — PDF page 194
+- Attack Frameworks — PDF page 195
+- Testing Environment — PDF page 196
+- Adaptive Testing — PDF page 197
+- External Assessment — PDF page 198
+- Physical Security Assessment — PDF page 198
+- Social Engineering — PDF page 199
+- Internal Assessment — PDF page 199
+- Lessons Learned — PDF page 201
+- Summary — PDF page 201
+- References — PDF page 202
+- Chapter 8 Purple Teaming — PDF page 203
+- Introduction to Purple Teaming — PDF page 203
+- Blue Team Operations — PDF page 205
+- Know Your Enemy — PDF page 206
+- Know Yourself — PDF page 206
+- Security Program — PDF page 207
+- Incident Response Program — PDF page 207
+- Common Blue Teaming Challenges — PDF page 210
+- Purple Teaming Operations — PDF page 211
+- Decision Frameworks — PDF page 211
+- Disrupting the Kill Chain — PDF page 212
+- Kill Chain Countermeasure Framework — PDF page 214
+- Communication — PDF page 215
+- Purple Team Optimization — PDF page 216
+- Summary — PDF page 218
+- For Further Reading — PDF page 218
+- References — PDF page 218
+- Chapter 9 Bug Bounty Programs — PDF page 220
+- History of Vulnerability Disclosure — PDF page 220
+- Full Vendor Disclosure — PDF page 222
+- Full Public Disclosure — PDF page 222
+- Responsible Disclosure — PDF page 223
+- No More Free Bugs — PDF page 224
+- Bug Bounty Programs — PDF page 225
+- Types of Bug Bounty Programs — PDF page 225
+- Incentives — PDF page 227
+- Controversy Surrounding Bug Bounty Programs — PDF page 227
+- Popular Bug Bounty Program Facilitators — PDF page 228
+- Bugcrowd in Depth — PDF page 228
+- Program Owner Web Interface — PDF page 229
+- Program Owner API Example — PDF page 235
+- Researcher Web Interface — PDF page 235
+- Earning a Living Finding Bugs — PDF page 237
+- Selecting a Target — PDF page 237
+- Registering (If Required) — PDF page 237
+- Understanding the Rules of the Game — PDF page 238
+- Finding Vulnerabilities — PDF page 238
+- Reporting Vulnerabilities — PDF page 238
+- Cashing Out — PDF page 239
+- Incident Response — PDF page 239
+- Communication — PDF page 239
+- Triage — PDF page 240
+- Remediation — PDF page 240
+- Disclosure to Users — PDF page 240
+- Public Relations — PDF page 241
+- Summary — PDF page 241
+- For Further Reading — PDF page 241
+- References — PDF page 242
+- Part III Exploiting Systems — PDF page 245
+- Chapter 10 Getting Shells Without Exploits — PDF page 246
+- Capturing Password Hashes — PDF page 246
+- Understanding LLMNR and NBNS — PDF page 246
+- Understanding Windows NTLMv1 and NTLMv2 Authentication — PDF page 247
+- Using Responder — PDF page 248
+- Lab 10-1: Getting Passwords with Responder — PDF page 251
+- Using Winexe — PDF page 254
+- Lab 10-2: Using Winexe to Access Remote Systems — PDF page 254
+- Lab 10-3: Using Winexe to Gain Elevated Privileges — PDF page 255
+- Using WMI — PDF page 256
+- Lab 10-4: Querying System Information with WMI — PDF page 256
+- Lab 10-5: Executing Commands with WMI — PDF page 259
+- Taking Advantage of WinRM — PDF page 262
+- Lab 10-6: Executing Commands with WinRM — PDF page 262
+- Lab 10-7: Using WinRM to Run PowerShell Remotely — PDF page 263
+- Summary — PDF page 266
+- For Further Reading — PDF page 266
+- Reference — PDF page 266
+- Chapter 11 Basic Linux Exploits — PDF page 267
+- Stack Operations and Function-Calling Procedures — PDF page 267
+- Buffer Overflows — PDF page 269
+- Lab 11-1: Overflowing meet.c — PDF page 271
+- Ramifications of Buffer Overflows — PDF page 276
+- Local Buffer Overflow Exploits — PDF page 277
+- Lab 11-2: Components of the Exploit — PDF page 277
+- Lab 11-3: Exploiting Stack Overflows from the Command Line — PDF page 280
+- Lab 11-4: Exploiting Stack Overflows with Generic Exploit Code — PDF page 283
+- Lab 11-5: Exploiting Small Buffers — PDF page 286
+- Exploit Development Process — PDF page 289
+- Lab 11-6: Building Custom Exploits — PDF page 290
+- Summary — PDF page 297
+- For Further Reading — PDF page 297
+- Chapter 12 Advanced Linux Exploits — PDF page 298
+- Format String Exploits — PDF page 298
+- Format Strings — PDF page 298
+- Lab 12-1: Reading from Arbitrary Memory — PDF page 304
+- Lab 12-2: Writing to Arbitrary Memory — PDF page 307
+- Lab 12-3: Changing Program Execution — PDF page 309
+- Memory Protection Schemes — PDF page 313
+- Compiler Improvements — PDF page 313
+- Lab 11-4: Bypassing Stack Protection — PDF page 315
+- Kernel Patches and Scripts — PDF page 318
+- Lab 12-5: Return to libc Exploits — PDF page 320
+- Lab 12-6: Maintaining Privileges with ret2libc — PDF page 325
+- Bottom Line — PDF page 330
+- Summary — PDF page 331
+- For Further Reading — PDF page 331
+- References — PDF page 332
+- Chapter 13 Windows Exploits — PDF page 333
+- Compiling and Debugging Windows Programs — PDF page 334
+- Lab 13-1: Compiling on Windows — PDF page 334
+- Windows Compiler Options — PDF page 336
+- Debugging on Windows with Immunity Debugger — PDF page 337
+- Lab 13-2: Crashing the Program — PDF page 340
+- Writing Windows Exploits — PDF page 344
+- Exploit Development Process Review — PDF page 344
+- Lab 13-3: Exploiting ProSSHD Server — PDF page 344
+- Understanding Structured Exception Handling (SEH) — PDF page 359
+- Understanding and Bypassing Windows Memory Protections — PDF page 362
+- Safe Structured Exception Handling (SafeSEH) — PDF page 362
+- Bypassing SafeSEH — PDF page 362
+- SEH Overwrite Protection (SEHOP) — PDF page 364
+- Bypassing SEHOP — PDF page 364
+- Stack-Based Buffer Overrun Detection (/GS) — PDF page 374
+- Bypassing /GS — PDF page 375
+- Heap Protections — PDF page 376
+- Summary — PDF page 377
+- For Further Reading — PDF page 377
+- References — PDF page 378
+- Chapter 14 Advanced Windows Exploitation — PDF page 380
+- Data Execution Prevention (DEP) — PDF page 380
+- Address Space Layout Randomization (ASLR) — PDF page 381
+- Enhanced Mitigation Experience Toolkit (EMET) and Windows Defender Exploit Guard — PDF page 382
+- Bypassing ASLR — PDF page 383
+- Bypassing DEP and Avoiding ASLR — PDF page 384
+- VirtualProtect — PDF page 385
+- Return-Oriented Programming — PDF page 385
+- Gadgets — PDF page 386
+- Building the ROP Chain — PDF page 387
+- Defeating ASLR Through a Memory Leak — PDF page 393
+- Triggering the Bug — PDF page 394
+- Tracing the Memory Leak — PDF page 398
+- Weaponizing the Memory Leak — PDF page 412
+- Building the RVA ROP Chain — PDF page 415
+- Summary — PDF page 418
+- For Further Reading — PDF page 419
+- References — PDF page 419
+- Chapter 15 PowerShell Exploitation — PDF page 421
+- Why PowerShell — PDF page 421
+- Living Off the Land — PDF page 421
+- PowerShell Logging — PDF page 422
+- PowerShell Portability — PDF page 423
+- Loading PowerShell Scripts — PDF page 423
+- Lab 15-1: The Failure Condition — PDF page 424
+- Lab 15-2: Passing Commands on the Command Line — PDF page 425
+- Lab 15-3: Encoded Commands — PDF page 426
+- Lab 15-4: Bootstrapping via the Web — PDF page 428
+- Exploitation and Post-Exploitation with PowerSploit — PDF page 430
+- Lab 15-5: Setting Up PowerSploit — PDF page 430
+- Lab 15-6: Running Mimikatz Through PowerShell — PDF page 432
+- Lab 15-7: Creating a Persistent Meterpreter Using PowerSploit — PDF page 435
+- Using PowerShell Empire for C2 — PDF page 439
+- Lab 15-8: Setting Up Empire — PDF page 439
+- Lab 15-9: Staging an Empire C2 — PDF page 439
+- Lab 15-10: Using Empire to Own the System — PDF page 440
+- Summary — PDF page 443
+- For Further Reading — PDF page 443
+- References — PDF page 443
+- Chapter 16 Next-Generation Web Application Exploitation — PDF page 445
+- The Evolution of Cross-Site Scripting (XSS) — PDF page 445
+- Setting Up the Environment — PDF page 446
+- Lab 16-1: XSS Refresher — PDF page 447
+- Lab 16-2: XSS Evasion from Internet Wisdom — PDF page 451
+- Lab 16-3: Changing Application Logic with XSS — PDF page 454
+- Lab 16-4: Using the DOM for XSS — PDF page 457
+- Framework Vulnerabilities — PDF page 462
+- Setting Up the Environment — PDF page 462
+- Lab 16-5: Exploiting CVE-2017-5638 — PDF page 463
+- Lab 16-6: Exploiting CVE-2017-9805 — PDF page 464
+- Padding Oracle Attacks — PDF page 467
+- Lab 16-7: Changing Data with the Padding Oracle Attack — PDF page 468
+- Summary — PDF page 472
+- For Further Reading — PDF page 472
+- References — PDF page 472
+- Chapter 17 Next-Generation Patch Exploitation — PDF page 473
+- Introduction to Binary Diffing — PDF page 473
+- Application Diffing — PDF page 473
+- Patch Diffing — PDF page 474
+- Binary Diffing Tools — PDF page 475
+- BinDiff — PDF page 476
+- turbodiff — PDF page 478
+- Lab 17-1: Our First Diff — PDF page 480
+- Patch Management Process — PDF page 484
+- Microsoft Patch Tuesday — PDF page 484
+- Obtaining and Extracting Microsoft Patches — PDF page 485
+- Lab 17-2: Diffing MS17-010 — PDF page 487
+- Patch Diffing for Exploitation — PDF page 491
+- DLL Side-Loading Bugs — PDF page 491
+- Lab 17-3: Diffing MS16-009 — PDF page 493
+- Summary — PDF page 499
+- For Further Reading — PDF page 499
+- References — PDF page 499
+- Part IV Advanced Malware Analysis — PDF page 501
+- Chapter 18 Dissecting Mobile Malware — PDF page 502
+- The Android Platform — PDF page 502
+- Android Application Package — PDF page 502
+- Application Manifest — PDF page 505
+- Analyzing DEX — PDF page 507
+- Java Decompilation — PDF page 509
+- DEX Decompilation — PDF page 511
+- DEX Disassembling — PDF page 513
+- Example 18-1: Running APK in Emulator — PDF page 515
+- Malware Analysis — PDF page 518
+- The iOS Platform — PDF page 525
+- iOS Security — PDF page 525
+- iOS Applications — PDF page 527
+- Summary — PDF page 531
+- For Further Reading — PDF page 531
+- References — PDF page 533
+- Chapter 19 Dissecting Ransomware — PDF page 535
+- The Beginnings of Ransomware — PDF page 535
+- Options for Paying the Ransom — PDF page 536
+- Dissecting Ransomlock — PDF page 537
+- Example 19-1: Dynamic Analysis — PDF page 537
+- Example 19-2: Static Analysis — PDF page 541
+- Wannacry — PDF page 557
+- Example 19-3: Analyzing Wannacry Ransomware — PDF page 557
+- Summary — PDF page 564
+- For Further Reading — PDF page 564
+- Chapter 20 ATM Malware — PDF page 566
+- ATM Overview — PDF page 566
+- XFS Overview — PDF page 570
+- XFS Architecture — PDF page 570
+- XFS Manager — PDF page 572
+- ATM Malware Analysis — PDF page 577
+- Types of ATM Malware — PDF page 577
+- Techniques for Installing Malware on ATMs — PDF page 579
+- Techniques for Dissecting the Malware — PDF page 581
+- ATM Malware Countermeasures — PDF page 591
+- Summary — PDF page 592
+- For Further Reading — PDF page 592
+- References — PDF page 592
+- Chapter 21 Deception: Next-Generation Honeypots — PDF page 594
+- Brief History of Deception — PDF page 594
+- Honeypots as a Form of Deception — PDF page 595
+- Deployment Considerations — PDF page 597
+- Setting Up a Virtual Machine — PDF page 598
+- Open Source Honeypots — PDF page 598
+- Lab 21-1: Dionaea — PDF page 598
+- Lab 21-2: ConPot — PDF page 603
+- Lab 21-3: Cowrie — PDF page 604
+- Lab 21-4: T-Pot — PDF page 607
+- Commercial Alternative: TrapX — PDF page 614
+- Summary — PDF page 626
+- For Further Reading — PDF page 626
+- References — PDF page 627
+- Part V Internet of Things — PDF page 629
+- Chapter 22 Internet of Things to Be Hacked — PDF page 630
+- Internet of Things (IoT) — PDF page 630
+- Types of Connected Things — PDF page 630
+- Wireless Protocols — PDF page 631
+- Communication Protocols — PDF page 632
+- Security Concerns — PDF page 632
+- Shodan IoT Search Engine — PDF page 633
+- Web Interface — PDF page 633
+- Shodan Command-Line Interface — PDF page 637
+- Lab 22-1: Using the Shodan Command Line — PDF page 637
+- Shodan API — PDF page 638
+- Lab 22-2: Testing the Shodan API — PDF page 639
+- Lab 22-3: Playing with MQTT — PDF page 640
+- Implications of This Unauthenticated Access to MQTT — PDF page 642
+- IoT Worms: It Was a Matter of Time — PDF page 643
+- Lab 22-4: Mirai Lives — PDF page 644
+- Prevention — PDF page 644
+- Summary — PDF page 644
+- For Further Reading — PDF page 644
+- References — PDF page 645
+- Chapter 23 Dissecting Embedded Devices — PDF page 648
+- CPU — PDF page 648
+- Microprocessor — PDF page 649
+- Microcontrollers — PDF page 649
+- System on Chip (SoC) — PDF page 649
+- Common Processor Architectures — PDF page 649
+- Serial Interfaces — PDF page 650
+- UART — PDF page 651
+- SPI — PDF page 657
+- I2C — PDF page 659
+- Debug Interfaces — PDF page 660
+- JTAG — PDF page 660
+- SWD (Serial Wire Debug) — PDF page 663
+- Software — PDF page 664
+- Bootloader — PDF page 665
+- No Operating System — PDF page 666
+- Real-Time Operating System — PDF page 667
+- General Operating System — PDF page 667
+- Summary — PDF page 668
+- For Further Reading — PDF page 668
+- References — PDF page 669
+- Chapter 24 Exploiting Embedded Devices — PDF page 671
+- Static Analysis of Vulnerabilities in Embedded Devices — PDF page 671
+- Lab 24-1: Analyzing the Update Package — PDF page 671
+- Lab 24-2: Performing Vulnerability Analysis — PDF page 676
+- Dynamic Analysis with Hardware — PDF page 680
+- The Test Environment Setup — PDF page 680
+- Ettercap — PDF page 680
+- Dynamic Analysis with Emulation — PDF page 685
+- FIRMADYNE — PDF page 685
+- Lab 24-3: Setting Up FIRMADYNE — PDF page 685
+- Lab 24-4: Emulating Firmware — PDF page 687
+- Lab 24-5: Exploiting Firmware — PDF page 691
+- Summary — PDF page 693
+- Further Reading — PDF page 693
+- References — PDF page 693
+- Chapter 25 Fighting IoT Malware — PDF page 695
+- Physical Access to the Device — PDF page 695
+- RS-232 Overview — PDF page 696
+- RS-232 Pinout — PDF page 696
+- Exercise 25-1: Troubleshooting a Medical Device’s RS-232 Port — PDF page 697
+- Setting Up the Threat Lab — PDF page 706
+- ARM and MIPS Overview — PDF page 707
+- Lab 25-1: Setting Up Systems with QEMU — PDF page 709
+- Dynamic Analysis of IoT Malware — PDF page 712
+- Lab 25-2: IoT Malware Dynamic Analysis — PDF page 712
+- Platform for Architecture-Neutral Dynamic Analysis (PANDA) — PDF page 714
+- BeagleBone Black Board — PDF page 714
+- Reverse Engineering IoT Malware — PDF page 715
+- Crash-Course ARM/MIPS Instruction Set — PDF page 715
+- Lab 25-3: IDA Pro Remote Debugging and Reversing — PDF page 718
+- IoT Malware Reversing Exercise — PDF page 724
+- Summary — PDF page 727
+- For Further Reading — PDF page 727
+- Index — PDF page 729

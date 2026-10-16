@@ -1,0 +1,117 @@
+# Attacking_Network_Protocols_A_Hacker’s_Guide_to_Capture,_Analysis
+
+Local source: [Attacking_Network_Protocols_A_Hacker’s_Guide_to_Capture,_Analysis.pdf](../../hacking-main/Attacking_Network_Protocols_A_Hacker’s_Guide_to_Capture,_Analysis.pdf)
+
+Pages: 380. SHA-256: `d4f6ca0cd70272390e6467627492767b320d48c9078bc43ec28417d73423a4f7`.
+Extracted text is searchable in the app with exact PDF page references.
+4 pages have fewer than 40 extracted characters; scans, diagrams and tables may require visual review. No OCR was performed.
+Books are background references, not current affected-version authorities. Do not infer a CVE test from a book keyword match.
+
+## Embedded table of contents
+- Title Page — PDF page 2
+- Copyright Page — PDF page 3
+- About the Author — PDF page 4
+- About the Technical Reviewer — PDF page 5
+- Brief Contents — PDF page 6
+- Contents in Detail — PDF page 7
+- Foreword by Katie Moussouris — PDF page 15
+- Acknowledgments — PDF page 18
+- Introduction — PDF page 19
+- Why Read This Book? — PDF page 19
+- What’s in This Book? — PDF page 19
+- How to Use This Book — PDF page 21
+- Contact Me — PDF page 22
+- Chapter 1: The Basics of Networking — PDF page 23
+- Network Architecture and Protocols — PDF page 23
+- The Internet Protocol Suite — PDF page 24
+- Data Encapsulation — PDF page 26
+- Network Routing — PDF page 29
+- My Model for Network Protocol Analysis — PDF page 30
+- Final Words — PDF page 32
+- Chapter 2: Capturing Application Traffic — PDF page 34
+- Passive Network Traffic Capture — PDF page 34
+- Quick Primer for Wireshark — PDF page 35
+- Alternative Passive Capture Techniques — PDF page 37
+- Advantages and Disadvantages of Passive Capture — PDF page 43
+- Active Network Traffic Capture — PDF page 43
+- Network Proxies — PDF page 44
+- Final Words — PDF page 59
+- Chapter 3: Network Protocol Structures — PDF page 60
+- Binary Protocol Structures — PDF page 60
+- Dates and Times — PDF page 74
+- Tag, Length, Value Pattern — PDF page 74
+- Multiplexing and Fragmentation — PDF page 75
+- Network Address Information — PDF page 76
+- Structured Binary Formats — PDF page 78
+- Text Protocol Structures — PDF page 79
+- Encoding Binary Data — PDF page 83
+- Final Words — PDF page 86
+- Chapter 4: Advanced Application Traffic Capture — PDF page 87
+- Rerouting Traffic — PDF page 87
+- Configuring a Router — PDF page 89
+- Network Address Translation — PDF page 91
+- Forwarding Traffic to a Gateway — PDF page 94
+- Final Words — PDF page 102
+- Chapter 5: Analysis from the Wire — PDF page 103
+- The Traffic-Producing Application: SuperFunkyChat — PDF page 103
+- A Crash Course in Analysis with Wireshark — PDF page 105
+- Identifying Packet Structure with Hex Dump — PDF page 110
+- Developing Wireshark Dissectors in Lua — PDF page 120
+- Using a Proxy to Actively Analyze Traffic — PDF page 128
+- Final Words — PDF page 134
+- Chapter 6: Application Reverse Engineering — PDF page 136
+- Compilers, Interpreters, and Assemblers — PDF page 136
+- The x86 Architecture — PDF page 139
+- Operating System Basics — PDF page 144
+- Static Reverse Engineering — PDF page 150
+- Dynamic Reverse Engineering — PDF page 162
+- Reverse Engineering Managed Languages — PDF page 166
+- Reverse Engineering Resources — PDF page 174
+- Final Words — PDF page 174
+- Chapter 7: Network Protocol Security — PDF page 175
+- Encryption Algorithms — PDF page 175
+- Random Number Generators — PDF page 179
+- Symmetric Key Cryptography — PDF page 179
+- Asymmetric Key Cryptography — PDF page 191
+- Signature Algorithms — PDF page 196
+- Public Key Infrastructure — PDF page 202
+- Case Study: Transport Layer Security — PDF page 205
+- Final Words — PDF page 213
+- Chapter 8: Implementing the Network Protocol — PDF page 214
+- Replaying Existing Captured Network Traffic — PDF page 214
+- Repurposing Existing Executable Code — PDF page 222
+- Encryption and Dealing with TLS — PDF page 233
+- Final Words — PDF page 241
+- Chapter 9: The Root Causes of Vulnerabilities — PDF page 242
+- Vulnerability Classes — PDF page 242
+- Memory Corruption Vulnerabilities — PDF page 244
+- Default or Hardcoded Credentials — PDF page 252
+- User Enumeration — PDF page 253
+- Incorrect Resource Access — PDF page 254
+- Memory Exhaustion Attacks — PDF page 258
+- Storage Exhaustion Attacks — PDF page 258
+- CPU Exhaustion Attacks — PDF page 259
+- Format String Vulnerabilities — PDF page 262
+- Command Injection — PDF page 263
+- SQL Injection — PDF page 264
+- Text-Encoding Character Replacement — PDF page 265
+- Final Words — PDF page 266
+- Chapter 10: Finding and Exploiting Security Vulnerabilities — PDF page 267
+- Fuzz Testing — PDF page 267
+- Vulnerability Triaging — PDF page 269
+- Exploiting Common Vulnerabilities — PDF page 279
+- Writing Shell Code — PDF page 289
+- Memory Corruption Exploit Mitigations — PDF page 300
+- Final Words — PDF page 310
+- Appendix: Network Protocol Analysis Toolkit — PDF page 311
+- Passive Network Protocol Capture and Analysis Tools — PDF page 311
+- Active Network Capture and Analysis — PDF page 314
+- Network Connectivity and Protocol Testing — PDF page 316
+- Web Application Testing — PDF page 317
+- Fuzzing, Packet Generation, and Vulnerability Exploitation Frameworks — PDF page 319
+- Network Spoofing and Redirection — PDF page 322
+- Executable Reverse Engineering — PDF page 322
+- Index — PDF page 327
+- Resources — PDF page 373
+- The Electronic Frontier Foundation (EFF) — PDF page 377
+- Footnotes — PDF page 380

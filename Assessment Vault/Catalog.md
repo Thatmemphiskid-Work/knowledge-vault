@@ -1,0 +1,1741 @@
+# Complete supplied KEV catalog
+
+- [[CVE-2015-5477]] — ISC / BIND
+- [[CVE-2016-3081]] — Apache / Struts
+- [[CVE-2023-22894]] — Strapi / Strapi
+- [[CVE-2021-3199]] — ONLYOFFICE / Docs
+- [[CVE-2015-3306]] — ProFTPD / ProFTPD
+- [[CVE-2026-88779]] — Citrix / NetScaler
+- [[CVE-2026-102490]] — Zammad GmbH / Zammad
+- [[CVE-2026-102489]] — Zammad GmbH / Zammad
+- [[CVE-2026-104286]] — Fortinet / FortiMail
+- [[CVE-2026-76504]] — Cisco / Catalyst SD-WAN Manager
+- [[CVE-2026-86950]] — Apple / Multiple Products
+- [[CVE-2026-88772]] — Citrix / NetScaler
+- [[CVE-2026-88771]] — Citrix / NetScaler
+- [[CVE-2026-67279]] — MikroTik / RouterOS
+- [[CVE-2026-65660]] — Microsoft / SharePoint
+- [[CVE-2026-87902]] — WordPress / Core
+- [[CVE-2026-5430]] — WSO2 / Multiple Products
+- [[CVE-2026-71362]] — Adobe / Commerce and Magento 
+- [[CVE-2026-93952]] — Arista / VeloCloud Orchestrator
+- [[CVE-2026-94127]] — F5 / BIG-IP APM
+- [[CVE-2026-93616]] — Check Point / Multiple Products
+- [[CVE-2026-85102]] — Check Point / Multiple Products
+- [[CVE-2026-7273]] — Zyxel / GS1900 Series Switches
+- [[CVE-2025-39964]] — Linux / Kernel
+- [[CVE-2026-53266]] — Linux / Kernel
+- [[CVE-2025-39682]] — Linux / Kernel
+- [[CVE-2026-58704]] — Google / Pixel
+- [[CVE-2026-76460]] — Cisco / Identity Services Engine
+- [[CVE-2026-87886]] — Acronis / Backup
+- [[CVE-2026-76461]] — Cisco / Secure Email Gateway
+- [[CVE-2026-84869]] — ConnectWise / ScreenConnect
+- [[CVE-2026-42016]] — JFrog / Artifactory
+- [[CVE-2026-42018]] — JFrog / Artifactory
+- [[CVE-2026-85706]] — GitLab / Community Edition and Enterprise Edition
+- [[CVE-2026-86060]] — MikroTik / RouterOS
+- [[CVE-2026-67277]] — MikroTik / RouterOS
+- [[CVE-2026-19490]] — Citrix / NetScaler
+- [[CVE-2025-25249]] — Fortinet / Multiple Products
+- [[CVE-2026-87491]] — Google / Chromium V8
+- [[CVE-2026-20079]] — Cisco / Secure Firewall Management Center (FMC) and Security Cloud Control (SCC) Firewall Management
+- [[CVE-2026-75650]] — Adobe / Commerce and Magento
+- [[CVE-2026-81963]] — Microsoft / Windows
+- [[CVE-2026-86218]] — N-able / N-central
+- [[CVE-2026-85880]] — Microsoft / Windows
+- [[CVE-2026-85046]] — Google / Chromium V8
+- [[CVE-2026-59822]] — BerriAI / LiteLLM
+- [[CVE-2026-48710]] — Kludex / Starlette
+- [[CVE-2026-49869]] — Kestra / Kestra OSS
+- [[CVE-2026-82329]] — JFrog / Artifactory
+- [[CVE-2026-9586]] — Sangoma / Switchvox
+- [[CVE-2026-83548]] — SonicWall / SMA1000 Appliances
+- [[CVE-2026-83549]] — SonicWall / SMA1000 Appliances
+- [[CVE-2026-82078]] — PaperCut / NG/MF
+- [[CVE-2026-81578]] — PaperCut / NG/MF
+- [[CVE-2023-49105]] — ownCloud / ownCloud
+- [[CVE-2026-53362]] — Linux / Kernel
+- [[CVE-2026-66384]] — JFrog / Artifactory
+- [[CVE-2021-23758]] — Ajax.NET Professional / Ajax.NET Professional
+- [[CVE-2015-3246]] — Red Hat / Libuser
+- [[CVE-2015-5287]] — Red Hat / Automatic Bug Reporting Tool
+- [[CVE-2022-0995]] — Linux / Kernel
+- [[CVE-2026-8452]] — Citrix / NetScaler ADC and NetScaler Gateway
+- [[CVE-2019-1068]] — Microsoft / SQL Server
+- [[CVE-2026-60004]] — Gitea / Gitea
+- [[CVE-2026-21962]] — Oracle / HTTP Server and Oracle Weblogic Server Proxy Plug-in
+- [[CVE-2026-73570]] — Synacor / Zimbra Collaboration Suite (ZCS)
+- [[CVE-2026-72530]] — TrueConf / Server
+- [[CVE-2026-72529]] — TrueConf / Server
+- [[CVE-2026-64849]] — MLflow / MLflow
+- [[CVE-2026-33824]] — Microsoft / Internet Key Exchange (IKE) Service Extensions
+- [[CVE-2026-59310]] — Broadcom / VMware vCenter
+- [[CVE-2026-55040]] — Microsoft / SharePoint
+- [[CVE-2026-65400]] — Apple / macOS
+- [[CVE-2025-62593]] — Ray-Project / Ray
+- [[CVE-2026-20349]] — Cisco / Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) 
+- [[CVE-2026-68820]] — Microsoft / Windows Ancillary Function Driver for WinSock 
+- [[CVE-2026-72898]] — Metabase / Metabase
+- [[CVE-2026-8037]] — Progress / LoadMaster
+- [[CVE-2026-63077]] — JetBrains / TeamCity
+- [[CVE-2026-18556]] — N-able / N-central
+- [[CVE-2026-34486]] — Apache / Tomcat
+- [[CVE-2026-9198]] — IBM / Langflow
+- [[CVE-2026-18577]] — N-able / N-central
+- [[CVE-2026-20316]] — Cisco / Secure Firewall Management Center (FMC)
+- [[CVE-2025-68686]] — Fortinet / FortiOS
+- [[CVE-2026-16812]] — Arista / VeloCloud Orchestrator
+- [[CVE-2026-16232]] — Check Point / SmartConsole
+- [[CVE-2026-50522]] — Microsoft / SharePoint
+- [[CVE-2026-60137]] — WordPress / Core
+- [[CVE-2026-63030]] — WordPress / Core
+- [[CVE-2026-0770]] — Langflow / Langflow
+- [[CVE-2021-27137]] — DD-WRT / DD-WRT
+- [[CVE-2026-58644]] — Microsoft / SharePoint
+- [[CVE-2026-25089]] — Fortinet / FortiSandbox
+- [[CVE-2026-39808]] — Fortinet / FortiSandbox
+- [[CVE-2026-46817]] — Oracle / E-Business Suite
+- [[CVE-2023-4346]] — KNX Association / KNX Protocol Connection Authorization Option 1
+- [[CVE-2026-56155]] — Microsoft / Active Directory Federation Services
+- [[CVE-2026-56164]] — Microsoft / SharePoint Server
+- [[CVE-2026-15409]] — SonicWall / SMA1000 Appliances
+- [[CVE-2026-15410]] — SonicWall / SMA1000 Appliances
+- [[CVE-2008-4128]] — Cisco / IOS
+- [[CVE-2026-56291]] — Balbooa / Forms
+- [[CVE-2026-48939]] — iCagenda / iCagenda
+- [[CVE-2026-48908]] — JoomShaper / SP Page Builder
+- [[CVE-2026-55255]] — Langflow / Langflow
+- [[CVE-2026-56290]] — Joomlack / Page Builder
+- [[CVE-2026-48282]] — Adobe / ColdFusion
+- [[CVE-2026-45659]] — Microsoft / SharePoint Server
+- [[CVE-2026-48558]] — SimpleHelp  / SimpleHelp
+- [[CVE-2026-12569]] — PTC / Windchill and FlexPLM
+- [[CVE-2026-20230]] — Cisco / Unified Communications Manager
+- [[CVE-2025-67038]] — Lantronix / EDS5000
+- [[CVE-2026-34910]] — Ubiquiti / UniFi OS
+- [[CVE-2026-34909]] — Ubiquiti / UniFi OS
+- [[CVE-2026-34908]] — Ubiquiti / UniFi OS
+- [[CVE-2026-20253]] — Splunk / Enterprise
+- [[CVE-2026-48907]] — Widget Factory / Joomla Content Editor 
+- [[CVE-2026-54420]] — LiteSpeed / cPanel Plugin
+- [[CVE-2026-20262]] — Cisco / Catalyst SD-WAN Manager
+- [[CVE-2026-35273]] — Oracle /  PeopleSoft Enterprise PeopleTools
+- [[CVE-2026-10520]] — Ivanti / Sentry
+- [[CVE-2026-11645]] — Google / Chromium V8
+- [[CVE-2026-7473]] — Arista / Extensible Operating System
+- [[CVE-2026-20245]] — Cisco / Catalyst SD-WAN Manager
+- [[CVE-2026-42271]] — BerriAI / LiteLLM
+- [[CVE-2026-50751]] — Check Point / Security Gateway
+- [[CVE-2026-28318]] — SolarWinds / Serv-U
+- [[CVE-2026-45247]] — Mirasvit / Mirasvit Full Page Cache Warmer
+- [[CVE-2022-0492]] — Linux / Kernel
+- [[CVE-2025-48595]] — Android / Framework
+- [[CVE-2024-21182]] — Oracle / WebLogic Server
+- [[CVE-2026-0257]] — Palo Alto Networks / PAN-OS
+- [[CVE-2026-48027]] — Nx / Nx Console
+- [[CVE-2026-45321]] — TanStack / TanStack
+- [[CVE-2026-8398]] — Daemon / Daemon Tools Lite
+- [[CVE-2026-48172]] — LiteSpeed / cPanel Plugin
+- [[CVE-2026-9082]] — Drupal / Core
+- [[CVE-2025-34291]] — Langflow / Langflow
+- [[CVE-2026-34926]] — Trend Micro / Apex One
+- [[CVE-2008-4250]] — Microsoft / Windows
+- [[CVE-2009-1537]] — Microsoft / DirectX
+- [[CVE-2009-3459]] — Adobe / Acrobat and Reader
+- [[CVE-2010-0249]] — Microsoft / Internet Explorer
+- [[CVE-2010-0806]] — Microsoft / Internet Explorer
+- [[CVE-2026-41091]] — Microsoft / Defender
+- [[CVE-2026-45498]] — Microsoft / Defender
+- [[CVE-2026-42897]] — Microsoft / Microsoft
+- [[CVE-2026-20182]] — Cisco / Catalyst SD-WAN
+- [[CVE-2026-42208]] — BerriAI / LiteLLM
+- [[CVE-2026-6973]] — Ivanti / Endpoint Manager Mobile (EPMM)
+- [[CVE-2026-0300]] — Palo Alto Networks / PAN-OS
+- [[CVE-2026-31431]] — Linux / Kernel
+- [[CVE-2026-41940]] — WebPros / cPanel & WHM and WP2 (WordPress Squared)
+- [[CVE-2024-1708]] — ConnectWise / ScreenConnect
+- [[CVE-2026-32202]] — Microsoft / Windows
+- [[CVE-2025-29635]] — D-Link / DIR-823X
+- [[CVE-2024-7399]] — Samsung / MagicINFO 9 Server
+- [[CVE-2024-57728]] — SimpleHelp  / SimpleHelp
+- [[CVE-2024-57726]] — SimpleHelp  / SimpleHelp
+- [[CVE-2026-39987]] — Marimo / Marimo
+- [[CVE-2026-33825]] — Microsoft / Defender
+- [[CVE-2026-20122]] — Cisco / Catalyst SD-WAN Manger
+- [[CVE-2026-20133]] — Cisco / Catalyst SD-WAN Manager
+- [[CVE-2025-2749]] — Kentico / Kentico Xperience
+- [[CVE-2023-27351]] — PaperCut / NG/MF
+- [[CVE-2025-48700]] — Synacor / Zimbra Collaboration Suite (ZCS)
+- [[CVE-2026-20128]] — Cisco / Catalyst SD-WAN Manager
+- [[CVE-2025-32975]] — Quest / KACE Systems Management Appliance (SMA)
+- [[CVE-2024-27199]] — JetBrains / TeamCity
+- [[CVE-2026-34197]] — Apache / ActiveMQ
+- [[CVE-2009-0238]] — Microsoft / Office
+- [[CVE-2026-32201]] — Microsoft / SharePoint Server
+- [[CVE-2012-1854]] — Microsoft / Visual Basic for Applications (VBA)
+- [[CVE-2025-60710]] — Microsoft / Windows
+- [[CVE-2023-21529]] — Microsoft / Exchange Server
+- [[CVE-2023-36424]] — Microsoft / Windows
+- [[CVE-2020-9715]] — Adobe / Acrobat
+- [[CVE-2026-21643]] — Fortinet / FortiClient EMS
+- [[CVE-2026-34621]] — Adobe / Acrobat and Reader
+- [[CVE-2026-1340]] — Ivanti / Endpoint Manager Mobile (EPMM)
+- [[CVE-2026-35616]] — Fortinet / FortiClient EMS
+- [[CVE-2026-3502]] — TrueConf / Client
+- [[CVE-2026-5281]] — Google / Dawn
+- [[CVE-2026-3055]] — Citrix / NetScaler
+- [[CVE-2025-53521]] — F5 / BIG-IP
+- [[CVE-2026-33634]] — Aquasecurity / Trivy
+- [[CVE-2026-33017]] — Langflow / Langflow
+- [[CVE-2025-32432]] — Craft CMS / Craft CMS
+- [[CVE-2025-54068]] — Laravel / Livewire
+- [[CVE-2025-43510]] — Apple / Multiple Products
+- [[CVE-2025-43520]] — Apple / Multiple Products
+- [[CVE-2025-31277]] — Apple / Multiple Products
+- [[CVE-2026-20131]] — Cisco / Secure Firewall Management Center (FMC)
+- [[CVE-2025-66376]] — Synacor / Zimbra Collaboration Suite (ZCS)
+- [[CVE-2026-20963]] — Microsoft / SharePoint
+- [[CVE-2025-47813]] — Wing FTP Server / Wing FTP Server
+- [[CVE-2026-3910]] — Google / Chromium V8
+- [[CVE-2026-3909]] — Google / Skia
+- [[CVE-2025-68613]] — n8n / n8n
+- [[CVE-2021-22054]] — Omnissa / Workspace One UEM
+- [[CVE-2025-26399]] — SolarWinds / Web Help Desk
+- [[CVE-2026-1603]] — Ivanti /  Endpoint Manager (EPM)
+- [[CVE-2017-7921]] — Hikvision / Multiple Products
+- [[CVE-2021-22681]] — Rockwell / Multiple Products
+- [[CVE-2023-43000]] — Apple / Multiple Products
+- [[CVE-2021-30952]] — Apple / Multiple Products
+- [[CVE-2023-41974]] — Apple / iOS and iPadOS
+- [[CVE-2026-22719]] — Broadcom / VMware Aria Operations
+- [[CVE-2026-21385]] — Qualcomm / Multiple Chipsets
+- [[CVE-2022-20775]] — Cisco / SD-WAN
+- [[CVE-2026-20127]] — Cisco / Catalyst SD-WAN Controller and Manager
+- [[CVE-2026-25108]] — Soliton Systems K.K / FileZen
+- [[CVE-2025-49113]] — Roundcube / Webmail
+- [[CVE-2025-68461]] — Roundcube / Webmail
+- [[CVE-2021-22175]] — GitLab / GitLab
+- [[CVE-2026-22769]] — Dell / RecoverPoint for Virtual Machines (RP4VMs)
+- [[CVE-2020-7796]] — Synacor / Zimbra Collaboration Suite
+- [[CVE-2024-7694]] — TeamT5 / ThreatSonar Anti-Ransomware
+- [[CVE-2008-0015]] — Microsoft / Windows
+- [[CVE-2026-2441]] — Google / Chromium
+- [[CVE-2026-1731]] — BeyondTrust / Remote Support (RS) and Privileged Remote Access (PRA)
+- [[CVE-2026-20700]] — Apple / Multiple Products
+- [[CVE-2024-43468]] — Microsoft / Configuration Manager
+- [[CVE-2025-15556]] — Notepad++ / Notepad++
+- [[CVE-2025-40536]] — SolarWinds / Web Help Desk
+- [[CVE-2026-21513]] — Microsoft / Windows
+- [[CVE-2026-21525]] — Microsoft / Windows
+- [[CVE-2026-21510]] — Microsoft / Windows
+- [[CVE-2026-21533]] — Microsoft / Windows
+- [[CVE-2026-21519]] — Microsoft / Windows
+- [[CVE-2026-21514]] — Microsoft / Office
+- [[CVE-2025-11953]] — React Native Community / CLI
+- [[CVE-2026-24423]] — SmarterTools / SmarterMail
+- [[CVE-2021-39935]] — GitLab / Community and Enterprise Editions
+- [[CVE-2025-64328]] — Sangoma / FreePBX 
+- [[CVE-2019-19006]] — Sangoma / FreePBX
+- [[CVE-2025-40551]] — SolarWinds / Web Help Desk
+- [[CVE-2026-1281]] — Ivanti / Endpoint Manager Mobile (EPMM)
+- [[CVE-2026-24858]] — Fortinet / Multiple Products
+- [[CVE-2018-14634]] — Linux / Kernel
+- [[CVE-2025-52691]] — SmarterTools / SmarterMail
+- [[CVE-2026-23760]] — SmarterTools / SmarterMail
+- [[CVE-2026-24061]] — GNU / InetUtils
+- [[CVE-2026-21509]] — Microsoft / Office
+- [[CVE-2024-37079]] — Broadcom / VMware vCenter Server
+- [[CVE-2025-68645]] — Synacor /  Zimbra Collaboration Suite (ZCS)
+- [[CVE-2025-34026]] — Versa / Concerto
+- [[CVE-2025-31125]] — Vite / Vitejs
+- [[CVE-2025-54313]] — Prettier / eslint-config-prettier
+- [[CVE-2026-20045]] — Cisco / Unified Communications Manager
+- [[CVE-2026-20805]] — Microsoft / Windows
+- [[CVE-2025-8110]] — Gogs / Gogs
+- [[CVE-2009-0556]] — Microsoft / Office
+- [[CVE-2025-37164]] — Hewlett Packard Enterprise (HPE) / OneView
+- [[CVE-2025-14847]] — MongoDB / MongoDB and MongoDB Server
+- [[CVE-2023-52163]] — Digiever / DS-2105 Pro
+- [[CVE-2025-14733]] — WatchGuard / Firebox
+- [[CVE-2025-59374]] — ASUS / Live Update
+- [[CVE-2025-40602]] — SonicWall / SMA1000 appliance
+- [[CVE-2025-20393]] — Cisco / Multiple Products
+- [[CVE-2025-59718]] — Fortinet / Multiple Products
+- [[CVE-2025-14611]] — Gladinet / CentreStack and Triofox
+- [[CVE-2025-43529]] — Apple / Multiple Products
+- [[CVE-2018-4063]] — Sierra Wireless / AirLink ALEOS
+- [[CVE-2025-14174]] — Google / Chromium
+- [[CVE-2025-58360]] — OSGeo / GeoServer
+- [[CVE-2025-6218]] — RARLAB / WinRAR
+- [[CVE-2025-62221]] — Microsoft / Windows
+- [[CVE-2022-37055]] — D-Link / Routers
+- [[CVE-2025-66644]] — Array Networks  / ArrayOS AG
+- [[CVE-2025-55182]] — Meta / React Server Components
+- [[CVE-2021-26828]] — OpenPLC / ScadaBR
+- [[CVE-2025-48633]] — Android / Framework
+- [[CVE-2025-48572]] — Android / Framework
+- [[CVE-2021-26829]] — OpenPLC / ScadaBR
+- [[CVE-2025-61757]] — Oracle / Fusion Middleware
+- [[CVE-2025-13223]] — Google / Chromium V8
+- [[CVE-2025-58034]] — Fortinet / FortiWeb
+- [[CVE-2025-64446]] — Fortinet / FortiWeb
+- [[CVE-2025-12480]] — Gladinet / Triofox
+- [[CVE-2025-62215]] — Microsoft / Windows
+- [[CVE-2025-9242]] — WatchGuard / Firebox
+- [[CVE-2025-21042]] — Samsung / Mobile Devices
+- [[CVE-2025-48703]] — CWP / Control Web Panel
+- [[CVE-2025-11371]] — Gladinet / CentreStack and Triofox
+- [[CVE-2025-41244]] — Broadcom / VMware Aria Operations and VMware Tools
+- [[CVE-2025-24893]] — XWiki / Platform
+- [[CVE-2025-6204]] — Dassault Systèmes / DELMIA Apriso
+- [[CVE-2025-6205]] — Dassault Systèmes / DELMIA Apriso
+- [[CVE-2025-54236]] — Adobe / Commerce and Magento
+- [[CVE-2025-59287]] — Microsoft / Windows
+- [[CVE-2025-61932]] — Motex / LANSCOPE Endpoint Manager
+- [[CVE-2022-48503]] — Apple / Multiple Products
+- [[CVE-2025-2746]] — Kentico / Xperience CMS
+- [[CVE-2025-2747]] — Kentico / Xperience CMS
+- [[CVE-2025-33073]] — Microsoft / Windows
+- [[CVE-2025-61884]] — Oracle / E-Business Suite
+- [[CVE-2025-54253]] — Adobe / Experience Manager (AEM) Forms
+- [[CVE-2025-47827]] — IGEL / IGEL OS
+- [[CVE-2025-24990]] — Microsoft / Windows
+- [[CVE-2025-59230]] — Microsoft / Windows
+- [[CVE-2016-7836]] — SKYSEA / Client View
+- [[CVE-2021-43798]] — Grafana Labs / Grafana
+- [[CVE-2025-27915]] — Synacor / Zimbra Collaboration Suite (ZCS)
+- [[CVE-2021-22555]] — Linux / Kernel
+- [[CVE-2010-3962]] — Microsoft / Internet Explorer
+- [[CVE-2021-43226]] — Microsoft / Windows
+- [[CVE-2013-3918]] — Microsoft / Windows
+- [[CVE-2011-3402]] — Microsoft / Windows
+- [[CVE-2010-3765]] — Mozilla / Multiple Products
+- [[CVE-2025-61882]] — Oracle / E-Business Suite
+- [[CVE-2014-6278]] — GNU / GNU Bash
+- [[CVE-2017-1000353]] — Jenkins / Jenkins
+- [[CVE-2015-7755]] — Juniper / ScreenOS
+- [[CVE-2025-21043]] — Samsung / Mobile Devices
+- [[CVE-2025-4008]] — Smartbedded / Meteobridge
+- [[CVE-2025-32463]] — Sudo / Sudo
+- [[CVE-2025-59689]] — Libraesva / Email Security Gateway
+- [[CVE-2025-10035]] — Fortra / GoAnywhere MFT
+- [[CVE-2025-20352]] — Cisco / IOS and IOS XE
+- [[CVE-2021-21311]] — Adminer / Adminer
+- [[CVE-2025-20362]] — Cisco / Secure Firewall Adaptive Security Appliance and Secure Firewall Threat Defense
+- [[CVE-2025-20333]] — Cisco / Secure Firewall Adaptive Security Appliance and Secure Firewall Threat Defense
+- [[CVE-2025-10585]] — Google / Chromium V8
+- [[CVE-2025-5086]] — Dassault Systèmes / DELMIA Apriso
+- [[CVE-2025-38352]] — Linux / Kernel
+- [[CVE-2025-48543]] — Android / Runtime
+- [[CVE-2025-53690]] — Sitecore / Multiple Products
+- [[CVE-2023-50224]] — TP-Link / TL-WR841N
+- [[CVE-2025-9377]] — TP-Link / Multiple Routers
+- [[CVE-2020-24363]] — TP-Link / TL-WA855RE
+- [[CVE-2025-55177]] — Meta Platforms / WhatsApp
+- [[CVE-2025-57819]] — Sangoma / FreePBX
+- [[CVE-2025-7775]] — Citrix / NetScaler
+- [[CVE-2025-48384]] — Git / Git
+- [[CVE-2024-8068]] — Citrix / Session Recording
+- [[CVE-2024-8069]] — Citrix / Session Recording
+- [[CVE-2025-43300]] — Apple / iOS, iPadOS, and macOS
+- [[CVE-2025-54948]] — Trend Micro / Apex One
+- [[CVE-2025-8876]] — N-able / N-Central
+- [[CVE-2025-8875]] — N-able / N-Central
+- [[CVE-2025-8088]] — RARLAB / WinRAR
+- [[CVE-2007-0671]] — Microsoft / Office
+- [[CVE-2013-3893]] — Microsoft / Internet Explorer
+- [[CVE-2020-25078]] — D-Link / DCS-2530L and DCS-2670L Devices
+- [[CVE-2020-25079]] — D-Link / DCS-2530L and DCS-2670L Devices
+- [[CVE-2022-40799]] — D-Link / DNR-322L
+- [[CVE-2023-2533]] — PaperCut / NG/MF
+- [[CVE-2025-20337]] — Cisco / Identity Services Engine
+- [[CVE-2025-20281]] — Cisco / Identity Services Engine
+- [[CVE-2025-2775]] — SysAid / SysAid On-Prem
+- [[CVE-2025-2776]] — SysAid / SysAid On-Prem
+- [[CVE-2025-6558]] — Google / Chromium
+- [[CVE-2025-54309]] — CrushFTP / CrushFTP
+- [[CVE-2025-49704]] — Microsoft / SharePoint
+- [[CVE-2025-49706]] — Microsoft / SharePoint
+- [[CVE-2025-53770]] — Microsoft / SharePoint
+- [[CVE-2025-25257]] — Fortinet / FortiWeb
+- [[CVE-2025-47812]] — Wing FTP Server / Wing FTP Server
+- [[CVE-2025-5777]] — Citrix / NetScaler ADC and Gateway
+- [[CVE-2019-9621]] — Synacor / Zimbra Collaboration Suite (ZCS)
+- [[CVE-2019-5418]] — Rails / Ruby on Rails
+- [[CVE-2016-10033]] — PHP / PHPMailer
+- [[CVE-2014-3931]] — Looking Glass / Multi-Router Looking Glass (MRLG)
+- [[CVE-2025-6554]] — Google / Chromium V8
+- [[CVE-2025-48928]] — TeleMessage / TM SGNL
+- [[CVE-2025-48927]] — TeleMessage / TM SGNL
+- [[CVE-2025-6543]] — Citrix / NetScaler ADC and Gateway
+- [[CVE-2019-6693]] — Fortinet / FortiOS
+- [[CVE-2024-0769]] — D-Link / DIR-859 Router
+- [[CVE-2024-54085]] — AMI / MegaRAC SPx
+- [[CVE-2023-0386]] — Linux / Kernel
+- [[CVE-2023-33538]] — TP-Link / Multiple Routers
+- [[CVE-2025-43200]] — Apple / Multiple Products
+- [[CVE-2025-33053]] — Microsoft / Windows
+- [[CVE-2025-24016]] — Wazuh / Wazuh Server
+- [[CVE-2024-42009]] — Roundcube / Webmail
+- [[CVE-2025-32433]] — Erlang / Erlang/OTP
+- [[CVE-2025-5419]] — Google / Chromium V8
+- [[CVE-2025-21479]] — Qualcomm / Multiple Chipsets
+- [[CVE-2025-21480]] — Qualcomm / Multiple Chipsets
+- [[CVE-2025-27038]] — Qualcomm / Multiple Chipsets
+- [[CVE-2021-32030]] — ASUS / Routers
+- [[CVE-2025-3935]] — ConnectWise / ScreenConnect
+- [[CVE-2025-35939]] — Craft CMS / Craft CMS
+- [[CVE-2024-56145]] — Craft CMS / Craft CMS
+- [[CVE-2023-39780]] — ASUS / RT-AX55 Routers
+- [[CVE-2025-4632]] — Samsung / MagicINFO 9 Server
+- [[CVE-2023-38950]] — ZKTeco / BioTime
+- [[CVE-2024-27443]] — Synacor / Zimbra Collaboration Suite (ZCS)
+- [[CVE-2025-27920]] — Srimax / Output Messenger
+- [[CVE-2024-11182]] — MDaemon / Email Server
+- [[CVE-2025-4428]] — Ivanti / Endpoint Manager Mobile (EPMM)
+- [[CVE-2025-4427]] — Ivanti / Endpoint Manager Mobile (EPMM)
+- [[CVE-2025-42999]] — SAP / NetWeaver
+- [[CVE-2024-12987]] — DrayTek / Vigor Routers
+- [[CVE-2025-32756]] — Fortinet / Multiple Products
+- [[CVE-2025-32709]] — Microsoft / Windows
+- [[CVE-2025-30397]] — Microsoft / Windows
+- [[CVE-2025-32706]] — Microsoft / Windows
+- [[CVE-2025-32701]] — Microsoft / Windows
+- [[CVE-2025-30400]] — Microsoft / Windows
+- [[CVE-2025-47729]] — TeleMessage / TM SGNL
+- [[CVE-2024-11120]] — GeoVision / Multiple Devices
+- [[CVE-2024-6047]] — GeoVision / Multiple Devices
+- [[CVE-2025-27363]] — FreeType / FreeType
+- [[CVE-2025-3248]] — Langflow / Langflow
+- [[CVE-2025-34028]] — Commvault / Command Center
+- [[CVE-2024-58136]] — Yiiframework / Yii
+- [[CVE-2024-38475]] — Apache / HTTP Server
+- [[CVE-2023-44221]] — SonicWall / SMA100 Appliances
+- [[CVE-2025-31324]] — SAP / NetWeaver
+- [[CVE-2025-1976]] — Broadcom / Brocade Fabric OS
+- [[CVE-2025-42599]] — Qualitia / Active! Mail
+- [[CVE-2025-3928]] — Commvault / Web Server
+- [[CVE-2025-24054]] — Microsoft / Windows
+- [[CVE-2025-31201]] — Apple / Multiple Products
+- [[CVE-2025-31200]] — Apple / Multiple Products
+- [[CVE-2021-20035]] — SonicWall / SMA100 Appliances
+- [[CVE-2024-53150]] — Linux / Kernel
+- [[CVE-2024-53197]] — Linux / Kernel
+- [[CVE-2025-29824]] — Microsoft / Windows
+- [[CVE-2025-30406]] — Gladinet / CentreStack
+- [[CVE-2025-31161]] — CrushFTP / CrushFTP
+- [[CVE-2025-22457]] — Ivanti / Connect Secure, Policy Secure, and ZTA Gateways
+- [[CVE-2025-24813]] — Apache / Tomcat
+- [[CVE-2024-20439]] — Cisco / Smart Licensing Utility
+- [[CVE-2025-2783]] — Google / Chromium Mojo
+- [[CVE-2019-9875]] — Sitecore / CMS and Experience Platform (XP)
+- [[CVE-2019-9874]] — Sitecore / CMS and Experience Platform (XP)
+- [[CVE-2025-30154]] — reviewdog / action-setup GitHub Action
+- [[CVE-2017-12637]] — SAP / NetWeaver
+- [[CVE-2024-48248]] — NAKIVO / Backup and Replication
+- [[CVE-2025-1316]] — Edimax / IC-7100 IP Camera
+- [[CVE-2025-30066]] — tj-actions / changed-files GitHub Action
+- [[CVE-2025-24472]] — Fortinet / FortiOS and FortiProxy
+- [[CVE-2025-21590]] — Juniper / Junos OS
+- [[CVE-2025-24201]] — Apple / Multiple Products
+- [[CVE-2025-24993]] — Microsoft / Windows
+- [[CVE-2025-24991]] — Microsoft / Windows
+- [[CVE-2025-24985]] — Microsoft / Windows
+- [[CVE-2025-24984]] — Microsoft / Windows
+- [[CVE-2025-24983]] — Microsoft / Windows
+- [[CVE-2025-26633]] — Microsoft / Windows
+- [[CVE-2024-13161]] — Ivanti / Endpoint Manager (EPM)
+- [[CVE-2024-13160]] — Ivanti / Endpoint Manager (EPM)
+- [[CVE-2024-13159]] — Ivanti / Endpoint Manager (EPM)
+- [[CVE-2024-57968]] — Advantive / VeraCore
+- [[CVE-2025-25181]] — Advantive / VeraCore
+- [[CVE-2025-22226]] — VMware / ESXi, Workstation, and Fusion
+- [[CVE-2025-22225]] — VMware / ESXi
+- [[CVE-2025-22224]] — VMware / ESXi and Workstation
+- [[CVE-2024-50302]] — Linux / Kernel
+- [[CVE-2024-4885]] — Progress / WhatsUp Gold
+- [[CVE-2018-8639]] — Microsoft / Windows
+- [[CVE-2022-43769]] — Hitachi Vantara / Pentaho Business Analytics (BA) Server
+- [[CVE-2022-43939]] — Hitachi Vantara / Pentaho Business Analytics (BA) Server
+- [[CVE-2023-20118]] — Cisco / Small Business RV Series Routers
+- [[CVE-2023-34192]] — Synacor / Zimbra Collaboration Suite (ZCS)
+- [[CVE-2024-49035]] — Microsoft / Partner Center
+- [[CVE-2024-20953]] — Oracle / Agile Product Lifecycle Management (PLM)
+- [[CVE-2017-3066]] — Adobe / ColdFusion
+- [[CVE-2025-24989]] — Microsoft / Power Pages
+- [[CVE-2025-0111]] — Palo Alto Networks / PAN-OS
+- [[CVE-2025-23209]] — Craft CMS / Craft CMS
+- [[CVE-2025-0108]] — Palo Alto Networks / PAN-OS
+- [[CVE-2024-53704]] — SonicWall / SonicOS
+- [[CVE-2024-57727]] — SimpleHelp  / SimpleHelp
+- [[CVE-2025-24200]] — Apple / iOS and iPadOS
+- [[CVE-2024-41710]] — Mitel / SIP Phones
+- [[CVE-2024-40891]] — Zyxel / DSL CPE Devices
+- [[CVE-2024-40890]] — Zyxel / DSL CPE Devices
+- [[CVE-2025-21418]] — Microsoft / Windows
+- [[CVE-2025-21391]] — Microsoft / Windows
+- [[CVE-2025-0994]] — Trimble / Cityworks
+- [[CVE-2020-15069]] — Sophos / XG Firewall
+- [[CVE-2020-29574]] — Sophos / CyberoamOS
+- [[CVE-2024-21413]] — Microsoft / Office Outlook
+- [[CVE-2022-23748]] — Audinate / Dante Discovery
+- [[CVE-2025-0411]] — 7-Zip / 7-Zip
+- [[CVE-2024-53104]] — Linux / Kernel
+- [[CVE-2018-19410]] — Paessler / PRTG Network Monitor
+- [[CVE-2018-9276]] — Paessler / PRTG Network Monitor
+- [[CVE-2024-29059]] — Microsoft / .NET Framework
+- [[CVE-2024-45195]] — Apache / OFBiz
+- [[CVE-2025-24085]] — Apple / Multiple Products
+- [[CVE-2025-23006]] — SonicWall / SMA1000 Appliances
+- [[CVE-2020-11023]] — JQuery / JQuery
+- [[CVE-2024-50603]] — Aviatrix / Controllers
+- [[CVE-2025-21335]] — Microsoft / Windows
+- [[CVE-2025-21334]] — Microsoft / Windows
+- [[CVE-2025-21333]] — Microsoft / Windows
+- [[CVE-2024-55591]] — Fortinet / FortiOS and FortiProxy
+- [[CVE-2023-48365]] — Qlik / Sense
+- [[CVE-2024-12686]] — BeyondTrust / Privileged Remote Access (PRA) and Remote Support (RS)
+- [[CVE-2025-0282]] — Ivanti / Connect Secure, Policy Secure, and ZTA Gateways
+- [[CVE-2020-2883]] — Oracle / WebLogic Server
+- [[CVE-2024-55550]] — Mitel / MiCollab
+- [[CVE-2024-41713]] — Mitel / MiCollab
+- [[CVE-2024-3393]] — Palo Alto Networks / PAN-OS
+- [[CVE-2021-44207]] — Acclaim Systems / USAHERDS
+- [[CVE-2024-12356]] — BeyondTrust / Privileged Remote Access (PRA) and Remote Support (RS) 
+- [[CVE-2021-40407]] — Reolink / RLC-410W IP Camera
+- [[CVE-2019-11001]] — Reolink / Multiple IP Cameras
+- [[CVE-2022-23227]] — NUUO / NVRmini2 Devices
+- [[CVE-2018-14933]] — NUUO / NVRmini Devices
+- [[CVE-2024-55956]] — Cleo / Multiple Products
+- [[CVE-2024-35250]] — Microsoft / Windows
+- [[CVE-2024-20767]] — Adobe / ColdFusion
+- [[CVE-2024-50623]] — Cleo / Multiple Products
+- [[CVE-2024-49138]] — Microsoft / Windows
+- [[CVE-2024-51378]] — CyberPersons / CyberPanel
+- [[CVE-2024-11667]] — Zyxel / Multiple Firewalls
+- [[CVE-2024-11680]] — ProjectSend / ProjectSend
+- [[CVE-2023-45727]] — North Grid / Proself
+- [[CVE-2023-28461]] — Array Networks  / AG/vxAG ArrayOS
+- [[CVE-2024-21287]] — Oracle / Agile Product Lifecycle Management (PLM)
+- [[CVE-2024-44309]] — Apple / Multiple Products
+- [[CVE-2024-44308]] — Apple / Multiple Products
+- [[CVE-2024-38813]] — VMware / vCenter Server
+- [[CVE-2024-38812]] — VMware / vCenter Server
+- [[CVE-2024-9474]] — Palo Alto Networks / PAN-OS
+- [[CVE-2024-0012]] — Palo Alto Networks / PAN-OS
+- [[CVE-2024-1212]] — Progress / Kemp LoadMaster
+- [[CVE-2024-9465]] — Palo Alto Networks / Expedition
+- [[CVE-2024-9463]] — Palo Alto Networks / Expedition
+- [[CVE-2021-26086]] — Atlassian / Jira Server and Data Center
+- [[CVE-2014-2120]] — Cisco / Adaptive Security Appliance (ASA)
+- [[CVE-2021-41277]] — Metabase / Metabase
+- [[CVE-2024-43451]] — Microsoft / Windows
+- [[CVE-2024-49039]] — Microsoft / Windows
+- [[CVE-2019-16278]] — Nostromo / nhttpd
+- [[CVE-2024-51567]] — CyberPersons / CyberPanel
+- [[CVE-2024-43093]] — Android / Framework
+- [[CVE-2024-5910]] — Palo Alto Networks / Expedition
+- [[CVE-2024-8956]] — PTZOptics / PT30X-SDI/NDI Cameras
+- [[CVE-2024-8957]] — PTZOptics / PT30X-SDI/NDI Cameras
+- [[CVE-2024-37383]] — Roundcube / Webmail
+- [[CVE-2024-20481]] — Cisco / Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD)
+- [[CVE-2024-47575]] — Fortinet / FortiManager
+- [[CVE-2024-38094]] — Microsoft / SharePoint
+- [[CVE-2024-9537]] — ScienceLogic / SL1
+- [[CVE-2024-40711]] — Veeam / Backup & Replication
+- [[CVE-2024-28987]] — SolarWinds / Web Help Desk
+- [[CVE-2024-9680]] — Mozilla / Firefox
+- [[CVE-2024-30088]] — Microsoft / Windows 
+- [[CVE-2024-9380]] — Ivanti / Cloud Services Appliance (CSA)
+- [[CVE-2024-9379]] — Ivanti / Cloud Services Appliance (CSA)
+- [[CVE-2024-23113]] — Fortinet / Multiple Products
+- [[CVE-2024-43573]] — Microsoft / Windows
+- [[CVE-2024-43572]] — Microsoft / Windows
+- [[CVE-2024-43047]] — Qualcomm / Multiple Chipsets 
+- [[CVE-2024-45519]] — Synacor / Zimbra Collaboration Suite (ZCS)
+- [[CVE-2024-29824]] — Ivanti / Endpoint Manager (EPM)
+- [[CVE-2019-0344]] — SAP / Commerce Cloud
+- [[CVE-2020-15415]] — DrayTek / Multiple Vigor Routers
+- [[CVE-2023-25280]] — D-Link / DIR-820 Router
+- [[CVE-2024-7593]] — Ivanti / Virtual Traffic Manager
+- [[CVE-2024-8963]] — Ivanti / Cloud Services Appliance (CSA)
+- [[CVE-2020-14644]] — Oracle / WebLogic Server
+- [[CVE-2022-21445]] — Oracle / ADF Faces
+- [[CVE-2020-0618]] — Microsoft / SQL Server
+- [[CVE-2024-27348]] — Apache / HugeGraph-Server
+- [[CVE-2014-0502]] — Adobe / Flash Player
+- [[CVE-2013-0648]] — Adobe / Flash Player
+- [[CVE-2013-0643]] — Adobe / Flash Player
+- [[CVE-2014-0497]] — Adobe / Flash Player
+- [[CVE-2024-6670]] — Progress / WhatsUp Gold
+- [[CVE-2024-43461]] — Microsoft / Windows
+- [[CVE-2024-8190]] — Ivanti / Cloud Services Appliance
+- [[CVE-2024-38217]] — Microsoft / Windows
+- [[CVE-2024-38014]] — Microsoft / Windows
+- [[CVE-2024-38226]] — Microsoft / Publisher
+- [[CVE-2024-40766]] — SonicWall / SonicOS
+- [[CVE-2017-1000253]] — Linux / Kernel
+- [[CVE-2016-3714]] — ImageMagick / ImageMagick
+- [[CVE-2024-7262]] — Kingsoft / WPS Office
+- [[CVE-2021-20124]] — DrayTek / VigorConnect
+- [[CVE-2021-20123]] — DrayTek / VigorConnect
+- [[CVE-2024-7965]] — Google / Chromium V8
+- [[CVE-2024-38856]] — Apache / OFBiz
+- [[CVE-2024-7971]] — Google / Chromium V8
+- [[CVE-2024-39717]] — Versa / Director
+- [[CVE-2021-31196]] — Microsoft / Exchange Server
+- [[CVE-2022-0185]] — Linux / Kernel
+- [[CVE-2021-33045]] — Dahua / IP Camera Firmware
+- [[CVE-2021-33044]] — Dahua / IP Camera Firmware
+- [[CVE-2024-23897]] — Jenkins / Jenkins Command Line Interface (CLI)
+- [[CVE-2024-28986]] — SolarWinds / Web Help Desk
+- [[CVE-2024-38107]] — Microsoft / Windows
+- [[CVE-2024-38106]] — Microsoft / Windows
+- [[CVE-2024-38193]] — Microsoft / Windows
+- [[CVE-2024-38213]] — Microsoft / Windows
+- [[CVE-2024-38178]] — Microsoft / Windows
+- [[CVE-2024-38189]] — Microsoft / Project
+- [[CVE-2024-32113]] — Apache / OFBiz
+- [[CVE-2024-36971]] — Android / Kernel
+- [[CVE-2018-0824]] — Microsoft / Windows
+- [[CVE-2024-37085]] — VMware / ESXi
+- [[CVE-2023-45249]] — Acronis / Cyber Infrastructure (ACI)
+- [[CVE-2024-5217]] — ServiceNow / Utah, Vancouver, and Washington DC Now Platform
+- [[CVE-2024-4879]] — ServiceNow / Utah, Vancouver, and Washington DC Now Platform
+- [[CVE-2024-39891]] — Twilio / Authy
+- [[CVE-2012-4792]] — Microsoft / Internet Explorer
+- [[CVE-2022-22948]] — VMware / vCenter Server
+- [[CVE-2024-28995]] — SolarWinds / Serv-U
+- [[CVE-2024-34102]] — Adobe / Commerce and Magento Open Source
+- [[CVE-2024-36401]] — OSGeo / GeoServer
+- [[CVE-2024-23692]] — Rejetto / HTTP File Server
+- [[CVE-2024-38080]] — Microsoft / Windows 
+- [[CVE-2024-38112]] — Microsoft / Windows
+- [[CVE-2024-20399]] — Cisco / NX-OS
+- [[CVE-2020-13965]] — Roundcube / Webmail
+- [[CVE-2022-2586]] — Linux / Kernel
+- [[CVE-2022-24816]] — OSGeo / JAI-EXT
+- [[CVE-2024-4358]] — Progress / Telerik Report Server
+- [[CVE-2024-26169]] — Microsoft / Windows
+- [[CVE-2024-32896]] — Android / Pixel
+- [[CVE-2024-4577]] — PHP Group / PHP
+- [[CVE-2024-4610]] — Arm / Mali GPU Kernel Driver
+- [[CVE-2017-3506]] — Oracle / WebLogic Server
+- [[CVE-2024-1086]] — Linux / Kernel
+- [[CVE-2024-24919]] — Check Point / Quantum Security Gateways
+- [[CVE-2024-4978]] — Justice AV Solutions / Viewer 
+- [[CVE-2024-5274]] — Google / Chromium V8
+- [[CVE-2020-17519]] — Apache / Flink
+- [[CVE-2024-4947]] — Google / Chromium V8
+- [[CVE-2023-43208]] — NextGen Healthcare / Mirth Connect
+- [[CVE-2024-4761]] — Google / Chromium V8
+- [[CVE-2021-40655]] — D-Link / DIR-605 Router
+- [[CVE-2014-100005]] — D-Link / DIR-600 Router
+- [[CVE-2024-30040]] — Microsoft / Windows
+- [[CVE-2024-30051]] — Microsoft / DWM Core Library
+- [[CVE-2024-4671]] — Google / Chromium
+- [[CVE-2023-7028]] — GitLab / GitLab CE/EE
+- [[CVE-2024-29988]] — Microsoft / SmartScreen Prompt
+- [[CVE-2024-4040]] — CrushFTP / CrushFTP
+- [[CVE-2024-20359]] — Cisco / Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD)
+- [[CVE-2024-20353]] — Cisco / Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD)
+- [[CVE-2022-38028]] — Microsoft / Windows
+- [[CVE-2024-3400]] — Palo Alto Networks / PAN-OS
+- [[CVE-2024-3273]] — D-Link / Multiple NAS Devices
+- [[CVE-2024-3272]] — D-Link / Multiple NAS Devices
+- [[CVE-2024-29748]] — Android / Pixel
+- [[CVE-2024-29745]] — Android / Pixel
+- [[CVE-2023-24955]] — Microsoft / SharePoint Server
+- [[CVE-2019-7256]] — Nice / Linear eMerge E3-Series
+- [[CVE-2021-44529]] — Ivanti / Endpoint Manager Cloud Service Appliance (EPM CSA)
+- [[CVE-2023-48788]] — Fortinet / FortiClient EMS
+- [[CVE-2024-27198]] — JetBrains / TeamCity
+- [[CVE-2024-23225]] — Apple / Multiple Products
+- [[CVE-2024-23296]] — Apple / Multiple Products
+- [[CVE-2023-21237]] — Android / Pixel
+- [[CVE-2021-36380]] — Sunhillo / SureLine
+- [[CVE-2024-21338]] — Microsoft / Windows
+- [[CVE-2023-29360]] — Microsoft / Streaming Service
+- [[CVE-2024-1709]] — ConnectWise / ScreenConnect
+- [[CVE-2020-3259]] — Cisco / Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD)
+- [[CVE-2024-21410]] — Microsoft / Exchange Server
+- [[CVE-2024-21412]] — Microsoft / Windows
+- [[CVE-2024-21351]] — Microsoft / Windows
+- [[CVE-2023-43770]] — Roundcube / Webmail
+- [[CVE-2024-21762]] — Fortinet / FortiOS
+- [[CVE-2023-4762]] — Google / Chromium V8
+- [[CVE-2022-48618]] — Apple / Multiple Products
+- [[CVE-2024-21893]] — Ivanti / Connect Secure, Policy Secure, and Neurons
+- [[CVE-2023-22527]] — Atlassian / Confluence Data Center and Server
+- [[CVE-2024-23222]] — Apple / Multiple Products
+- [[CVE-2023-34048]] — VMware / vCenter Server
+- [[CVE-2023-35082]] — Ivanti / Endpoint Manager Mobile (EPMM) and MobileIron Core
+- [[CVE-2024-0519]] — Google / Chromium V8
+- [[CVE-2023-6549]] — Citrix / NetScaler ADC and NetScaler Gateway
+- [[CVE-2023-6548]] — Citrix / NetScaler ADC and NetScaler Gateway
+- [[CVE-2018-15133]] — Laravel / Laravel Framework
+- [[CVE-2023-29357]] — Microsoft / SharePoint Server
+- [[CVE-2023-46805]] — Ivanti / Connect Secure and Policy Secure
+- [[CVE-2024-21887]] — Ivanti / Connect Secure and Policy Secure
+- [[CVE-2023-23752]] — Joomla! / Joomla!
+- [[CVE-2016-20017]] — D-Link / DSL-2750B Devices
+- [[CVE-2023-41990]] — Apple / Multiple Products
+- [[CVE-2023-27524]] — Apache / Superset
+- [[CVE-2023-29300]] — Adobe / ColdFusion
+- [[CVE-2023-38203]] — Adobe / ColdFusion
+- [[CVE-2023-7101]] — Spreadsheet::ParseExcel / Spreadsheet::ParseExcel
+- [[CVE-2023-7024]] — Google / Chromium WebRTC
+- [[CVE-2023-49897]] — FXC / AE1021, AE1021PE
+- [[CVE-2023-47565]] — QNAP / VioStor NVR
+- [[CVE-2023-6448]] — Unitronics / Vision PLC and HMI
+- [[CVE-2023-41266]] — Qlik / Sense
+- [[CVE-2023-41265]] — Qlik / Sense
+- [[CVE-2023-33107]] — Qualcomm / Multiple Chipsets
+- [[CVE-2023-33106]] — Qualcomm / Multiple Chipsets
+- [[CVE-2023-33063]] — Qualcomm / Multiple Chipsets
+- [[CVE-2022-22071]] — Qualcomm / Multiple Chipsets
+- [[CVE-2023-42917]] — Apple / Multiple Products
+- [[CVE-2023-42916]] — Apple / Multiple Products
+- [[CVE-2023-6345]] — Google / Chromium Skia
+- [[CVE-2023-49103]] — ownCloud / ownCloud graphapi
+- [[CVE-2023-4911]] — GNU / GNU C Library
+- [[CVE-2023-36584]] — Microsoft / Windows
+- [[CVE-2023-1671]] — Sophos / Web Appliance
+- [[CVE-2020-2551]] — Oracle / Fusion Middleware
+- [[CVE-2023-36033]] — Microsoft / Windows
+- [[CVE-2023-36025]] — Microsoft / Windows
+- [[CVE-2023-36036]] — Microsoft / Windows
+- [[CVE-2023-47246]] — SysAid / SysAid Server
+- [[CVE-2023-36844]] — Juniper / Junos OS
+- [[CVE-2023-36845]] — Juniper / Junos OS
+- [[CVE-2023-36846]] — Juniper / Junos OS
+- [[CVE-2023-36847]] — Juniper / Junos OS
+- [[CVE-2023-36851]] — Juniper / Junos OS
+- [[CVE-2023-29552]] — IETF / Service Location Protocol (SLP)
+- [[CVE-2023-22518]] — Atlassian / Confluence Data Center and Server
+- [[CVE-2023-46604]] — Apache / ActiveMQ
+- [[CVE-2023-46748]] — F5 / BIG-IP Configuration Utility
+- [[CVE-2023-46747]] — F5 / BIG-IP Configuration Utility
+- [[CVE-2023-5631]] — Roundcube / Webmail
+- [[CVE-2023-20273]] — Cisco / Cisco IOS XE Web UI
+- [[CVE-2023-4966]] — Citrix / NetScaler ADC and NetScaler Gateway
+- [[CVE-2023-20198]] — Cisco / IOS XE Web UI
+- [[CVE-2023-21608]] — Adobe / Acrobat and Reader
+- [[CVE-2023-20109]] — Cisco / IOS and IOS XE
+- [[CVE-2023-41763]] — Microsoft / Skype for Business
+- [[CVE-2023-36563]] — Microsoft / WordPad
+- [[CVE-2023-44487]] — IETF / HTTP/2
+- [[CVE-2023-22515]] — Atlassian / Confluence Data Center and Server
+- [[CVE-2023-40044]] — Progress / WS_FTP Server
+- [[CVE-2023-42824]] — Apple / iOS and iPadOS
+- [[CVE-2023-42793]] — JetBrains / TeamCity
+- [[CVE-2023-28229]] — Microsoft / Windows CNG Key Isolation Service
+- [[CVE-2023-4211]] — Arm / Mali GPU Kernel Driver
+- [[CVE-2023-5217]] — Google / Chromium libvpx
+- [[CVE-2018-14667]] — Red Hat / JBoss RichFaces Framework
+- [[CVE-2023-41991]] — Apple / Multiple Products
+- [[CVE-2023-41992]] — Apple / Multiple Products
+- [[CVE-2023-41993]] — Apple / Multiple Products
+- [[CVE-2023-41179]] — Trend Micro / Apex One and Worry-Free Business Security
+- [[CVE-2023-28434]] — MinIO / MinIO
+- [[CVE-2022-22265]] — Samsung / Mobile Devices
+- [[CVE-2014-8361]] — Realtek / SDK
+- [[CVE-2017-6884]] — Zyxel / EMG2926 Routers
+- [[CVE-2021-3129]] — Laravel / Ignition
+- [[CVE-2023-26369]] — Adobe / Acrobat and Reader
+- [[CVE-2023-35674]] — Android / Framework
+- [[CVE-2023-20269]] — Cisco / Adaptive Security Appliance and Firepower Threat Defense
+- [[CVE-2023-4863]] — Google / Chromium WebP
+- [[CVE-2023-36761]] — Microsoft / Word
+- [[CVE-2023-36802]] — Microsoft / Streaming Service Proxy
+- [[CVE-2023-41064]] — Apple / iOS, iPadOS, and macOS
+- [[CVE-2023-41061]] — Apple / iOS, iPadOS, and watchOS
+- [[CVE-2023-33246]] — Apache / RocketMQ
+- [[CVE-2023-38831]] — RARLAB / WinRAR
+- [[CVE-2023-32315]] — Ignite Realtime / Openfire
+- [[CVE-2023-38035]] — Ivanti / Sentry
+- [[CVE-2023-27532]] — Veeam / Backup & Replication
+- [[CVE-2023-26359]] — Adobe / ColdFusion
+- [[CVE-2023-24489]] — Citrix / Content Collaboration
+- [[CVE-2023-38180]] — Microsoft / .NET Core and Visual Studio
+- [[CVE-2017-18368]] — Zyxel / P660HN-T1A Routers
+- [[CVE-2023-35081]] — Ivanti / Endpoint Manager Mobile (EPMM)
+- [[CVE-2023-37580]] — Synacor / Zimbra Collaboration Suite (ZCS)
+- [[CVE-2023-38606]] — Apple / Multiple Products
+- [[CVE-2023-35078]] — Ivanti / Endpoint Manager Mobile (EPMM)
+- [[CVE-2023-29298]] — Adobe / ColdFusion
+- [[CVE-2023-38205]] — Adobe / ColdFusion
+- [[CVE-2023-3519]] — Citrix / NetScaler ADC and NetScaler Gateway
+- [[CVE-2023-36884]] — Microsoft / Windows
+- [[CVE-2022-29303]] — SolarView / Compact
+- [[CVE-2023-37450]] — Apple / Multiple Products
+- [[CVE-2023-32046]] — Microsoft / Windows
+- [[CVE-2023-32049]] — Microsoft / Windows
+- [[CVE-2023-35311]] — Microsoft / Outlook
+- [[CVE-2023-36874]] — Microsoft / Windows
+- [[CVE-2022-31199]] — Netwrix / Auditor
+- [[CVE-2021-29256]] — Arm / Mali Graphics Processing Unit (GPU)
+- [[CVE-2019-17621]] — D-Link / DIR-859 Router
+- [[CVE-2019-20500]] — D-Link / DWL-2600AP Access Point
+- [[CVE-2021-25487]] — Samsung / Mobile Devices
+- [[CVE-2021-25489]] — Samsung / Mobile Devices
+- [[CVE-2021-25394]] — Samsung / Mobile Devices
+- [[CVE-2021-25395]] — Samsung / Mobile Devices
+- [[CVE-2021-25371]] — Samsung / Mobile Devices
+- [[CVE-2021-25372]] — Samsung / Mobile Devices
+- [[CVE-2023-32434]] — Apple / Multiple Products
+- [[CVE-2023-32435]] — Apple / Multiple Products
+- [[CVE-2023-32439]] — Apple / Multiple Products
+- [[CVE-2023-20867]] — VMware / Tools
+- [[CVE-2023-27992]] — Zyxel / Multiple Network-Attached Storage (NAS) Devices
+- [[CVE-2023-20887]] — VMware / Aria Operations for Networks
+- [[CVE-2020-35730]] — Roundcube / Roundcube Webmail
+- [[CVE-2020-12641]] — Roundcube / Roundcube Webmail
+- [[CVE-2021-44026]] — Roundcube / Roundcube Webmail
+- [[CVE-2016-9079]] — Mozilla / Firefox, Firefox ESR, and Thunderbird
+- [[CVE-2016-0165]] — Microsoft / Win32k
+- [[CVE-2023-27997]] — Fortinet / FortiOS and FortiProxy SSL-VPN
+- [[CVE-2023-3079]] — Google / Chromium V8
+- [[CVE-2023-33009]] — Zyxel / Multiple Firewalls
+- [[CVE-2023-33010]] — Zyxel / Multiple Firewalls
+- [[CVE-2023-34362]] — Progress / MOVEit Transfer
+- [[CVE-2023-28771]] — Zyxel / Multiple Firewalls
+- [[CVE-2023-2868]] — Barracuda Networks / Email Security Gateway (ESG) Appliance
+- [[CVE-2023-32409]] — Apple / Multiple Products
+- [[CVE-2023-28204]] — Apple / Multiple Products
+- [[CVE-2023-32373]] — Apple / Multiple Products
+- [[CVE-2004-1464]] — Cisco / IOS
+- [[CVE-2016-6415]] — Cisco / IOS, IOS XR, and IOS XE
+- [[CVE-2023-21492]] — Samsung / Mobile Devices
+- [[CVE-2023-25717]] — Ruckus Wireless / Multiple Products
+- [[CVE-2021-3560]] — Red Hat / Polkit
+- [[CVE-2014-0196]] — Linux / Kernel
+- [[CVE-2010-3904]] — Linux / Kernel
+- [[CVE-2015-5317]] — Jenkins / Jenkins User Interface (UI)
+- [[CVE-2016-3427]] — Oracle / Java SE and JRockit
+- [[CVE-2016-8735]] — Apache / Tomcat
+- [[CVE-2023-29336]] — Microsoft / Win32k
+- [[CVE-2023-1389]] — TP-Link / Archer AX21
+- [[CVE-2021-45046]] — Apache / Log4j2
+- [[CVE-2023-21839]] — Oracle / WebLogic Server
+- [[CVE-2023-28432]] — MinIO / MinIO
+- [[CVE-2023-27350]] — PaperCut / MF/NG
+- [[CVE-2023-2136]] — Google / Chromium Skia
+- [[CVE-2017-6742]] — Cisco / IOS and IOS XE Software
+- [[CVE-2019-8526]] — Apple / macOS
+- [[CVE-2023-2033]] — Google / Chromium V8
+- [[CVE-2023-20963]] — Android / Framework
+- [[CVE-2023-29492]] — Novi Survey / Novi Survey
+- [[CVE-2023-28252]] — Microsoft / Windows
+- [[CVE-2023-28205]] — Apple / Multiple Products
+- [[CVE-2023-28206]] — Apple / iOS, iPadOS, and macOS
+- [[CVE-2021-27876]] — Veritas / Backup Exec Agent
+- [[CVE-2021-27877]] — Veritas / Backup Exec Agent
+- [[CVE-2021-27878]] — Veritas / Backup Exec Agent
+- [[CVE-2019-1388]] — Microsoft / Windows
+- [[CVE-2023-26083]] — Arm / Mali Graphics Processing Unit (GPU)
+- [[CVE-2022-27926]] — Synacor / Zimbra Collaboration Suite (ZCS)
+- [[CVE-2013-3163]] — Microsoft / Internet Explorer
+- [[CVE-2017-7494]] — Samba / Samba
+- [[CVE-2022-42948]] — Fortra / Cobalt Strike
+- [[CVE-2022-39197]] — Fortra / Cobalt Strike
+- [[CVE-2021-30900]] — Apple / iOS, iPadOS, and macOS
+- [[CVE-2022-38181]] — Arm / Mali Graphics Processing Unit (GPU)
+- [[CVE-2023-0266]] — Linux / Kernel
+- [[CVE-2022-3038]] — Google / Chromium Network Service
+- [[CVE-2022-22706]] — Arm / Mali Graphics Processing Unit (GPU)
+- [[CVE-2023-26360]] — Adobe / ColdFusion
+- [[CVE-2023-23397]] — Microsoft / Office
+- [[CVE-2023-24880]] — Microsoft / Windows
+- [[CVE-2022-41328]] — Fortinet / FortiOS
+- [[CVE-2021-39144]] — XStream / XStream
+- [[CVE-2020-5741]] — Plex / Media Server
+- [[CVE-2022-28810]] — Zoho / ManageEngine
+- [[CVE-2022-33891]] — Apache / Spark
+- [[CVE-2022-35914]] — Teclib / GLPI
+- [[CVE-2022-36537]] — ZK Framework / AuUploader
+- [[CVE-2022-47986]] — IBM / Aspera Faspex
+- [[CVE-2022-41223]] — Mitel / MiVoice Connect
+- [[CVE-2022-40765]] — Mitel / MiVoice Connect
+- [[CVE-2022-46169]] — Cacti / Cacti
+- [[CVE-2023-21715]] — Microsoft / Office
+- [[CVE-2023-23376]] — Microsoft / Windows
+- [[CVE-2023-23529]] — Apple / Multiple Products
+- [[CVE-2023-21823]] — Microsoft / Windows
+- [[CVE-2015-2291]] — Intel / Ethernet Diagnostics Driver for Windows
+- [[CVE-2022-24990]] — TerraMaster / TerraMaster OS
+- [[CVE-2023-0669]] — Fortra / GoAnywhere MFT
+- [[CVE-2022-21587]] — Oracle / E-Business Suite
+- [[CVE-2023-22952]] — SugarCRM / Multiple Products
+- [[CVE-2017-11357]] — Telerik / User Interface (UI) for ASP.NET AJAX
+- [[CVE-2022-47966]] — Zoho / ManageEngine
+- [[CVE-2022-44877]] — CWP / Control Web Panel
+- [[CVE-2022-41080]] — Microsoft / Exchange Server
+- [[CVE-2023-21674]] — Microsoft / Windows
+- [[CVE-2018-5430]] — TIBCO / JasperReports
+- [[CVE-2018-18809]] — TIBCO / JasperReports
+- [[CVE-2022-42856]] — Apple / iOS
+- [[CVE-2022-42475]] — Fortinet / FortiOS
+- [[CVE-2022-44698]] — Microsoft / Defender
+- [[CVE-2022-27518]] — Citrix / Application Delivery Controller (ADC) and Gateway
+- [[CVE-2022-26500]] — Veeam / Backup & Replication
+- [[CVE-2022-26501]] — Veeam / Backup & Replication
+- [[CVE-2022-4262]] — Google / Chromium V8
+- [[CVE-2021-35587]] — Oracle / Fusion Middleware
+- [[CVE-2022-4135]] — Google / Chromium GPU
+- [[CVE-2022-41049]] — Microsoft / Windows
+- [[CVE-2022-41091]] — Microsoft / Windows
+- [[CVE-2022-41073]] — Microsoft / Windows
+- [[CVE-2022-41125]] — Microsoft / Windows
+- [[CVE-2022-41128]] — Microsoft / Windows
+- [[CVE-2021-25337]] — Samsung / Mobile Devices
+- [[CVE-2021-25369]] — Samsung / Mobile Devices
+- [[CVE-2021-25370]] — Samsung / Mobile Devices
+- [[CVE-2022-3723]] — Google / Chromium V8
+- [[CVE-2022-42827]] — Apple / iOS and iPadOS
+- [[CVE-2020-3433]] — Cisco / AnyConnect Secure
+- [[CVE-2020-3153]] — Cisco / AnyConnect Secure
+- [[CVE-2018-19323]] — GIGABYTE / Multiple Products
+- [[CVE-2018-19322]] — GIGABYTE / Multiple Products
+- [[CVE-2018-19321]] — GIGABYTE / Multiple Products
+- [[CVE-2018-19320]] — GIGABYTE / Multiple Products
+- [[CVE-2022-41352]] — Synacor / Zimbra Collaboration Suite (ZCS)
+- [[CVE-2021-3493]] — Linux / Kernel
+- [[CVE-2022-40684]] — Fortinet / Multiple Products
+- [[CVE-2022-41033]] — Microsoft / Windows COM+ Event System Service
+- [[CVE-2022-41082]] — Microsoft / Exchange Server
+- [[CVE-2022-41040]] — Microsoft / Exchange Server
+- [[CVE-2022-36804]] — Atlassian / Bitbucket Server and Data Center
+- [[CVE-2022-3236]] — Sophos / Firewall
+- [[CVE-2022-35405]] — Zoho / ManageEngine
+- [[CVE-2022-40139]] — Trend Micro / Apex One and Apex One as a Service
+- [[CVE-2013-6282]] — Linux / Kernel
+- [[CVE-2013-2597]] — Code Aurora / ACDB Audio Driver
+- [[CVE-2013-2596]] — Linux / Kernel
+- [[CVE-2013-2094]] — Linux / Kernel
+- [[CVE-2010-2568]] — Microsoft / Windows
+- [[CVE-2022-37969]] — Microsoft / Windows
+- [[CVE-2022-32917]] — Apple / iOS, iPadOS, and macOS
+- [[CVE-2022-3075]] — Google / Chromium Mojo
+- [[CVE-2022-27593]] — QNAP / Photo Station
+- [[CVE-2022-26258]] — D-Link / DIR-820L
+- [[CVE-2020-9934]] — Apple / iOS, iPadOS, and macOS
+- [[CVE-2018-7445]] — MikroTik / RouterOS
+- [[CVE-2018-6530]] — D-Link / Multiple Routers
+- [[CVE-2018-2628]] — Oracle / WebLogic Server
+- [[CVE-2018-13374]] — Fortinet / FortiOS and FortiADC
+- [[CVE-2017-5521]] — NETGEAR / Multiple Devices
+- [[CVE-2011-4723]] — D-Link / DIR-300 Router
+- [[CVE-2011-1823]] — Android / Android OS
+- [[CVE-2022-26352]] — dotCMS / dotCMS
+- [[CVE-2022-24706]] — Apache / CouchDB
+- [[CVE-2022-24112]] — Apache / APISIX
+- [[CVE-2022-22963]] — VMware Tanzu / Spring Cloud
+- [[CVE-2022-2294]] — WebRTC / WebRTC
+- [[CVE-2021-39226]] — Grafana Labs / Grafana
+- [[CVE-2021-38406]] — Delta Electronics / DOPSoft 2
+- [[CVE-2021-31010]] — Apple / iOS, macOS, watchOS
+- [[CVE-2020-36193]] — PEAR / Archive_Tar
+- [[CVE-2020-28949]] — PEAR / Archive_Tar
+- [[CVE-2022-0028]] — Palo Alto Networks / PAN-OS
+- [[CVE-2022-22536]] — SAP / Multiple Products
+- [[CVE-2022-32894]] — Apple / iOS and macOS
+- [[CVE-2022-32893]] — Apple / iOS and macOS
+- [[CVE-2022-2856]] — Google / Chromium Intents
+- [[CVE-2022-26923]] — Microsoft / Active Directory
+- [[CVE-2022-21971]] — Microsoft / Windows
+- [[CVE-2017-15944]] — Palo Alto Networks / PAN-OS
+- [[CVE-2022-27925]] — Synacor / Zimbra Collaboration Suite (ZCS)
+- [[CVE-2022-37042]] — Synacor / Zimbra Collaboration Suite (ZCS)
+- [[CVE-2022-34713]] — Microsoft / Windows
+- [[CVE-2022-30333]] — RARLAB / UnRAR
+- [[CVE-2022-27924]] — Synacor / Zimbra Collaboration Suite (ZCS)
+- [[CVE-2022-26138]] — Atlassian / Confluence
+- [[CVE-2022-22047]] — Microsoft / Windows
+- [[CVE-2022-26925]] — Microsoft / Windows
+- [[CVE-2022-29499]] — Mitel / MiVoice Connect
+- [[CVE-2021-30533]] — Google / Chromium PopupBlocker
+- [[CVE-2021-4034]] — Red Hat / Polkit
+- [[CVE-2021-30983]] — Apple / iOS and iPadOS
+- [[CVE-2020-3837]] — Apple / Multiple Products
+- [[CVE-2020-9907]] — Apple / Multiple Products
+- [[CVE-2019-8605]] — Apple / Multiple Products
+- [[CVE-2018-4344]] — Apple / Multiple Products
+- [[CVE-2022-30190]] — Microsoft / Windows
+- [[CVE-2021-38163]] — SAP / NetWeaver
+- [[CVE-2016-2386]] — SAP / NetWeaver
+- [[CVE-2016-2388]] — SAP / NetWeaver
+- [[CVE-2019-7195]] — QNAP / Photo Station
+- [[CVE-2019-7194]] — QNAP / Photo Station
+- [[CVE-2019-7193]] — QNAP / QTS
+- [[CVE-2019-7192]] — QNAP / Photo Station
+- [[CVE-2019-5825]] — Google / Chromium V8
+- [[CVE-2019-15271]] — Cisco / RV Series Routers
+- [[CVE-2018-6065]] — Google / Chromium V8
+- [[CVE-2018-4990]] — Adobe / Acrobat and Reader
+- [[CVE-2018-17480]] — Google / Chromium V8
+- [[CVE-2018-17463]] — Google / Chromium V8
+- [[CVE-2017-6862]] — NETGEAR / Multiple Devices
+- [[CVE-2017-5070]] — Google / Chromium V8
+- [[CVE-2017-5030]] — Google / Chromium V8
+- [[CVE-2016-5198]] — Google / Chromium V8
+- [[CVE-2016-1646]] — Google / Chromium V8
+- [[CVE-2013-1331]] — Microsoft / Office
+- [[CVE-2012-5054]] — Adobe / Flash Player
+- [[CVE-2012-4969]] — Microsoft / Internet Explorer
+- [[CVE-2012-1889]] — Microsoft / XML Core Services
+- [[CVE-2012-0767]] — Adobe / Flash Player
+- [[CVE-2012-0754]] — Adobe / Flash Player
+- [[CVE-2012-0151]] — Microsoft / Windows
+- [[CVE-2011-2462]] — Adobe / Reader and Acrobat
+- [[CVE-2011-0609]] — Adobe / Flash Player
+- [[CVE-2010-2883]] — Adobe / Acrobat and Reader
+- [[CVE-2010-2572]] — Microsoft / PowerPoint
+- [[CVE-2010-1297]] — Adobe / Flash Player
+- [[CVE-2009-4324]] — Adobe / Acrobat and Reader
+- [[CVE-2009-3953]] — Adobe / Acrobat and Reader
+- [[CVE-2009-1862]] — Adobe / Acrobat and Reader, Flash Player
+- [[CVE-2009-0563]] — Microsoft / Office
+- [[CVE-2009-0557]] — Microsoft / Office
+- [[CVE-2008-0655]] — Adobe / Acrobat and Reader
+- [[CVE-2007-5659]] — Adobe / Acrobat and Reader
+- [[CVE-2006-2492]] — Microsoft / Word
+- [[CVE-2022-26134]] — Atlassian / Confluence Server/Data Center
+- [[CVE-2019-3010]] — Oracle / Solaris
+- [[CVE-2016-3393]] — Microsoft / Windows
+- [[CVE-2016-7256]] — Microsoft / Windows
+- [[CVE-2016-1010]] — Adobe / Flash Player and AIR
+- [[CVE-2016-0984]] — Adobe / Flash Player and AIR
+- [[CVE-2016-0034]] — Microsoft / Silverlight
+- [[CVE-2015-0310]] — Adobe / Flash Player
+- [[CVE-2015-0016]] — Microsoft / Windows
+- [[CVE-2015-0071]] — Microsoft / Internet Explorer
+- [[CVE-2015-2360]] — Microsoft / Win32k
+- [[CVE-2015-2425]] — Microsoft / Internet Explorer
+- [[CVE-2015-1769]] — Microsoft / Windows
+- [[CVE-2015-4495]] — Mozilla / Firefox
+- [[CVE-2015-8651]] — Adobe / Flash Player
+- [[CVE-2015-6175]] — Microsoft / Windows
+- [[CVE-2015-1671]] — Microsoft / Windows
+- [[CVE-2014-4148]] — Microsoft / Windows
+- [[CVE-2014-8439]] — Adobe / Flash Player
+- [[CVE-2014-4123]] — Microsoft / Internet Explorer
+- [[CVE-2014-0546]] — Adobe / Reader and Acrobat
+- [[CVE-2014-2817]] — Microsoft / Internet Explorer
+- [[CVE-2014-4077]] — Microsoft / Input Method Editor (IME) Japanese
+- [[CVE-2014-3153]] — Linux / Kernel
+- [[CVE-2013-7331]] — Microsoft / Internet Explorer
+- [[CVE-2013-3993]] — IBM / InfoSphere BigInsights
+- [[CVE-2013-3896]] — Microsoft / Silverlight
+- [[CVE-2013-2423]] — Oracle / Java Runtime Environment (JRE)
+- [[CVE-2013-0431]] — Oracle / Java Runtime Environment (JRE)
+- [[CVE-2013-0422]] — Oracle / Java Runtime Environment (JRE)
+- [[CVE-2013-0074]] — Microsoft / Silverlight
+- [[CVE-2012-1710]] — Oracle / Fusion Middleware
+- [[CVE-2010-1428]] — Red Hat / JBoss
+- [[CVE-2010-0840]] — Oracle / Java Runtime Environment (JRE)
+- [[CVE-2010-0738]] — Red Hat / JBoss
+- [[CVE-2018-8611]] — Microsoft / Windows
+- [[CVE-2018-19953]] — QNAP / Network Attached Storage (NAS)
+- [[CVE-2018-19949]] — QNAP / Network Attached Storage (NAS)
+- [[CVE-2018-19943]] — QNAP / Network Attached Storage (NAS)
+- [[CVE-2017-0147]] — Microsoft / SMBv1 server
+- [[CVE-2017-0022]] — Microsoft / XML Core Services
+- [[CVE-2017-0005]] — Microsoft / Windows
+- [[CVE-2017-0149]] — Microsoft / Internet Explorer
+- [[CVE-2017-0210]] — Microsoft / Internet Explorer
+- [[CVE-2017-8291]] — Artifex / Ghostscript
+- [[CVE-2017-8543]] — Microsoft / Windows
+- [[CVE-2017-18362]] — Kaseya / Virtual System/Server Administrator (VSA)
+- [[CVE-2016-0162]] — Microsoft / Internet Explorer
+- [[CVE-2016-3351]] — Microsoft / Internet Explorer and Edge
+- [[CVE-2016-4655]] — Apple / iOS
+- [[CVE-2016-4656]] — Apple / iOS
+- [[CVE-2016-4657]] — Apple / iOS
+- [[CVE-2016-6366]] — Cisco / Adaptive Security Appliance (ASA)
+- [[CVE-2016-6367]] — Cisco / Adaptive Security Appliance (ASA)
+- [[CVE-2016-3298]] — Microsoft / Internet Explorer
+- [[CVE-2022-20821]] — Cisco / IOS XR
+- [[CVE-2021-1048]] — Android / Kernel
+- [[CVE-2021-0920]] — Android / Kernel
+- [[CVE-2021-30883]] — Apple / Multiple Products
+- [[CVE-2020-1027]] — Microsoft / Windows
+- [[CVE-2020-0638]] — Microsoft / Update Notification Manager
+- [[CVE-2019-7286]] — Apple / Multiple Products
+- [[CVE-2019-7287]] — Apple / iOS
+- [[CVE-2019-0676]] — Microsoft / Internet Explorer
+- [[CVE-2019-5786]] — Google / Chrome Blink
+- [[CVE-2019-0703]] — Microsoft / Windows
+- [[CVE-2019-0880]] — Microsoft / Windows
+- [[CVE-2019-13720]] — Google / Chrome WebAudio
+- [[CVE-2019-11707]] — Mozilla / Firefox and Thunderbird
+- [[CVE-2019-11708]] — Mozilla / Firefox and Thunderbird
+- [[CVE-2019-8720]] — WebKitGTK / WebKitGTK
+- [[CVE-2019-18426]] — Meta Platforms / WhatsApp
+- [[CVE-2019-1385]] — Microsoft / Windows
+- [[CVE-2019-1130]] — Microsoft / Windows
+- [[CVE-2018-5002]] — Adobe / Flash Player
+- [[CVE-2018-8589]] — Microsoft / Win32k
+- [[CVE-2022-30525]] — Zyxel / Multiple Firewalls
+- [[CVE-2022-22947]] — VMware / Spring Cloud Gateway
+- [[CVE-2022-1388]] — F5 / BIG-IP
+- [[CVE-2021-1789]] — Apple / Multiple Products
+- [[CVE-2019-8506]] — Apple / Multiple Products
+- [[CVE-2014-4113]] — Microsoft / Win32k
+- [[CVE-2014-0322]] — Microsoft / Internet Explorer
+- [[CVE-2014-0160]] — OpenSSL / OpenSSL
+- [[CVE-2022-29464]] — WSO2 / Multiple Products
+- [[CVE-2022-26904]] — Microsoft / Windows
+- [[CVE-2022-21919]] — Microsoft / Windows
+- [[CVE-2022-0847]] — Linux / Kernel
+- [[CVE-2021-41357]] — Microsoft / Win32k
+- [[CVE-2021-40450]] — Microsoft / Win32k
+- [[CVE-2019-1003029]] — Jenkins / Script Security Plugin
+- [[CVE-2018-6882]] — Synacor / Zimbra Collaboration Suite (ZCS)
+- [[CVE-2019-3568]] — Meta Platforms / WhatsApp
+- [[CVE-2022-22718]] — Microsoft / Windows
+- [[CVE-2022-22960]] — VMware / Multiple Products
+- [[CVE-2022-1364]] — Google / Chromium V8
+- [[CVE-2019-3929]] — Crestron / Multiple Products
+- [[CVE-2019-16057]] — D-Link / DNS-320 Storage Device
+- [[CVE-2018-7841]] — Schneider Electric / U.motion Builder
+- [[CVE-2016-4523]] — Trihedral / VTScada (formerly VTS)
+- [[CVE-2014-0780]] — InduSoft / Web Studio
+- [[CVE-2010-5330]] — Ubiquiti / AirOS
+- [[CVE-2007-3010]] — Alcatel / OmniPCX Enterprise
+- [[CVE-2022-22954]] — VMware / Workspace ONE Access and Identity Manager
+- [[CVE-2022-24521]] — Microsoft / Windows
+- [[CVE-2018-7602]] — Drupal / Core
+- [[CVE-2018-20753]] — Kaseya / Virtual System/Server Administrator (VSA)
+- [[CVE-2015-5123]] — Adobe / Flash Player
+- [[CVE-2015-5122]] — Adobe / Flash Player
+- [[CVE-2015-3113]] — Adobe / Flash Player
+- [[CVE-2015-2502]] — Microsoft / Internet Explorer
+- [[CVE-2015-0313]] — Adobe / Flash Player
+- [[CVE-2015-0311]] — Adobe / Flash Player
+- [[CVE-2014-9163]] — Adobe / Flash Player
+- [[CVE-2022-23176]] — WatchGuard / Firebox and XTM
+- [[CVE-2021-42287]] — Microsoft / Active Directory
+- [[CVE-2021-42278]] — Microsoft / Active Directory
+- [[CVE-2021-39793]] — Google / Pixel
+- [[CVE-2021-27852]] — Checkbox / Checkbox Survey
+- [[CVE-2021-22600]] — Linux / Kernel
+- [[CVE-2020-2509]] — QNAP / QNAP Network-Attached Storage (NAS)
+- [[CVE-2017-11317]] — Telerik / User Interface (UI) for ASP.NET AJAX
+- [[CVE-2021-3156]] — Sudo / Sudo
+- [[CVE-2021-31166]] — Microsoft / HTTP Protocol Stack
+- [[CVE-2017-0148]] — Microsoft / SMBv1 server
+- [[CVE-2022-22965]] — VMware / Spring Framework
+- [[CVE-2022-22675]] — Apple / macOS
+- [[CVE-2022-22674]] — Apple / macOS
+- [[CVE-2021-45382]] — D-Link / Multiple Routers
+- [[CVE-2022-26871]] — Trend Micro / Apex Central
+- [[CVE-2022-1040]] — Sophos / Firewall
+- [[CVE-2021-34484]] — Microsoft / Windows
+- [[CVE-2021-28799]] — QNAP / Network Attached Storage (NAS)
+- [[CVE-2021-21551]] — Dell / dbutil Driver
+- [[CVE-2018-10562]] — Dasan / Gigabit Passive Optical Network (GPON) Routers
+- [[CVE-2018-10561]] — Dasan / Gigabit Passive Optical Network (GPON) Routers
+- [[CVE-2022-1096]] — Google / Chromium V8
+- [[CVE-2022-0543]] — Redis / Debian-specific Redis Servers
+- [[CVE-2021-38646]] — Microsoft / Office
+- [[CVE-2021-34486]] — Microsoft / Windows
+- [[CVE-2021-26085]] — Atlassian / Confluence Server
+- [[CVE-2021-20028]] — SonicWall / Secure Remote Access (SRA)
+- [[CVE-2019-7483]] — SonicWall / SMA100
+- [[CVE-2018-8440]] — Microsoft / Windows
+- [[CVE-2018-8406]] — Microsoft / DirectX Graphics Kernel (DXGKRNL)
+- [[CVE-2018-8405]] — Microsoft / DirectX Graphics Kernel (DXGKRNL)
+- [[CVE-2017-0213]] — Microsoft / Windows
+- [[CVE-2017-0059]] — Microsoft / Internet Explorer
+- [[CVE-2017-0037]] — Microsoft / Edge and Internet Explorer
+- [[CVE-2016-7201]] — Microsoft / Edge
+- [[CVE-2016-7200]] — Microsoft / Edge
+- [[CVE-2016-0189]] — Microsoft / Internet Explorer
+- [[CVE-2016-0151]] — Microsoft / Client-Server Run-time Subsystem (CSRSS)
+- [[CVE-2016-0040]] — Microsoft / Windows
+- [[CVE-2015-2426]] — Microsoft / Windows
+- [[CVE-2015-2419]] — Microsoft / Internet Explorer
+- [[CVE-2015-1770]] — Microsoft / Office
+- [[CVE-2013-3660]] — Microsoft / Win32k
+- [[CVE-2013-2729]] — Adobe / Reader and Acrobat
+- [[CVE-2013-2551]] — Microsoft / Internet Explorer
+- [[CVE-2013-2465]] — Oracle / Java SE
+- [[CVE-2013-1690]] — Mozilla / Firefox and Thunderbird
+- [[CVE-2012-5076]] — Oracle / Java SE
+- [[CVE-2012-2539]] — Microsoft / Word
+- [[CVE-2012-2034]] — Adobe / Flash Player
+- [[CVE-2012-0518]] — Oracle / Fusion Middleware
+- [[CVE-2011-2005]] — Microsoft / Ancillary Function Driver (afd.sys)
+- [[CVE-2010-4398]] — Microsoft / Windows
+- [[CVE-2022-26318]] — WatchGuard / Firebox and XTM Appliances
+- [[CVE-2022-26143]] — Mitel / MiCollab, MiVoice Business Express
+- [[CVE-2022-21999]] — Microsoft / Windows
+- [[CVE-2021-42237]] — Sitecore / XP
+- [[CVE-2021-22941]] — Citrix / ShareFile
+- [[CVE-2020-9377]] — D-Link / DIR-610 Devices
+- [[CVE-2020-9054]] — Zyxel / Multiple Network-Attached Storage (NAS) Devices
+- [[CVE-2020-7247]] — OpenBSD / OpenSMTPD
+- [[CVE-2020-5410]] — VMware Tanzu / Spring Cloud Configuration (Config) Server
+- [[CVE-2020-25223]] — Sophos / SG UTM
+- [[CVE-2020-2506]] — QNAP Systems / Helpdesk
+- [[CVE-2020-2021]] — Palo Alto Networks / PAN-OS
+- [[CVE-2020-1956]] — Apache / Kylin
+- [[CVE-2020-1631]] — Juniper / Junos OS
+- [[CVE-2019-6340]] — Drupal / Core
+- [[CVE-2019-2616]] — Oracle / BI Publisher (Formerly XML Publisher)
+- [[CVE-2019-16920]] — D-Link / Multiple Routers
+- [[CVE-2019-15107]] — Webmin / Webmin
+- [[CVE-2019-12991]] — Citrix / SD-WAN and NetScaler
+- [[CVE-2019-12989]] — Citrix / SD-WAN and NetScaler
+- [[CVE-2019-11043]] — PHP / FastCGI Process Manager (FPM)
+- [[CVE-2019-10068]] — Kentico / Xperience
+- [[CVE-2019-1003030]] — Jenkins / Matrix Project Plugin
+- [[CVE-2019-0903]] — Microsoft / Graphics Device Interface (GDI)
+- [[CVE-2018-8414]] — Microsoft / Windows
+- [[CVE-2018-8373]] — Microsoft / Internet Explorer Scripting Engine
+- [[CVE-2018-6961]] — VMware / SD-WAN Edge
+- [[CVE-2018-14839]] — LG / N1A1 NAS
+- [[CVE-2018-1273]] — VMware Tanzu / Spring Data Commons
+- [[CVE-2018-11138]] — Quest / KACE System Management Appliance
+- [[CVE-2018-0147]] — Cisco / Secure Access Control System (ACS)
+- [[CVE-2018-0125]] — Cisco / VPN Routers
+- [[CVE-2017-6334]] — NETGEAR / DGN2200 Devices
+- [[CVE-2017-6316]] — Citrix / NetScaler SD-WAN Enterprise, CloudBridge Virtual WAN, and XenMobile Server
+- [[CVE-2017-3881]] — Cisco / IOS and IOS XE
+- [[CVE-2017-12617]] — Apache / Tomcat
+- [[CVE-2017-12615]] — Apache / Tomcat
+- [[CVE-2017-0146]] — Microsoft / Windows
+- [[CVE-2016-7892]] — Adobe / Flash Player
+- [[CVE-2016-4171]] — Adobe / Flash Player
+- [[CVE-2016-1555]] — NETGEAR / Wireless Access Point (WAP) Devices
+- [[CVE-2016-11021]] — D-Link / DCS-930L Devices
+- [[CVE-2016-10174]] — NETGEAR / WNR2000v5 Router
+- [[CVE-2016-0752]] — Rails / Ruby on Rails
+- [[CVE-2015-4068]] — Arcserve / Unified Data Protection (UDP)
+- [[CVE-2015-3035]] — TP-Link / Multiple Archer Devices
+- [[CVE-2015-1427]] — Elastic / Elasticsearch
+- [[CVE-2015-1187]] — D-Link and TRENDnet / Multiple Devices
+- [[CVE-2015-0666]] — Cisco / Prime Data Center Network Manager (DCNM)
+- [[CVE-2014-6332]] — Microsoft / Windows
+- [[CVE-2014-6324]] — Microsoft / Kerberos Key Distribution Center (KDC)
+- [[CVE-2014-6287]] — Rejetto / HTTP File Server (HFS)
+- [[CVE-2014-3120]] — Elastic / Elasticsearch
+- [[CVE-2014-0130]] — Rails / Ruby on Rails
+- [[CVE-2013-5223]] — D-Link / DSL-2760U
+- [[CVE-2013-4810]] — Hewlett Packard (HP) / ProCurve Manager (PCM), PCM+, Identity Driven Manager (IDM), and Application Lifecycle Management
+- [[CVE-2013-2251]] — Apache / Struts
+- [[CVE-2012-1823]] — PHP / PHP
+- [[CVE-2010-4345]] — Exim / Exim
+- [[CVE-2010-4344]] — Exim / Exim
+- [[CVE-2010-3035]] — Cisco / IOS XR
+- [[CVE-2010-2861]] — Adobe / ColdFusion
+- [[CVE-2009-2055]] — Cisco / IOS XR
+- [[CVE-2009-1151]] — phpMyAdmin / phpMyAdmin
+- [[CVE-2009-0927]] — Adobe / Reader and Acrobat
+- [[CVE-2005-2773]] — Hewlett Packard (HP) / OpenView Network Node Manager
+- [[CVE-2020-5135]] — SonicWall / SonicOS
+- [[CVE-2019-1405]] — Microsoft / Windows
+- [[CVE-2019-1322]] — Microsoft / Windows
+- [[CVE-2019-1315]] — Microsoft / Windows
+- [[CVE-2019-1253]] — Microsoft / Windows
+- [[CVE-2019-1132]] — Microsoft / Win32k
+- [[CVE-2019-1129]] — Microsoft / Windows
+- [[CVE-2019-1069]] — Microsoft / Task Scheduler
+- [[CVE-2019-1064]] — Microsoft / Windows
+- [[CVE-2019-0841]] — Microsoft / Windows
+- [[CVE-2019-0543]] — Microsoft / Windows
+- [[CVE-2018-8120]] — Microsoft / Win32k
+- [[CVE-2017-0101]] — Microsoft / Windows
+- [[CVE-2016-3309]] — Microsoft / Windows
+- [[CVE-2015-2546]] — Microsoft / Win32k
+- [[CVE-2022-26486]] — Mozilla / Firefox
+- [[CVE-2022-26485]] — Mozilla / Firefox
+- [[CVE-2021-21973]] — VMware / vCenter Server and Cloud Foundation
+- [[CVE-2020-8218]] — Pulse Secure / Pulse Connect Secure
+- [[CVE-2019-11581]] — Atlassian / Jira Server and Data Center
+- [[CVE-2017-6077]] — NETGEAR / Wireless Router DGN2200
+- [[CVE-2016-6277]] — NETGEAR / Multiple Routers
+- [[CVE-2013-0631]] — Adobe / ColdFusion
+- [[CVE-2013-0629]] — Adobe / ColdFusion
+- [[CVE-2013-0625]] — Adobe / ColdFusion
+- [[CVE-2009-3960]] — Adobe / BlazeDS
+- [[CVE-2022-20708]] — Cisco / Small Business RV160, RV260, RV340, and RV345 Series Routers
+- [[CVE-2022-20703]] — Cisco / Small Business RV160, RV260, RV340, and RV345 Series Routers
+- [[CVE-2022-20701]] — Cisco / Small Business RV160, RV260, RV340, and RV345 Series Routers
+- [[CVE-2022-20700]] — Cisco / Small Business RV160, RV260, RV340, and RV345 Series Routers
+- [[CVE-2022-20699]] — Cisco / Small Business RV160, RV260, RV340, and RV345 Series Routers
+- [[CVE-2021-41379]] — Microsoft / Windows
+- [[CVE-2020-1938]] — Apache / Tomcat
+- [[CVE-2020-11899]] — Treck TCP/IP stack / IPv6
+- [[CVE-2019-16928]] — Exim / Exim Internet Mailer
+- [[CVE-2019-1652]] — Cisco / Small Business RV320 and RV325 Dual Gigabit WAN VPN Routers
+- [[CVE-2019-1297]] — Microsoft / Excel
+- [[CVE-2018-8581]] — Microsoft / Exchange Server
+- [[CVE-2018-8298]] — ChakraCore / ChakraCore scripting engine
+- [[CVE-2018-0180]] — Cisco / IOS Software
+- [[CVE-2018-0179]] — Cisco / IOS Software
+- [[CVE-2018-0175]] — Cisco / IOS, XR, and XE Software
+- [[CVE-2018-0174]] — Cisco / IOS XE Software
+- [[CVE-2018-0173]] — Cisco / IOS and IOS XE Software
+- [[CVE-2018-0172]] — Cisco / IOS and IOS XE Software
+- [[CVE-2018-0167]] — Cisco / IOS, XR, and XE Software
+- [[CVE-2018-0161]] — Cisco / IOS Software
+- [[CVE-2018-0159]] — Cisco / IOS Software and Cisco IOS XE Software
+- [[CVE-2018-0158]] — Cisco / IOS Software and Cisco IOS XE Software
+- [[CVE-2018-0156]] — Cisco / IOS Software and Cisco IOS XE Software
+- [[CVE-2018-0155]] — Cisco / Catalyst 4500 Series Switches and Cisco Catalyst 4500-X Series Switches
+- [[CVE-2018-0154]] — Cisco / IOS Software
+- [[CVE-2018-0151]] — Cisco / IOS and IOS XE Software
+- [[CVE-2017-8540]] — Microsoft / Malware Protection Engine
+- [[CVE-2017-6744]] — Cisco / IOS software
+- [[CVE-2017-6743]] — Cisco / IOS and IOS XE Software
+- [[CVE-2017-6740]] — Cisco / IOS and IOS XE Software
+- [[CVE-2017-6739]] — Cisco / IOS and IOS XE Software
+- [[CVE-2017-6738]] — Cisco / IOS and IOS XE Software
+- [[CVE-2017-6737]] — Cisco / IOS and IOS XE Software
+- [[CVE-2017-6736]] — Cisco / IOS and IOS XE Software
+- [[CVE-2017-6663]] — Cisco / IOS and IOS XE Software
+- [[CVE-2017-6627]] — Cisco / IOS and IOS XE Software
+- [[CVE-2017-12319]] — Cisco / IOS XE Software
+- [[CVE-2017-12240]] — Cisco / IOS and IOS XE Software
+- [[CVE-2017-12238]] — Cisco / Catalyst 6800 Series Switches
+- [[CVE-2017-12237]] — Cisco / IOS and IOS XE Software
+- [[CVE-2017-12235]] — Cisco / IOS software
+- [[CVE-2017-12234]] — Cisco / IOS software
+- [[CVE-2017-12233]] — Cisco / IOS software
+- [[CVE-2017-12232]] — Cisco / IOS software
+- [[CVE-2017-12231]] — Cisco / IOS software
+- [[CVE-2017-11826]] — Microsoft / Office
+- [[CVE-2017-11292]] — Adobe / Flash Player
+- [[CVE-2017-0261]] — Microsoft / Office
+- [[CVE-2017-0001]] — Microsoft / Graphics Device Interface (GDI)
+- [[CVE-2016-8562]] — Siemens / SIMATIC CP
+- [[CVE-2016-7855]] — Adobe / Flash Player
+- [[CVE-2016-7262]] — Microsoft / Excel
+- [[CVE-2016-7193]] — Microsoft / Office
+- [[CVE-2016-5195]] — Linux / Kernel
+- [[CVE-2016-4117]] — Adobe / Flash Player
+- [[CVE-2016-1019]] — Adobe / Flash Player
+- [[CVE-2016-0099]] — Microsoft / Windows
+- [[CVE-2015-7645]] — Adobe / Flash Player
+- [[CVE-2015-5119]] — Adobe / Flash Player
+- [[CVE-2015-4902]] — Oracle / Java SE
+- [[CVE-2015-3043]] — Adobe / Flash Player
+- [[CVE-2015-2590]] — Oracle / Java SE
+- [[CVE-2015-2545]] — Microsoft / Office
+- [[CVE-2015-2424]] — Microsoft / PowerPoint
+- [[CVE-2015-2387]] — Microsoft / ATM Font Driver
+- [[CVE-2015-1701]] — Microsoft / Win32k
+- [[CVE-2015-1642]] — Microsoft / Office
+- [[CVE-2014-4114]] — Microsoft / Windows
+- [[CVE-2014-0496]] — Adobe / Reader and Acrobat
+- [[CVE-2013-5065]] — Microsoft / Windows
+- [[CVE-2013-3897]] — Microsoft / Internet Explorer
+- [[CVE-2013-3346]] — Adobe / Reader and Acrobat
+- [[CVE-2013-1675]] — Mozilla / Firefox
+- [[CVE-2013-1347]] — Microsoft / Internet Explorer
+- [[CVE-2013-0641]] — Adobe / Reader
+- [[CVE-2013-0640]] — Adobe / Reader and Acrobat
+- [[CVE-2013-0632]] — Adobe / ColdFusion
+- [[CVE-2012-4681]] — Oracle / Java SE
+- [[CVE-2012-1856]] — Microsoft / Office
+- [[CVE-2012-1723]] — Oracle / Java SE
+- [[CVE-2012-1535]] — Adobe / Flash Player
+- [[CVE-2012-0507]] — Oracle / Java SE
+- [[CVE-2011-3544]] — Oracle / Java SE JDK and JRE
+- [[CVE-2011-1889]] — Microsoft / Forefront Threat Management Gateway (TMG)
+- [[CVE-2011-0611]] — Adobe / Flash Player
+- [[CVE-2010-3333]] — Microsoft / Office
+- [[CVE-2010-0232]] — Microsoft / Windows
+- [[CVE-2010-0188]] — Adobe / Reader and Acrobat
+- [[CVE-2009-3129]] — Microsoft / Excel
+- [[CVE-2009-1123]] — Microsoft / Windows
+- [[CVE-2008-3431]] — Oracle / VirtualBox
+- [[CVE-2008-2992]] — Adobe / Acrobat and Reader
+- [[CVE-2004-0210]] — Microsoft / Windows
+- [[CVE-2002-0367]] — Microsoft / Windows
+- [[CVE-2022-24682]] — Synacor / Zimbra Collaborate Suite (ZCS)
+- [[CVE-2017-8570]] — Microsoft / Office
+- [[CVE-2017-0222]] — Microsoft / Internet Explorer
+- [[CVE-2014-6352]] — Microsoft / Windows
+- [[CVE-2022-23131]] — Zabbix / Frontend
+- [[CVE-2022-23134]] — Zabbix / Frontend
+- [[CVE-2022-24086]] — Adobe / Commerce and Magento Open Source
+- [[CVE-2022-0609]] — Google / Chromium Animation
+- [[CVE-2019-0752]] — Microsoft / Internet Explorer
+- [[CVE-2018-8174]] — Microsoft / Windows
+- [[CVE-2018-20250]] — RARLAB / WinRAR
+- [[CVE-2018-15982]] — Adobe / Flash Player
+- [[CVE-2017-9841]] — PHPUnit / PHPUnit
+- [[CVE-2014-1761]] — Microsoft / Word
+- [[CVE-2013-3906]] — Microsoft / Graphics Component
+- [[CVE-2022-22620]] — Apple / iOS, iPadOS, and macOS
+- [[CVE-2021-36934]] — Microsoft / Windows
+- [[CVE-2020-0796]] — Microsoft / SMBv3
+- [[CVE-2018-1000861]] — Jenkins / Jenkins Stapler Web Framework
+- [[CVE-2017-9791]] — Apache / Struts 1
+- [[CVE-2017-8464]] — Microsoft / Windows
+- [[CVE-2017-10271]] — Oracle / WebLogic Server
+- [[CVE-2017-0263]] — Microsoft / Win32k
+- [[CVE-2017-0262]] — Microsoft / Office
+- [[CVE-2017-0145]] — Microsoft / SMBv1
+- [[CVE-2017-0144]] — Microsoft / SMBv1
+- [[CVE-2016-3088]] — Apache / ActiveMQ
+- [[CVE-2015-2051]] — D-Link / DIR-645 Router
+- [[CVE-2015-1635]] — Microsoft / HTTP.sys
+- [[CVE-2015-1130]] — Apple / OS X
+- [[CVE-2014-4404]] — Apple / OS X
+- [[CVE-2022-21882]] — Microsoft / Win32k
+- [[CVE-2022-22587]] — Apple / iOS and macOS
+- [[CVE-2021-20038]] — SonicWall / SMA 100 Appliances
+- [[CVE-2020-5722]] — Grandstream / UCM6200
+- [[CVE-2020-0787]] — Microsoft / Windows
+- [[CVE-2017-5689]] — Intel / Active Management Technology (AMT), Small Business Technology (SBT), and Standard Manageability
+- [[CVE-2014-1776]] — Microsoft / Internet Explorer
+- [[CVE-2014-6271]] — GNU / Bourne-Again Shell (Bash)
+- [[CVE-2014-7169]] — GNU / Bourne-Again Shell (Bash)
+- [[CVE-2006-1547]] — Apache / Struts 1
+- [[CVE-2012-0391]] — Apache / Struts 2
+- [[CVE-2018-8453]] — Microsoft / Win32k
+- [[CVE-2021-35247]] — SolarWinds / Serv-U
+- [[CVE-2021-32648]] — October CMS / October CMS
+- [[CVE-2021-25296]] — Nagios / Nagios XI
+- [[CVE-2021-25297]] — Nagios / Nagios XI
+- [[CVE-2021-25298]] — Nagios / Nagios XI
+- [[CVE-2021-40870]] — Aviatrix / Aviatrix Controller
+- [[CVE-2021-33766]] — Microsoft / Exchange Server
+- [[CVE-2021-21975]] — VMware / vRealize Operations Manager API
+- [[CVE-2021-21315]] — Npm package / System Information Library for Node.JS
+- [[CVE-2021-22991]] — F5 / BIG-IP Traffic Management Microkernel
+- [[CVE-2020-14864]] — Oracle / Intelligence Enterprise Edition
+- [[CVE-2020-13671]] — Drupal / Drupal core
+- [[CVE-2020-11978]] — Apache / Airflow
+- [[CVE-2020-13927]] — Apache / Airflow's Experimental API
+- [[CVE-2021-22017]] — VMware / vCenter Server
+- [[CVE-2021-36260]] — Hikvision / Security cameras web server
+- [[CVE-2020-6572]] — Google / Chrome Media
+- [[CVE-2019-1458]] — Microsoft / Win32k
+- [[CVE-2013-3900]] — Microsoft / WinVerifyTrust function
+- [[CVE-2019-2725]] — Oracle / WebLogic Server
+- [[CVE-2019-9670]] — Synacor / Zimbra Collaboration Suite (ZCS)
+- [[CVE-2018-13382]] — Fortinet / FortiOS and FortiProxy
+- [[CVE-2018-13383]] — Fortinet / FortiOS and FortiProxy
+- [[CVE-2019-1579]] — Palo Alto Networks / PAN-OS
+- [[CVE-2019-10149]] — Exim / Mail Transfer Agent (MTA)
+- [[CVE-2015-7450]] — IBM / WebSphere Application Server and Server Hypervisor Edition
+- [[CVE-2017-1000486]] — Primetek / Primefaces Application
+- [[CVE-2019-7609]] — Elastic / Kibana
+- [[CVE-2021-27860]] — FatPipe / WARP, IPVPN, and MPVPN software
+- [[CVE-2021-43890]] — Microsoft / Windows
+- [[CVE-2021-4102]] — Google / Chromium V8
+- [[CVE-2021-44515]] — Zoho / Desktop Central
+- [[CVE-2019-13272]] — Linux / Kernel
+- [[CVE-2021-35394]] — Realtek / Jungle Software Development Kit (SDK)
+- [[CVE-2019-7238]] — Sonatype / Nexus Repository Manager
+- [[CVE-2019-0193]] — Apache / Solr
+- [[CVE-2021-44168]] — Fortinet / FortiOS
+- [[CVE-2017-17562]] — Embedthis / GoAhead
+- [[CVE-2017-12149]] — Red Hat / JBoss Application Server
+- [[CVE-2010-1871]] — Red Hat / JBoss Seam 2
+- [[CVE-2020-17463]] — Fuel CMS / Fuel CMS
+- [[CVE-2020-8816]] — Pi-hole / AdminLTE
+- [[CVE-2019-10758]] — MongoDB / mongo-express
+- [[CVE-2021-44228]] — Apache / Log4j2
+- [[CVE-2020-11261]] — Qualcomm / Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables
+- [[CVE-2018-14847]] — MikroTik / RouterOS
+- [[CVE-2021-37415]] — Zoho / ManageEngine ServiceDesk Plus (SDP)
+- [[CVE-2021-40438]] — Apache / Apache
+- [[CVE-2021-44077]] — Zoho / ManageEngine ServiceDesk Plus (SDP) / SupportCenter Plus
+- [[CVE-2021-22204]] — Perl / Exiftool
+- [[CVE-2021-40449]] — Microsoft / Windows
+- [[CVE-2021-42321]] — Microsoft / Exchange
+- [[CVE-2021-42292]] — Microsoft / Office
+- [[CVE-2021-27104]] — Accellion / FTA
+- [[CVE-2021-27102]] — Accellion / FTA
+- [[CVE-2021-27101]] — Accellion / FTA
+- [[CVE-2021-27103]] — Accellion / FTA
+- [[CVE-2021-21017]] — Adobe / Acrobat and Reader
+- [[CVE-2021-28550]] — Adobe / Acrobat and Reader
+- [[CVE-2018-4939]] — Adobe / ColdFusion
+- [[CVE-2018-15961]] — Adobe / ColdFusion
+- [[CVE-2018-4878]] — Adobe / Flash Player
+- [[CVE-2020-5735]] — Amcrest / Cameras and Network Video Recorder (NVR)
+- [[CVE-2019-2215]] — Android / Android Kernel
+- [[CVE-2020-0041]] — Android / Android Kernel
+- [[CVE-2020-0069]] — MediaTek / Multiple Chipsets
+- [[CVE-2017-9805]] — Apache / Struts
+- [[CVE-2021-42013]] — Apache / HTTP Server
+- [[CVE-2021-41773]] — Apache / HTTP Server
+- [[CVE-2019-0211]] — Apache / HTTP Server
+- [[CVE-2016-4437]] — Apache / Shiro
+- [[CVE-2019-17558]] — Apache / Solr
+- [[CVE-2020-17530]] — Apache / Struts
+- [[CVE-2017-5638]] — Apache / Struts
+- [[CVE-2018-11776]] — Apache / Struts
+- [[CVE-2021-30858]] — Apple / iOS, iPadOS, and macOS
+- [[CVE-2019-6223]] — Apple / iOS and macOS
+- [[CVE-2021-30860]] — Apple / Multiple Products
+- [[CVE-2020-27930]] — Apple / Multiple Products
+- [[CVE-2021-30807]] — Apple / Multiple Products
+- [[CVE-2020-27950]] — Apple / Multiple Products
+- [[CVE-2020-27932]] — Apple / Multiple Products
+- [[CVE-2020-9818]] — Apple / iOS, iPadOS, and watchOS
+- [[CVE-2020-9819]] — Apple / iOS, iPadOS, and watchOS
+- [[CVE-2021-30762]] — Apple / iOS
+- [[CVE-2021-1782]] — Apple / Multiple Products
+- [[CVE-2021-1870]] — Apple / iOS, iPadOS, and macOS
+- [[CVE-2021-1871]] — Apple / iOS, iPadOS, and macOS
+- [[CVE-2021-1879]] — Apple / iOS, iPadOS, and watchOS
+- [[CVE-2021-30661]] — Apple / Multiple Products
+- [[CVE-2021-30666]] — Apple / iOS
+- [[CVE-2021-30713]] — Apple / macOS
+- [[CVE-2021-30657]] — Apple / macOS
+- [[CVE-2021-30665]] — Apple / Multiple Products
+- [[CVE-2021-30663]] — Apple / Multiple Products
+- [[CVE-2021-30761]] — Apple / iOS
+- [[CVE-2021-30869]] — Apple / iOS, iPadOS, and macOS
+- [[CVE-2020-9859]] — Apple / Multiple Products
+- [[CVE-2021-20090]] — Arcadyan / Buffalo Firmware
+- [[CVE-2021-27562]] — Arm / Trusted Firmware
+- [[CVE-2021-28664]] — Arm / Mali Graphics Processing Unit (GPU)
+- [[CVE-2021-28663]] — Arm / Mali Graphics Processing Unit (GPU)
+- [[CVE-2019-3398]] — Atlassian / Confluence Server and Data Center
+- [[CVE-2021-26084]] — Atlassian / Confluence Server and Data Center
+- [[CVE-2019-11580]] — Atlassian / Crowd and Crowd Data Center
+- [[CVE-2019-3396]] — Atlassian / Confluence Server and Data Server
+- [[CVE-2021-42258]] — BQE / BillQuick Web Suite
+- [[CVE-2020-3452]] — Cisco / Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD)
+- [[CVE-2020-3580]] — Cisco / Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD)
+- [[CVE-2021-1497]] — Cisco / HyperFlex HX
+- [[CVE-2021-1498]] — Cisco / HyperFlex HX
+- [[CVE-2018-0171]] — Cisco / IOS and IOS XE
+- [[CVE-2020-3118]] — Cisco / IOS XR
+- [[CVE-2020-3566]] — Cisco / IOS XR
+- [[CVE-2020-3569]] — Cisco / IOS XR
+- [[CVE-2020-3161]] — Cisco / Cisco IP Phones
+- [[CVE-2019-1653]] — Cisco / Small Business RV320 and RV325 Routers
+- [[CVE-2018-0296]] — Cisco / Adaptive Security Appliance (ASA)
+- [[CVE-2019-13608]] — Citrix / StoreFront Server
+- [[CVE-2020-8193]] — Citrix / Application Delivery Controller (ADC), Gateway, and SD-WAN WANOP Appliance
+- [[CVE-2020-8195]] — Citrix / Application Delivery Controller (ADC), Gateway, and SD-WAN WANOP Appliance
+- [[CVE-2020-8196]] — Citrix / Application Delivery Controller (ADC), Gateway, and SD-WAN WANOP Appliance
+- [[CVE-2019-19781]] — Citrix / Application Delivery Controller (ADC), Gateway, and SD-WAN WANOP Appliance
+- [[CVE-2019-11634]] — Citrix / Workspace Application and Receiver for Windows
+- [[CVE-2020-29557]] — D-Link / DIR-825 R1 Devices
+- [[CVE-2020-25506]] — D-Link / DNS-320 Device
+- [[CVE-2018-15811]] — DotNetNuke (DNN) / DotNetNuke (DNN)
+- [[CVE-2018-18325]] — DotNetNuke (DNN) / DotNetNuke (DNN)
+- [[CVE-2017-9822]] — DotNetNuke (DNN) / DotNetNuke (DNN)
+- [[CVE-2019-15752]] — Docker / Desktop Community Edition
+- [[CVE-2020-8515]] — DrayTek / Multiple Vigor Routers
+- [[CVE-2018-7600]] — Drupal / Drupal Core
+- [[CVE-2021-22205]] — GitLab / Community and Enterprise Editions
+- [[CVE-2018-6789]] — Exim / Exim
+- [[CVE-2020-8657]] — EyesOfNetwork / EyesOfNetwork
+- [[CVE-2020-8655]] — EyesOfNetwork / EyesOfNetwork
+- [[CVE-2020-5902]] — F5 / BIG-IP
+- [[CVE-2021-22986]] — F5 / BIG-IP and BIG-IQ Centralized Management
+- [[CVE-2021-35464]] — ForgeRock / Access Management (AM)
+- [[CVE-2019-5591]] — Fortinet / FortiOS
+- [[CVE-2020-12812]] — Fortinet / FortiOS
+- [[CVE-2018-13379]] — Fortinet / FortiOS
+- [[CVE-2020-16010]] — Google / Chrome for Android UI
+- [[CVE-2020-15999]] — Google / Chrome FreeType
+- [[CVE-2021-21166]] — Google / Chromium
+- [[CVE-2020-16017]] — Google / Chrome
+- [[CVE-2021-37976]] — Google / Chromium
+- [[CVE-2020-16009]] — Google / Chromium V8
+- [[CVE-2021-30632]] — Google / Chromium V8
+- [[CVE-2020-16013]] — Google / Chromium V8
+- [[CVE-2021-30633]] — Google / Chromium Indexed DB API
+- [[CVE-2021-21148]] — Google / Chromium V8
+- [[CVE-2021-37973]] — Google / Chromium Portals
+- [[CVE-2021-30551]] — Google / Chromium V8
+- [[CVE-2021-37975]] — Google / Chromium V8
+- [[CVE-2020-6418]] — Google / Chromium V8
+- [[CVE-2021-30554]] — Google / Chromium WebGL
+- [[CVE-2021-21206]] — Google / Chromium Blink
+- [[CVE-2021-38000]] — Google / Chromium Intents
+- [[CVE-2021-38003]] — Google / Chromium V8
+- [[CVE-2021-21224]] — Google / Chromium V8
+- [[CVE-2021-21193]] — Google / Chromium Blink
+- [[CVE-2021-21220]] — Google / Chromium V8
+- [[CVE-2021-30563]] — Google / Chromium V8
+- [[CVE-2020-4430]] — IBM / Data Risk Manager
+- [[CVE-2020-4427]] — IBM / Data Risk Manager
+- [[CVE-2020-4428]] — IBM / Data Risk Manager
+- [[CVE-2019-4716]] — IBM / Planning Analytics
+- [[CVE-2016-3715]] — ImageMagick / ImageMagick
+- [[CVE-2016-3718]] — ImageMagick / ImageMagick
+- [[CVE-2020-15505]] — Ivanti / MobileIron Multiple Products
+- [[CVE-2021-30116]] — Kaseya / Virtual System/Server Administrator (VSA)
+- [[CVE-2020-7961]] — Liferay / Liferay Portal
+- [[CVE-2021-23874]] — McAfee / McAfee Total Protection (MTP)
+- [[CVE-2021-22506]] — Micro Focus / Micro Focus Access Manager
+- [[CVE-2021-22502]] — Micro Focus / Operation Bridge Reporter (OBR)
+- [[CVE-2014-1812]] — Microsoft / Windows
+- [[CVE-2021-38647]] — Microsoft / Open Management Infrastructure (OMI)
+- [[CVE-2016-0167]] — Microsoft / Win32k
+- [[CVE-2020-0878]] — Microsoft / Edge and Internet Explorer
+- [[CVE-2021-31955]] — Microsoft / Windows
+- [[CVE-2021-1647]] — Microsoft / Defender
+- [[CVE-2021-33739]] — Microsoft / Windows
+- [[CVE-2016-0185]] — Microsoft / Windows
+- [[CVE-2020-0683]] — Microsoft / Windows
+- [[CVE-2020-17087]] — Microsoft / Windows
+- [[CVE-2021-33742]] — Microsoft / Windows
+- [[CVE-2021-31199]] — Microsoft / Enhanced Cryptographic Provider
+- [[CVE-2021-33771]] — Microsoft / Windows
+- [[CVE-2021-31956]] — Microsoft / Windows
+- [[CVE-2021-31201]] — Microsoft / Enhanced Cryptographic Provider
+- [[CVE-2021-31979]] — Microsoft / Windows
+- [[CVE-2020-0938]] — Microsoft / Windows
+- [[CVE-2020-17144]] — Microsoft / Exchange Server
+- [[CVE-2020-0986]] — Microsoft / Windows
+- [[CVE-2020-1020]] — Microsoft / Windows
+- [[CVE-2021-38645]] — Microsoft / Open Management Infrastructure (OMI)
+- [[CVE-2021-34523]] — Microsoft / Exchange Server
+- [[CVE-2017-7269]] — Microsoft / Internet Information Services (IIS)
+- [[CVE-2021-36948]] — Microsoft / Windows
+- [[CVE-2021-38649]] — Microsoft / Open Management Infrastructure (OMI)
+- [[CVE-2020-0688]] — Microsoft / Exchange Server
+- [[CVE-2017-0143]] — Microsoft / Windows
+- [[CVE-2016-7255]] — Microsoft / Win32k
+- [[CVE-2019-0708]] — Microsoft / Remote Desktop Services
+- [[CVE-2021-34473]] — Microsoft / Exchange Server
+- [[CVE-2020-1464]] — Microsoft / Windows
+- [[CVE-2021-1732]] — Microsoft / Win32k
+- [[CVE-2021-34527]] — Microsoft / Windows
+- [[CVE-2021-31207]] — Microsoft / Exchange Server
+- [[CVE-2019-0803]] — Microsoft / Win32k
+- [[CVE-2020-1040]] — Microsoft / Hyper-V RemoteFX
+- [[CVE-2021-28310]] — Microsoft / Win32k
+- [[CVE-2020-1350]] — Microsoft / Windows
+- [[CVE-2021-26411]] — Microsoft / Internet Explorer
+- [[CVE-2019-0859]] — Microsoft / Win32k
+- [[CVE-2021-40444]] — Microsoft / MSHTML
+- [[CVE-2017-8759]] — Microsoft / .NET Framework
+- [[CVE-2018-8653]] — Microsoft / Internet Explorer
+- [[CVE-2019-0797]] — Microsoft / Win32k
+- [[CVE-2021-36942]] — Microsoft / Windows
+- [[CVE-2019-1215]] — Microsoft / Windows
+- [[CVE-2018-0798]] — Microsoft / Office
+- [[CVE-2018-0802]] — Microsoft / Office
+- [[CVE-2012-0158]] — Microsoft / MSCOMCTL.OCX
+- [[CVE-2015-1641]] — Microsoft / Office
+- [[CVE-2021-27085]] — Microsoft / Internet Explorer
+- [[CVE-2019-0541]] — Microsoft / MSHTML
+- [[CVE-2017-11882]] — Microsoft / Office
+- [[CVE-2020-0674]] — Microsoft / Internet Explorer
+- [[CVE-2021-27059]] — Microsoft / Office
+- [[CVE-2019-1367]] — Microsoft / Internet Explorer
+- [[CVE-2017-0199]] — Microsoft / Office and WordPad
+- [[CVE-2020-1380]] — Microsoft / Internet Explorer
+- [[CVE-2019-1429]] — Microsoft / Internet Explorer
+- [[CVE-2017-11774]] — Microsoft / Office
+- [[CVE-2020-0968]] — Microsoft / Internet Explorer
+- [[CVE-2020-1472]] — Microsoft / Netlogon
+- [[CVE-2021-26855]] — Microsoft / Exchange Server
+- [[CVE-2021-26858]] — Microsoft / Exchange Server
+- [[CVE-2021-27065]] — Microsoft / Exchange Server
+- [[CVE-2020-1054]] — Microsoft / Win32k
+- [[CVE-2021-1675]] — Microsoft / Windows
+- [[CVE-2021-34448]] — Microsoft / Windows
+- [[CVE-2020-0601]] — Microsoft / Windows
+- [[CVE-2019-0604]] — Microsoft / SharePoint
+- [[CVE-2020-0646]] — Microsoft / .NET Framework
+- [[CVE-2019-0808]] — Microsoft / Win32k
+- [[CVE-2021-26857]] — Microsoft / Exchange Server
+- [[CVE-2020-1147]] — Microsoft / .NET Framework, SharePoint, Visual Studio
+- [[CVE-2019-1214]] — Microsoft / Windows
+- [[CVE-2016-3235]] — Microsoft / Office
+- [[CVE-2019-0863]] — Microsoft / Windows
+- [[CVE-2021-36955]] — Microsoft / Windows
+- [[CVE-2021-38648]] — Microsoft / Open Management Infrastructure (OMI)
+- [[CVE-2020-6819]] — Mozilla / Firefox and Thunderbird
+- [[CVE-2020-6820]] — Mozilla / Firefox and Thunderbird
+- [[CVE-2019-17026]] — Mozilla / Firefox and Thunderbird
+- [[CVE-2019-15949]] — Nagios / Nagios XI
+- [[CVE-2020-26919]] — NETGEAR / JGS516PE Devices
+- [[CVE-2019-19356]] — Netis / WF2419 Devices
+- [[CVE-2020-2555]] — Oracle / Multiple Products
+- [[CVE-2012-3152]] — Oracle / Fusion Middleware
+- [[CVE-2020-14871]] — Oracle / Solaris and Zettabyte File System (ZFS)
+- [[CVE-2015-4852]] — Oracle / WebLogic Server
+- [[CVE-2020-14750]] — Oracle / WebLogic Server
+- [[CVE-2020-14882]] — Oracle / WebLogic Server
+- [[CVE-2020-14883]] — Oracle / WebLogic Server
+- [[CVE-2020-8644]] — PlaySMS / PlaySMS
+- [[CVE-2019-18935]] — Progress / Telerik UI for ASP.NET AJAX
+- [[CVE-2021-22893]] — Ivanti / Pulse Connect Secure
+- [[CVE-2020-8243]] — Ivanti / Pulse Connect Secure
+- [[CVE-2021-22900]] — Ivanti / Pulse Connect Secure
+- [[CVE-2021-22894]] — Ivanti / Pulse Connect Secure
+- [[CVE-2020-8260]] — Ivanti / Pulse Connect Secure
+- [[CVE-2021-22899]] — Ivanti / Pulse Connect Secure
+- [[CVE-2019-11510]] — Ivanti / Pulse Connect Secure
+- [[CVE-2019-11539]] — Ivanti / Pulse Connect Secure and Pulse Policy Secure
+- [[CVE-2021-1906]] — Qualcomm / Multiple Chipsets
+- [[CVE-2021-1905]] — Qualcomm / Multiple Chipsets
+- [[CVE-2020-10221]] — rConfig / rConfig
+- [[CVE-2021-35395]] — Realtek / AP-Router SDK
+- [[CVE-2017-16651]] — Roundcube / Roundcube Webmail
+- [[CVE-2020-11652]] — SaltStack / Salt
+- [[CVE-2020-11651]] — SaltStack / Salt
+- [[CVE-2020-16846]] — SaltStack / Salt
+- [[CVE-2018-2380]] — SAP / Customer Relationship Management (CRM)
+- [[CVE-2010-5326]] — SAP / NetWeaver
+- [[CVE-2016-9563]] — SAP / NetWeaver
+- [[CVE-2020-6287]] — SAP / NetWeaver
+- [[CVE-2020-6207]] — SAP / Solution Manager
+- [[CVE-2016-3976]] — SAP / NetWeaver
+- [[CVE-2019-16256]] — SIMalliance / Toolbox Browser
+- [[CVE-2020-10148]] — SolarWinds / Orion
+- [[CVE-2021-35211]] — SolarWinds / Serv-U
+- [[CVE-2016-3643]] — SolarWinds / Virtualization Manager
+- [[CVE-2020-10199]] — Sonatype / Nexus Repository
+- [[CVE-2021-20021]] — SonicWall / SonicWall Email Security
+- [[CVE-2019-7481]] — SonicWall / SMA100
+- [[CVE-2021-20022]] — SonicWall / SonicWall Email Security
+- [[CVE-2021-20023]] — SonicWall / SonicWall Email Security
+- [[CVE-2021-20016]] — SonicWall / SSLVPN SMA100
+- [[CVE-2020-12271]] — Sophos / SFOS
+- [[CVE-2020-10181]] — Sumavision / Enhanced Multimedia Router (EMR)
+- [[CVE-2017-6327]] — Symantec / Symantec Messaging Gateway
+- [[CVE-2019-18988]] — TeamViewer / Desktop
+- [[CVE-2017-9248]] — Progress / ASP.NET AJAX and Sitefinity
+- [[CVE-2021-31755]] — Tenda / AC11 Router
+- [[CVE-2020-10987]] — Tenda / AC1900 Router AC15 Model
+- [[CVE-2018-14558]] — Tenda / AC7, AC9, and AC10 Routers
+- [[CVE-2018-20062]] — ThinkPHP / noneCms
+- [[CVE-2019-9082]] — ThinkPHP / ThinkPHP
+- [[CVE-2019-18187]] — Trend Micro / OfficeScan
+- [[CVE-2020-8467]] — Trend Micro / Apex One and OfficeScan
+- [[CVE-2020-8468]] — Trend Micro / Apex One, OfficeScan and Worry-Free Business Security Agents
+- [[CVE-2020-24557]] — Trend Micro / Apex One, OfficeScan, and Worry-Free Business Security
+- [[CVE-2020-8599]] — Trend Micro / Apex One and OfficeScan
+- [[CVE-2021-36742]] — Trend Micro / Apex One, Apex One as a Service, and Worry-Free Business Security
+- [[CVE-2021-36741]] — Trend Micro / Apex One, Apex One as a Service, and Worry-Free Business Security
+- [[CVE-2019-20085]] — TVT / NVMS-1000
+- [[CVE-2020-5849]] — Unraid / Unraid
+- [[CVE-2020-5847]] — Unraid / Unraid
+- [[CVE-2019-16759]] — vBulletin / vBulletin
+- [[CVE-2020-17496]] — vBulletin / vBulletin
+- [[CVE-2019-5544]] — VMware / VMware ESXi and Horizon DaaS
+- [[CVE-2020-3992]] — VMware / ESXi
+- [[CVE-2020-3950]] — VMware / Multiple Products
+- [[CVE-2021-22005]] — VMware / vCenter Server
+- [[CVE-2020-3952]] — VMware / vCenter Server
+- [[CVE-2021-21972]] — VMware / vCenter Server
+- [[CVE-2021-21985]] — VMware / vCenter Server
+- [[CVE-2020-4006]] — VMware / Multiple Products
+- [[CVE-2020-25213]] — WordPress / File Manager Plugin
+- [[CVE-2020-11738]] — WordPress / Snap Creek Duplicator Plugin
+- [[CVE-2019-9978]] — WordPress / Social Warfare Plugin
+- [[CVE-2021-27561]] — Yealink / Device Management
+- [[CVE-2021-40539]] — Zoho / ManageEngine
+- [[CVE-2020-10189]] — Zoho / ManageEngine
+- [[CVE-2019-8394]] — Zoho / ManageEngine
+- [[CVE-2020-29583]] — Zyxel / Multiple Products
